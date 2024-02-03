@@ -8,5 +8,6 @@
   "table-editor-obsidian",
   "obsidian-admonition",
   "obsidian-icon-folder",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-plugin-toc"
 ]
