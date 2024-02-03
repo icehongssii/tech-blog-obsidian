@@ -9,16 +9,16 @@ tags:
 
 ## 👯‍♂️ intro & tl;dr
 
-what I lear
+what I learned 
 
 --- 
 
 ## 👯‍♂️ Main
 
 
-### 👯‍♂️ Subheading
+### 👯‍♂️ Lambda without Apigateway?
 
-- Here is a simple footnote [^1]:  With some additional text after it.
+
 
 ## 👯‍♂️ Conclustion
 
