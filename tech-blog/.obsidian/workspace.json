@@ -35,9 +35,9 @@
             "id": "1aee2c4145112ba3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Pasted Image 20240203165621_614.png"
+                "file": "Excalidraw/md-to-react-arch.excalidraw.md"
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted Image 20240203165621_614.png",
+                "file": "Excalidraw/md-to-react-arch.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted Image 20240203165621_614.png",
+                "file": "Excalidraw/md-to-react-arch.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted Image 20240203165621_614.png"
+                "file": "Excalidraw/md-to-react-arch.excalidraw.md"
               }
             }
           }
@@ -172,10 +172,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e9461bd74980657",
+  "active": "1aee2c4145112ba3",
   "lastOpenFiles": [
-    "Excalidraw/md-to-react-arch.excalidraw.md",
     "Pasted Image 20240203165621_614.png",
+    "Excalidraw/md-to-react-arch.excalidraw.md",
     "Excalidraw",
     "inbox/md-to-react-compo.md",
     "posts/첫번째 포스트.md",
