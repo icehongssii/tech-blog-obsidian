@@ -22,10 +22,10 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "templates/포스트.md"
   ],
   "startup_templates": [
-    ""
+    "templates/포스트.md"
   ],
   "enable_ribbon_icon": true
 }
