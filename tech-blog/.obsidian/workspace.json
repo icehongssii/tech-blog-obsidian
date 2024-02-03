@@ -35,9 +35,11 @@
             "id": "1aee2c4145112ba3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/md-to-react-arch.excalidraw.md"
+                "file": "inbox/md-to-react-compo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/md-to-react-arch.excalidraw.md",
+                "file": "inbox/md-to-react-compo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/md-to-react-arch.excalidraw.md",
+                "file": "inbox/md-to-react-compo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/md-to-react-arch.excalidraw.md"
+                "file": "inbox/md-to-react-compo.md"
               }
             }
           }
@@ -174,8 +176,8 @@
   },
   "active": "1aee2c4145112ba3",
   "lastOpenFiles": [
-    "Pasted Image 20240203165621_614.png",
     "Excalidraw/md-to-react-arch.excalidraw.md",
+    "Pasted Image 20240203165621_614.png",
     "Excalidraw",
     "inbox/md-to-react-compo.md",
     "posts/첫번째 포스트.md",
