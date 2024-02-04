@@ -43,7 +43,8 @@ If you are deploying your Lambda function as a package, ensure that `aws-sdk` an
 
 - [ ] 블로그 리스트 부터 구현 
 	- [ ] responsive 헤더 구현
-	- [ ] s3 obj에서 리스트 가져오기 (날짜 순서대로 보여주기)
+	- [ ] s3 obj에서 리스트 가져오기 
+	- [ ] 글씨체 변경하기
 
 
 ### 👯‍♂️ Lambda without Apigateway?
