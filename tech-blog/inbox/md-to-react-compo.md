@@ -41,6 +41,9 @@ If you are deploying your Lambda function as a package, ensure that `aws-sdk` an
 	- 일단 webhook에 lambda function url 넣었음
 
 
+- [ ] 블로그 리스트 부터 구현 
+	- [ ] responsive 헤더 구현
+	- [ ] s3 obj에서 리스트 가져오기 (날짜 순서대로 보여주기)
 
 
 ### 👯‍♂️ Lambda without Apigateway?
