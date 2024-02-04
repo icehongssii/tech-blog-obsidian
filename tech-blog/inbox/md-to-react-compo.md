@@ -15,16 +15,10 @@ tags:
 
 ## 👯‍♂️ Main
 
-- 마크다운 - 리액트 컴포넌트로 변환 시키기 
-	- 이거 바꾸는 과정은 파이썬으로 해도 되는데 js로 함  -> 근데 굳이 리액트로 변환과정 사용하는 이유는!? 특별한 이유는 없다!! 
-- 마크다운 - 리액트 컴포넌트로 변환 시키는 어플리케이션 자체는 js로 작성함 그리고 
+
+- 마크다운 - 리액트 컴포넌트로 변환 시키는 어플리케이션 자체는 js로 작성함 
 	- md-react 라이브러리 통해서  md -> HTML -> react 컴포넌트 -> 다시 HTML로 변환 [^1]:  
-
-	- 1. Markdown 형식의 텍스트 (`"# Example Markdown Title\n\nSome content here"`)가 `marked` 라이브러리를 통해 HTML로 변환됩니다.
-2. 변환된 HTML은 React의 `createElement` 함수를 사용하여 React 컴포넌트로 만들어집니다.
-3. `ReactDOMServer.renderToString` 함수를 사용하여 이 React 컴포넌트를 문자열 형태의 HTML 마크업으로 변환합니다.
-4. 이 HTML 마크업은 AWS S3의 지정된 버킷 (`icehongssii-blogs`)에 지정된 파일 이름 (`your-file-name.html`)으로 업로드됩니다.
-
+- 여튼 변환된 HTML은 s3에 저장됨
 
 ### 👯‍♂️ Lambda without Apigateway?
 
@@ -38,5 +32,12 @@ Summarize the main points and conclude your post.
 
 ## 👯‍♂️ Ref
 
-- [^1]:  작성자. "제목," 사이트명, 발행날짜, [URL](www.naver.com)
+- [^1]: 불필요한 과정처럼 보이는데 이유가 있음 
+	- The process of converting HTML to a React component and then back to HTML might seem redundant, but it serves specific purposes, especially in the context of server-side rendering (SSR) and dynamic content generation:
+	 1. **Dynamic Content Handling:** Initially, you might have static HTML or Markdown content. Converting this to a React component allows you to dynamically manipulate, enhance, or embed additional interactive features into the content, which is not possible with static HTML alone.
+	 2. **Server-Side Rendering:** After enhancing or manipulating the content with React, converting it back to HTML is a part of SSR. This step is crucial for SEO and for sending a fully rendered page to the client, which can improve the page's load time and be displayed even if JavaScript is disabled on the client's browser.
+
+3. **React Ecosystem Benefits:** Using React for this process allows you to leverage the vast ecosystem of React, including various tools and libraries for UI components, state management, and more, which might not be as conveniently accessible or manageable with static HTML.
+
+In summary, this approach combines the benefits of dynamic content manipulation (using React) with the advantages of server-side rendering (producing final HTML), offering a balance between interactivity, SEO, and performance.
 
