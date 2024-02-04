@@ -20,6 +20,8 @@ tags:
 	- md-react 라이브러리 통해서  md -> HTML -> react 컴포넌트 -> 다시 HTML로 변환 [^1]:  
 - 여튼 변환된 HTML은 s3에 저장됨
 - 근데 궁금한건 람다 함수가 s3에 쓰기 권한이 있는가?
+	- 최소한의 IAM policy 생성(s3 getObj, putObj)해서 내 람다함수에 입혀줌
+- 근데 내가  사용한 코드
 
 
 
