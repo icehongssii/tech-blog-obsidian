@@ -18,7 +18,8 @@ tags:
 - 마크다운 - 리액트 컴포넌트로 변환 시키기 
 	- 이거 바꾸는 과정은 파이썬으로 해도 되는데 js로 함  -> 근데 굳이 리액트로 변환과정 사용하는 이유는!? 특별한 이유는 없다!! 
 - 마크다운 - 리액트 컴포넌트로 변환 시키는 어플리케이션 자체는 js로 작성함 그리고 
-	- md-react 라이브러리 통해서  md -> HTML -> react 컴포넌트 -> 다시 
+	- md-react 라이브러리 통해서  md -> HTML -> react 컴포넌트 -> 다시 HTML로 변환 [^1]:  
+
 	- 1. Markdown 형식의 텍스트 (`"# Example Markdown Title\n\nSome content here"`)가 `marked` 라이브러리를 통해 HTML로 변환됩니다.
 2. 변환된 HTML은 React의 `createElement` 함수를 사용하여 React 컴포넌트로 만들어집니다.
 3. `ReactDOMServer.renderToString` 함수를 사용하여 이 React 컴포넌트를 문자열 형태의 HTML 마크업으로 변환합니다.
