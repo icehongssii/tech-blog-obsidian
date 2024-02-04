@@ -59,11 +59,9 @@
             "id": "3d101a9b733e6c3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "inbox/블로그.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md"
               }
             }
           }
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/블로그.md",
+                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/블로그.md",
+                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/블로그.md"
+                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md"
               }
             }
           }
@@ -200,12 +198,12 @@
   },
   "active": "3d101a9b733e6c3a",
   "lastOpenFiles": [
+    "inbox/md-to-react-compo.md",
     "inbox/무제 파일 1.md",
+    "templates/포스트.md",
     "inbox/블로그.md",
     "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
-    "inbox/md-to-react-compo.md",
     "inbox/무제 파일.md",
-    "templates/포스트.md",
     "Tasks Plugin - Review and check your Statuses 2024-02-04 21-29-26.md",
     "posts/첫번째 포스트.md",
     "Excalidraw/md-to-react-arch.excalidraw.md",
