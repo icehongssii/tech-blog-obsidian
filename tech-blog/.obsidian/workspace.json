@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/md-to-react-compo.md",
+                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/md-to-react-compo.md",
+                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/md-to-react-compo.md"
+                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md"
               }
             }
           }
@@ -196,12 +196,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1aee2c4145112ba3",
+  "active": "3d101a9b733e6c3a",
   "lastOpenFiles": [
+    "inbox/md-to-react-compo.md",
     "inbox/무제 파일 1.md",
     "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
     "Pasted Image 20240204235014_345.png",
-    "inbox/md-to-react-compo.md",
     "templates/포스트.md",
     "inbox/블로그.md",
     "inbox/무제 파일.md",
