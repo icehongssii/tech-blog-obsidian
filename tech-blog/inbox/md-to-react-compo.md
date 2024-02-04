@@ -59,6 +59,12 @@ If you are deploying your Lambda function as a package, ensure that `aws-sdk` an
 	- [ ] 글씨체 변경하기
 	- [ ] 이거를 눌렀을 때 이 안에 있는 내용들을 마크다운으로 변환시키는 코드 작성해줘
 
+- 먼저 리스트 보여주기 
+- 리스트를 눌럿을때 해당 파일을 마크다운으로 바꾸기
+- css 적용하기 (그전꺼 보면서)
+- 포트포리오 만들기
+	- 레이아웃 responsive 스타일로 만들기 
+	- 테두리는 삐뚤삐둘하게 만들자
 
 ### 👯‍♂️ Lambda without Apigateway?
 
