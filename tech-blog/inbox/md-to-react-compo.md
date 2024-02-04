@@ -21,8 +21,8 @@ tags:
 - 여튼 변환된 HTML은 s3에 저장됨
 
 
-
-
+- [ ] lambda 함수 생성
+- [ ] ㅇ
 ### 👯‍♂️ Lambda without Apigateway?
 
 
