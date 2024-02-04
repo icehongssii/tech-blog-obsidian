@@ -21,7 +21,13 @@ tags:
 - 여튼 변환된 HTML은 s3에 저장됨
 - 근데 궁금한건 람다 함수가 s3에 쓰기 권한이 있는가?
 	- 최소한의 IAM policy 생성(s3 getObj, putObj)해서 내 람다함수에 입혀줌
-- 근데 내가  사용한 코드
+- 근데 내가  사용한 코드에 awd-sdk 라이브러리가 없어서 이거를 람다함수에 넣어줘야하는데?
+
+```ad-error
+title: **Not Included in Deployment Package:** 
+
+If you are deploying your Lambda function as a package, ensure that `aws-sdk` and all other dependencies are included in the package. Lambda does not automatically include external packages unless they are part of the standard runtime environment.
+```
 
 
 
