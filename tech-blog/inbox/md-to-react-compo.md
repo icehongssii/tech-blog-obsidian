@@ -43,7 +43,7 @@ If you are deploying your Lambda function as a package, ensure that `aws-sdk` an
 - 어떻게 블로그 운영?
 	- 리액트앱은 s3에 배포될것임
 		- 블로그 포스팅 전부 s3
-		- icehongssii-blog/blogs/converted
+		- icehongssii-blog/blogs/html-converted
 		- icehongssii-blog/portfolio
 
 
