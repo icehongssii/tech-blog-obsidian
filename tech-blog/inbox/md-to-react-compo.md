@@ -40,7 +40,11 @@ If you are deploying your Lambda function as a package, ensure that `aws-sdk` an
 	- apigateway와 lambda function URL과 뭔차이지? 
 	- 일단 webhook에 lambda function url 넣었음
 
-- 어떻게 
+- 어떻게 블로그 운영?
+	- 리액트앱은 s3에 배포될것임
+		- 블로그 포스팅 전부 s3
+		- icehongssii-blog/blogs/converted
+		- icehongssii-blog/portfolio
 
 
 - [ ] 블로그 리스트 부터 구현 
