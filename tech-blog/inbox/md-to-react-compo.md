@@ -23,9 +23,6 @@ tags:
 
 
 
-
-
-
 ### 👯‍♂️ Lambda without Apigateway?
 
 
