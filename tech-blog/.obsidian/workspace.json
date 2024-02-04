@@ -59,9 +59,11 @@
             "id": "3d101a9b733e6c3a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md"
+                "file": "inbox/블로그.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
+                "file": "inbox/블로그.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
+                "file": "inbox/블로그.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md"
+                "file": "inbox/블로그.md"
               }
             }
           }
@@ -199,6 +201,7 @@
   "active": "3d101a9b733e6c3a",
   "lastOpenFiles": [
     "inbox/무제 파일 1.md",
+    "inbox/블로그.md",
     "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
     "inbox/md-to-react-compo.md",
     "inbox/무제 파일.md",
