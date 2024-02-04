@@ -43,7 +43,7 @@ If you are deploying your Lambda function as a package, ensure that `aws-sdk` an
 
 - [ ] 블로그 리스트 부터 구현 
 	- [x] responsive 헤더 구현 ✅ 2024-02-05
-	- [ ] s3 obj에서 리스트 가져오기 
+	- [ ] s3 obj에서 리스트 가져오기, 이때 ㅁws
 	- [ ] 글씨체 변경하기
 
 
