@@ -49,14 +49,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/md-to-react-compo.md",
+                "file": "inbox/무제 파일 1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d101a9b733e6c3a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/md-to-react-compo.md",
+                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/md-to-react-compo.md",
+                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/md-to-react-compo.md"
+                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md"
               }
             }
           }
@@ -186,10 +196,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "508d549179872bb0",
+  "active": "3d101a9b733e6c3a",
   "lastOpenFiles": [
-    "inbox/무제 파일.md",
+    "inbox/무제 파일 1.md",
+    "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
     "inbox/md-to-react-compo.md",
+    "inbox/무제 파일.md",
     "templates/포스트.md",
     "Tasks Plugin - Review and check your Statuses 2024-02-04 21-29-26.md",
     "posts/첫번째 포스트.md",
