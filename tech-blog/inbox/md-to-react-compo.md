@@ -22,6 +22,8 @@ tags:
 
 
 - [ ] lambda 함수 생성
+	- [ ] https://github.com/icehongssii12345/tech-blog/tree/main/tech-blog/posts 에 푸쉬 일어날때마다 이 안에 있는 마크다운 파일이 html으로 변환되어 
+	- [ ] https://icehongssii-blogs.s3.ap-northeast-2.amazonaws.com/ 아래에 저장됨
 - [ ] 웹훅 
 - [ ] 
 ### 👯‍♂️ Lambda without Apigateway?
