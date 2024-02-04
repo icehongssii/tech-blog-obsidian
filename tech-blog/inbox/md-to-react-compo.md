@@ -22,10 +22,12 @@ tags:
 
 
 - [ ] lambda 함수 생성
-	- [ ] https://github.com/icehongssii12345/tech-blog/tree/main/tech-blog/posts 에 푸쉬 일어날때마다 이 안에 있는 마크다운 파일이 html으로 변환되어 
-	- [ ] https://icehongssii-blogs.s3.ap-northeast-2.amazonaws.com/ 아래에 저장됨
+	- https://github.com/icehongssii12345/tech-blog/tree/main/tech-blog/posts 에 푸쉬 일어날때마다 이 안에 있는 마크다운 파일이 html으로 변환되어 
+	-  https://icehongssii-blogs.s3.ap-northeast-2.amazonaws.com/ 아래에 저장됨
 - [ ] 웹훅 
-- [ ] 
+	- apigateway와 lambda function URL과 뭔차이지? 
+	- 일단 webhook에 lambda function url 넣었음
+
 ### 👯‍♂️ Lambda without Apigateway?
 
 
@@ -43,7 +45,7 @@ Summarize the main points and conclude your post.
 		 1. **Dynamic Content Handling:** Initially, you might have static HTML or Markdown content. Converting this to a React component allows you to dynamically manipulate, enhance, or embed additional interactive features into the content, which is not possible with static HTML alone.
 		 2. **Server-Side Rendering:** After enhancing or manipulating the content with React, converting it back to HTML is a part of SSR. This step is crucial for SEO and for sending a fully rendered page to the client, which can improve the page's load time and be displayed even if JavaScript is disabled on the client's browser.
 		 3. **React Ecosystem Benefits:** Using React for this process allows you to leverage the vast ecosystem of React, including various tools and libraries for UI components, state management, and more, which might not be as conveniently accessible or manageable with static HTML.
-	 - In summary, this approach combines the benefits of dynamic content manipulation (using React) with the advantages of server-side rendering (producing final HTML), offering a balance between interactivity, SEO, and performance.
+	 - In summary, this approach combines the benefits of dynamic content manipulation (using React) with the advantages of server-side rendering (producing final HTML), offering a balance between interactivity, SEO, and performance.  
 1
 
 
