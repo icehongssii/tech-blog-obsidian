@@ -47,6 +47,12 @@ If you are deploying your Lambda function as a package, ensure that `aws-sdk` an
 		- icehongssii-blog/portfolio
 
 
+아.. 도저히 서버 관리는 하기 싫기때문에 정적인 웹사이트로간다!
+누가 내 블로그를 그만큼 자주 오겠는가? 깔깔!!
+누가 내 레포를 그만큼 자주 보겠는가? 깔깔!! 
+
+
+
 - [ ] 블로그 리스트 부터 구현 
 	- [x] responsive 헤더 구현 ✅ 2024-02-05
 	- [ ] s3 obj에서 리스트 가져오기, 이때 aws config는 어떻게 관리해야하는거지?;;  이 리액트앱을 통해서만 클릭할때 s3 obj가져오게 하고 시픈데.. 
