@@ -35,9 +35,11 @@
             "id": "1aee2c4145112ba3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md"
+                "file": "posts/첫번째 포스트.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
+                "file": "posts/첫번째 포스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
+                "file": "posts/첫번째 포스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md"
+                "file": "posts/첫번째 포스트.md"
               }
             }
           }
@@ -198,8 +200,8 @@
   },
   "active": "1aee2c4145112ba3",
   "lastOpenFiles": [
-    "inbox/md-to-react-compo.md",
     "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
+    "inbox/md-to-react-compo.md",
     "inbox/무제 파일 1.md",
     "Pasted Image 20240204235014_345.png",
     "templates/포스트.md",
