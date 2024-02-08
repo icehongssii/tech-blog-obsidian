@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/책-aws+컨테이너설계구축.md",
+                "file": "posts/영상-aws+마인크래프트서버.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/책-aws+컨테이너설계구축.md",
+                "file": "posts/영상-aws+마인크래프트서버.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/책-aws+컨테이너설계구축.md",
+                "file": "posts/영상-aws+마인크래프트서버.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/책-aws+컨테이너설계구축.md"
+                "file": "posts/영상-aws+마인크래프트서버.md"
               }
             }
           }
@@ -210,8 +210,8 @@
   },
   "active": "6d691867f580b154",
   "lastOpenFiles": [
-    "posts/영상-aws+마인크래프트서버.md",
     "posts/책-aws+컨테이너설계구축.md",
+    "posts/영상-aws+마인크래프트서버.md",
     "posts/첫번째 포스트.md",
     "posts/AWS 컨테이너 설계와 구축 철저 입문.md",
     "templates/포스트.md",

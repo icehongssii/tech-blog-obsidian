@@ -1,21 +1,17 @@
 ---
-
 title: 무제 파일
-
 created: 2024-02-08 16:44
-
 last-updated: 2024-02-08 16:44
-
 tags:
-  - tag1
-  - tag2
+  - book
+  - blog
 ---
 
 ## 👯‍♂️ intro & tl;dr
 
 Brief introduction about the topic or what the post will cover.
 
-[AWS 컨테이너 설계와 구축 철저 입문, ](https://m.yes24.com/Goods/Detail/109994580)
+[AWS 컨테이너 설계와 구축 철저 입문, 20220615, 아라이 마사야&우마카츠 아츠시 저, 위키북스](https://m.yes24.com/Goods/Detail/109994580)
 
 --- 
 
