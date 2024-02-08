@@ -15,11 +15,14 @@ Brief introduction about the topic or what the post will cover.
 - [👯‍♂️ Conclustion](#%F0%9F%91%AF%E2%80%8D%E2%99%82%EF%B8%8F%20Conclustion)
 - [👯‍♂️ Ref](#%F0%9F%91%AF%E2%80%8D%E2%99%82%EF%B8%8F%20Ref)
 
+[영상-테크팀-AWS에 마크서버배포-20230419](https://www.youtube.com/watch?v=LBj14CoFwyQ)
+
 --- 
 
 ## 👯‍♂️ aws+마인크래프트 바닐라서버
 
 
+### 👯‍♂️ aws 비용계
 ### 👯‍♂️ ec2배포
 
 - Here is a simple footnote [^1]:  With some additional text after it.

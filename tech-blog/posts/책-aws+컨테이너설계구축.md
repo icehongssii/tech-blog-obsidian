@@ -11,7 +11,7 @@ tags:
 
 Brief introduction about the topic or what the post will cover.
 
-[AWS 컨테이너 설계와 구축 철저 입문, 20220615, 아라이 마사야&우마카츠 아츠시 저, 위키북스](https://m.yes24.com/Goods/Detail/109994580)
+[책-AWS 컨테이너 설계와 구축 철저 입문, 20220615, 아라이 마사야&우마카츠 아츠시 저, 위키북스](https://m.yes24.com/Goods/Detail/109994580)
 
 --- 
 
