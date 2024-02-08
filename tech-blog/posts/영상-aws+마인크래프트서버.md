@@ -25,7 +25,13 @@ Brief introduction about the topic or what the post will cover.
 ### 👯‍♂️ aws 비용계산
 
 - [aws pricing calculator](https://calculator.aws/#/createCalculator/ec2-enhancement?nc2=pr)
-- ec2 instance 스펙 -> 최소 4GB 필요, t4g.nano, 온디맨드, 
+- EC2 instance 스펙 -> 최소 4GB 필요(t4g.nano, 온디맨드), 
+- EBS 블록 스토리지 크기(Storage amount) 20GB  
+
+|계산|항목|
+|---|---|
+|ec2<br>- t ||
+
 
 ### 👯‍♂️ ec2배포
 
