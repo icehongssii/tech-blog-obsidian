@@ -6,6 +6,7 @@ tags:
   - aws
   - cloud
   - gameDev
+  - minecraft
 ---
 https://blog.hayeon.dev/posts/mcman/  
 갠차는 블로그 https://blog.naver.com/jjingha0407  
@@ -195,7 +196,7 @@ world라는 디렉토리 하나가 생기는데 저기가 월드 맵데이터, �
 
 
 ### 👯‍♂️ 모드 올리기
-포지 or fabric?
+포지 or fabric?  
 하나의 모드는 하나만,
 
 https://www.curseforge.com/minecraft/mc-mods/jei/files/all?page=1&pageSize=20&version=1.20.4&gameVersionTypeId=4
@@ -213,6 +214,11 @@ java -Xms2G -Xmx2G -jar fabric-server-mc.1.20.4-loader.0.15.6-launcher.1.0.0.ja
 
 
 ![](https://i.imgur.com/LjhMiab.png)
+
+![](https://i.imgur.com/uRLnxz3.jpg)  
+![](https://i.imgur.com/shR9hl3.png)
+
+
 
 
 마인크래프트 서버 확인

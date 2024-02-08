@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/영상-aws+마인크래프트서버.md",
+                "file": "posts/영상-aws+마인크래프트 패브릭.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,14 +83,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/영상-aws+마인크래프트서버.md",
+                "file": "posts/영상-GCP+마인크래프트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7f43ee2aed62b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/책-aws+컨테이너설계구축.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/영상-aws+마인크래프트서버.md",
+                "file": "posts/책-aws+컨테이너설계구축.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/영상-aws+마인크래프트서버.md",
+                "file": "posts/책-aws+컨테이너설계구축.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/영상-aws+마인크래프트서버.md"
+                "file": "posts/책-aws+컨테이너설계구축.md"
               }
             }
           }
@@ -220,12 +232,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "87854ff7b7ce9872",
+  "active": "f7f43ee2aed62b5e",
   "lastOpenFiles": [
-    "jei-1.20.4-fabric-17.3.0.48.jar",
     "posts/왜 ec2이미지 생성시 ARM?.md",
+    "posts/영상-마크플러그인.md",
+    "posts/영상-마크게임서버관리.md",
+    "posts/영상-GCP+마인크래프트.md",
+    "posts/영상-aws+마인크래프트 패브릭.md",
+    "posts/개인프로젝트-마크서버관리.md",
     "posts/책-aws+컨테이너설계구축.md",
-    "posts/영상-aws+마인크래프트서버.md",
+    "jei-1.20.4-fabric-17.3.0.48.jar",
     "templates/포스트.md",
     "무제 파일.md",
     "posts/첫번째 포스트.md",
