@@ -42,7 +42,7 @@ Brief introduction about the topic or what the post will cover.
 	- 사용자지정 TCP, 25565, Anywhere IPv4
 	- 사용자지정 UDP, 25565, Anywhere IPv4
 	- 사용자지정 TCP, 22, Anywhere IPv4
-	- 사용자지정 UDP, 443 , Anywhere IPv4
+	- 사용자지정 TCP, 443 , Anywhere IPv4
 
 
 - Here is a simple footnote [^1]:  With some additional text after it.
