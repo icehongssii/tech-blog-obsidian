@@ -22,18 +22,17 @@ Brief introduction about the topic or what the post will cover.
 ## 👯‍♂️ aws+마인크래프트 바닐라서버
 
 
-### 👯‍♂️ aws 비용계산
+### 👯‍♂️ aws 비용계산(240208기준)
 
 - [aws pricing calculator](https://calculator.aws/#/createCalculator/ec2-enhancement?nc2=pr)
 
-
-
-|  |
+| ap-northeast-2a 달에 대략 44.79 USD |
 | ---- |
 | ec2<br>- 4GB(t4g.nano, 온디맨드) |
 | EBS 블록스토리지 크기<br>(Storage amount)<br>- 20GB |
 | 데이터 전송<br>인스턴스 밖으로 데이터 빼낼 때 사용되는 것도 비용부과됨<br>(Data transfer)<br>-outbound data tranfer Internet 100GB |
 
+만약에 메모리크기 8GB 정도로 늘리면 68.08 USD 예상
 
 ### 👯‍♂️ ec2배포
 
