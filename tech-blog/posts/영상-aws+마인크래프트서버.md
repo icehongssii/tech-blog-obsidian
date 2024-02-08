@@ -22,7 +22,11 @@ Brief introduction about the topic or what the post will cover.
 ## 👯‍♂️ aws+마인크래프트 바닐라서버
 
 
-### 👯‍♂️ aws 비용계
+### 👯‍♂️ aws 비용계산
+
+- [aws pricing calculator](https://calculator.aws/#/createCalculator/ec2-enhancement?nc2=pr)
+- ec2 instance 스펙 -> 최소 4GB 필요, t4g.nano, 온디맨드, 
+
 ### 👯‍♂️ ec2배포
 
 - Here is a simple footnote [^1]:  With some additional text after it.
