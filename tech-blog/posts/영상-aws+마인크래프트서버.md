@@ -47,7 +47,7 @@ title: 마인크래프트 서버런쳐 스펙
 
 | ap-northeast-2a 달에 대략 44.79 USD |
 | ---- |
-| ec2<br>- 4GB(t4g.nano, 온디맨드) |
+| ec2<br>- 4GB(t4g.medium, 온디맨드) |
 | EBS 블록스토리지 크기<br>(Storage amount)<br>- 20GB |
 | 데이터 전송<br>인스턴스 밖으로 데이터 빼낼 때 사용되는 것도 비용부과됨<br>(Data transfer)<br>-outbound data tranfer Internet 100GB |
 
@@ -79,16 +79,20 @@ title: 마인크래프트 서버런쳐 스펙
 - 인스턴스 public ip 확인하고
 
 ```sh 
-ssh -i mincraft.pem ubuntu@3.38.200.233
+ssh -i mincraft.pem ubuntu@13.209.7.244
 ```
-	-
+
 
 
 ### 👯‍♂️ EC2 모드서버(패브릭) 서버 설치
 
-디렉토리 생성
+디렉토리 생성 후 권한 수정
 ```
+mkdir ~/mincrafe
 /home/ubuntu/minecraft
+
+// 인스턴스에서 해당 경로 권한 변경
+chmod o+w /minecraft
 ```
 
 ```
@@ -155,27 +159,63 @@ sudo iptables -I INPUT -p udp --dport 25565 -j ACCEPT
 ```
 
 - step 5 패브릭 api jar파일 다운로드 후에 인스턴스로 전송 
+	- 포지서버와 다르게 패브릭 API 추가로 다운로드 필요한데 이때 버너 1.20.4 릴리즈 버전 다운로드 https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/5072340 포지모드와 가장 큰 차이이다
 ```
-// 인스턴스에서 해당 경로 권한 변경
-chmod o+w /minecraft
 
 // 전송 
-scp -i minecraft.pem fabric-api-0.95.4+1.20.4.jar ubuntu@3.38.200.233:/home/ubuntu/minecraft
+scp -i minecraft.pem fabric-api-0.95.4+1.20.4.jar ubuntu@13.209.7.244:/home/ubuntu/minecraft/mods
+```
 
+- step6 최초 서버 실행!
+```
 // 실행
 java -Xms2G -Xmx2G -jar fabric-server-mc.1.20.4-loader.0.15.6-launcher.1.0.0.jar nogui
 ```
+최초 실행하고나서 
 
- ./fabric-server-mc.${MinecraftVersion}-loader.${FabricVersion}-launcher.${InstallerVersion}.jar nogui
+```
+/ubuntu/minecraft
 
--Xma 최소메모리, -Xmx 최대 메모리 7GB로
+├── banned-ips.json
+├── banned-players.json
+├── eula.txt
+├── fabric-api-0.95.4+1.20.4.jar
+├── fabric-server-mc.1.20.4-loader.0.15.6-launcher.1.0.0.jar
+├── libraries
+├── logs
+├── mods
+├── ops.json
+├── server.properties
+├── usercache.json
+├── versions
+├── whitelist.json
+└── world
+```
+world라는 디렉토리 하나가 생기는데 저기가 월드 맵데이터, 하나에 하나만 들어갈 수 있다. 새로운 월드 넣고 싶다면 이 폴더안에 있는 내용 다 지우고 월드맵 디렉토리에다가 업로드하면 적용됨!
+
+
+### 👯‍♂️ 모드 올리기
+포지 or fabric?
+하나의 모드는 하나만,
+
+https://www.curseforge.com/minecraft/mc-mods/jei/files/all?page=1&pageSize=20&version=1.20.4&gameVersionTypeId=4
+
+
+```
+scp -i minecraft.pem jei-1.20.4-fabric-17.3.0.48.jar ubuntu@13.209.7.244:/home/ubuntu/minecraft/mods
+```
+
+
+```
+java -Xms2G -Xmx2G -jar fabric-server-mc.1.20.4-loader.0.15.6-launcher.1.0.0.jar nogui
+```
 
 
 
+![](https://i.imgur.com/LjhMiab.png)
 
 
-- 포지서버와 다르게 패브릭 API 추가로 다운로드 필요한데 이때 버너 1.20.4 릴리즈 버전 다운로드 https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/5072340 포지모드와 가장 큰 차이이다
-- 이 jar파일을 `/home/ubuntu/minecraft/mods` 에 업로드
+마인크래프트 서버 확인
 
 ## 👯‍♂️ Conclustion
 
