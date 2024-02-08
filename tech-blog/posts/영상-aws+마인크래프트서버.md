@@ -38,7 +38,8 @@ Brief introduction about the topic or what the post will cover.
 
 - default vpc 생성
 - 인바운드 규칙; 들어오는 패킷에 대한 규칙
-- 가상VM하나만 
+- 기본적으로 모든 트래픽이 왔다 갔다 할 수록 만들어져있는데 가상VM하나만 사용할것이므로 zero-trust 기존 삭제
+	- 사용자지정 TCP, 25565, Anywhere IPv4
 
 
 - Here is a simple footnote [^1]:  With some additional text after it.
