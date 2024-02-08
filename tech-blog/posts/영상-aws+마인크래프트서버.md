@@ -37,6 +37,8 @@ Brief introduction about the topic or what the post will cover.
 ### 👯‍♂️ ec2배포
 
 - default vpc 생성
+- 인바운드 규칙; 들어오는 패킷에 대한 규칙
+- 가상VM하나만 
 
 
 - Here is a simple footnote [^1]:  With some additional text after it.
