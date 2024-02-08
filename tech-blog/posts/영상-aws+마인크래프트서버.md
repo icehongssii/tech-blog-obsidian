@@ -28,9 +28,11 @@ Brief introduction about the topic or what the post will cover.
 - EC2 instance 스펙 -> 최소 4GB 필요(t4g.nano, 온디맨드), 
 - EBS 블록 스토리지 크기(Storage amount) 20GB  
 
-|계산|항목|
-|---|---|
-|ec2<br>- t ||
+|  |
+| ---- |
+| ec2<br>- 4GB(t4g.nano, 온디맨드) |
+| EBS 블록스토리지 크기<br>(Storage amount)<br>- 20GB |
+| 데이터 전송비용<br>(Data transfer) |
 
 
 ### 👯‍♂️ ec2배포
