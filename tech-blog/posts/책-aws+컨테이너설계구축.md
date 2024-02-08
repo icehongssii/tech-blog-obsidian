@@ -5,6 +5,8 @@ last-updated: 2024-02-08 16:44
 tags:
   - book
   - blog
+  - aws
+  - cloud
 ---
 
 ## 👯‍♂️ intro & tl;dr

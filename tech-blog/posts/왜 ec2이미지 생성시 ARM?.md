@@ -1,23 +1,27 @@
 ---
-
 title: 무제 파일 1
-
 created: 2024-02-08 17:07
-
 last-updated: 2024-02-08 17:07
-
 tags:
-  - tag1
-  - tag2
+  - aws
+  - cloud
 ---
 
 ## 👯‍♂️ intro & tl;dr
 
-Brief introduction about the topic or what the post will cover.
+- [글-ARM vs x86: What's the difference?, RedHat, 20220721](https://www.redhat.com/en/topics/linux/ARM-vs-x86#:~:text=While%20both%20CPU%20designs%20can,%E2%80%94perhaps%20most%20importantly%E2%80%94cost.)
+	- 왜 ARM이 더 저렴하고
+	- 그 차이가 뭔지?
 
 --- 
 
 ## 👯‍♂️ Main
+
+
+x86 아키텍처에서 t4g.nano가 더 이상 제공 되지 않는다고 해서 당황했다.  이제 기본 아키텍처가 arm으로 제공되는 것 같음
+
+![](https://i.imgur.com/X4ANSpe.png)
+
 
 
 ### 👯‍♂️ Subheading
