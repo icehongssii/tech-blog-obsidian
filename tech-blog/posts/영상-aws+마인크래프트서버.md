@@ -34,7 +34,7 @@ Brief introduction about the topic or what the post will cover.
 
 만약에 메모리크기 8GB 정도로 늘리면 68.08 USD 예상
 
-### 👯‍♂️ ec2배포
+### 👯‍♂️ 기본VPC 생성 및 보안그룹
 
 - default vpc 생성
 - 인바운드 규칙; 들어오는 패킷에 대한 규칙
@@ -43,6 +43,11 @@ Brief introduction about the topic or what the post will cover.
 	- 사용자지정 UDP, 25565, Anywhere IPv4
 	- 사용자지정 TCP, 22, Anywhere IPv4
 	- 사용자지정 TCP, 443 , Anywhere IPv4
+
+### 👯‍♂️ EC2 배포
+
+- ubuntu 22.04
+- 마인크래프트 메모리가 중요한 게임 4GB
 
 
 - Here is a simple footnote [^1]:  With some additional text after it.
