@@ -7,7 +7,17 @@ tags:
   - cloud
   - gameDev
 ---
+https://blog.hayeon.dev/posts/mcman/  
+갠차는 블로그 https://blog.naver.com/jjingha0407  
+비슷한 프로젝트  
+https://github.com/doppiolab/mcman
 
+https://blog.hayeon.dev/posts/mcman/  
+나도 블로그 이렇게 만들래
+
+https://blog.hayeon.dev/posts/background-toy/  
+얘도 귀엽다 혹은  
+runner같은거 만들어도 좋을듯 
 ## 👯‍♂️ intro & tl;dr
 
 Brief introduction about the topic or what the post will cover.
@@ -153,13 +163,16 @@ chmod o+w /minecraft
 scp -i minecraft.pem fabric-api-0.95.4+1.20.4.jar ubuntu@3.38.200.233:/home/ubuntu/minecraft
 
 // 실행
-java -Xmx2G -jar fabric-server-mc.1.20.4-loader.0.15.6-launcher.1.0.0.jar nogui
+java -Xms2G -Xmx2G -jar fabric-server-mc.1.20.4-loader.0.15.6-launcher.1.0.0.jar nogui
 ```
 
+ ./fabric-server-mc.${MinecraftVersion}-loader.${FabricVersion}-launcher.${InstallerVersion}.jar nogui
+
+-Xma 최소메모리, -Xmx 최대 메모리 7GB로
 
 
 
--Xma 최소메모리, -Xmx 최대 메모리
+
 
 - 포지서버와 다르게 패브릭 API 추가로 다운로드 필요한데 이때 버너 1.20.4 릴리즈 버전 다운로드 https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/5072340 포지모드와 가장 큰 차이이다
 - 이 jar파일을 `/home/ubuntu/minecraft/mods` 에 업로드
