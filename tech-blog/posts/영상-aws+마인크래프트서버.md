@@ -20,7 +20,7 @@ Brief introduction about the topic or what the post will cover.
 ## 👯‍♂️ aws+마인크래프트 바닐라서버
 
 
-### 👯‍♂️ ec2배포 
+### 👯‍♂️ ec2배포
 
 - Here is a simple footnote [^1]:  With some additional text after it.
 
