@@ -36,6 +36,9 @@ Brief introduction about the topic or what the post will cover.
 
 ### 👯‍♂️ ec2배포
 
+- default vpc 생성
+
+
 - Here is a simple footnote [^1]:  With some additional text after it.
 
 ## 👯‍♂️ Conclustion
