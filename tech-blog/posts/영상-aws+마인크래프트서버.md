@@ -25,14 +25,14 @@ Brief introduction about the topic or what the post will cover.
 ### 👯‍♂️ aws 비용계산
 
 - [aws pricing calculator](https://calculator.aws/#/createCalculator/ec2-enhancement?nc2=pr)
-- EC2 instance 스펙 -> 최소 4GB 필요(t4g.nano, 온디맨드), 
-- EBS 블록 스토리지 크기(Storage amount) 20GB  
+
+
 
 |  |
 | ---- |
 | ec2<br>- 4GB(t4g.nano, 온디맨드) |
 | EBS 블록스토리지 크기<br>(Storage amount)<br>- 20GB |
-| 데이터 전송비용<br>(Data transfer) |
+| 데이터 전송<br>인스턴스 밖으로 데이터 빼낼 때 사용되는 것도 비용부과됨<br>(Data transfer)<br>-outbound data tranfer Internet 100GB |
 
 
 ### 👯‍♂️ ec2배포
