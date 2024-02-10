@@ -6,7 +6,6 @@ tags:
   - gameDev
   - gcp
   - cloud
-  - minecraft
 ---
 
 ## 👯‍♂️ intro & tl;dr
