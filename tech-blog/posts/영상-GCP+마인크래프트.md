@@ -53,7 +53,9 @@ PasswordAuthentification yes
 로 주석처리 변경
 sudo systemctl resetart sshd
 ```
-
+- VPC 
+	- TCP 25565
+	- UDP 25565
 , 
 
 ## 👯‍♂️ Conclustion
