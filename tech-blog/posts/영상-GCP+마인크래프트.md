@@ -39,9 +39,10 @@ tags:
 ## 👯‍♂️ Main
 
 
-### 👯‍♂️ Subheading
+### 👯‍♂️ GCP - VM 인스턴스 배포
 
-- Here is a simple footnote [^1]:  With some additional text after it.
+- EC, 메모리 8GB, vCPU2개, 외 20GB
+, 
 
 ## 👯‍♂️ Conclustion
 
