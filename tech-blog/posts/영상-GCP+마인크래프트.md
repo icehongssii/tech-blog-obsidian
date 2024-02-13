@@ -44,14 +44,14 @@ tags:
 - e2-standard-4(vCPU4, 코어2개, 메모리16GB), 부팅디스크 ubuntu(x86/64, amd64 jammy image built on 2024-02-08)22.04, 크기 30GB
 - 방화벽 허용 -> HTTP 트래픽 허용, HTTPS 트래픽 허용, 부하 분산기 상태 점검 허용
 
-- 비밀번호로 인스턴스 접속가능하게 설정
+- ID/비밀번호로 인스턴스 접속가능하게 설정
 ```
 sudo passwd ubuntu
 sudo nano /etc/ssh/sshd_config
 들어가서
 PasswordAuthentification yes
 로 주석처리 변경
-sudo systemctl resetart sshd
+sudo systemctl resstart sshd
 ```
 - VPC 
 	- TCP 25565
