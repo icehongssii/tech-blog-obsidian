@@ -129,12 +129,13 @@ https://github.com/KorTechTim/dedicatedserver/blob/main/MineCraft/Minecraft_Linu
 - step1 패키지 다운로드
 ```
 cd ~/minecraft
-sudo apt update -y
-sudo apt install screen openjdk-18-jdk -y
+sudo apt update -y && sudo apt install screen openjdk-18-jdk -y
 ```
 
 - step2 서버런쳐 다운로드 및 실행  
 https://fabricmc.net/use/server/ 여기에서 직접 하면 되는데 마크버전1.20.4, 패브릭로더0.15.6, 인스톨러버전1.0.0 기준 
+
+`curl -OJ https://meta.fabricmc.net/v2/versions/loader/1.20.4/0.15.6/1.0.0/server/jar`
 
 ```
 curl -OJ https://meta.fabricmc.net/v2/versions/loader/1.20.4/0.15.6/1.0.0/server/jar
@@ -153,10 +154,9 @@ EOF
 ```
 
 sudo iptables -I INPUT -p udp --dport 25565 -j ACCEPT
-
-  sudo iptables -I INPUT -p tcp --dport 25565 -j ACCEPT
-  sudo apt-get install netfilter-persistent
-  sudo netfilter-persistent save
+sudo iptables -I INPUT -p tcp --dport 25565 -j ACCEPT
+sudo apt-get install netfilter-persistent
+sudo netfilter-persistent save
 ```
 
 - step 5 패브릭 api jar파일 다운로드 후에 인스턴스로 전송 
@@ -165,6 +165,8 @@ sudo iptables -I INPUT -p udp --dport 25565 -j ACCEPT
 
 // 전송 
 scp -i minecraft.pem fabric-api-0.95.4+1.20.4.jar ubuntu@13.209.7.244:/home/ubuntu/minecraft/mods
+
+scp -i ~/.ssh/id_rsa fabric-api-0.95.4+1.20.4.jar crispylegs1921@34.47.88.189:/home/crispylegs1921/minecraft
 ```
 
 - step6 최초 서버 실행!

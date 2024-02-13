@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/영상-GCP+마인크래프트.md",
+                "file": "posts/영상-aws+마인크래프트 패브릭.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/영상-GCP+마인크래프트.md",
+                "file": "posts/영상-aws+마인크래프트 패브릭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/영상-GCP+마인크래프트.md",
+                "file": "posts/영상-aws+마인크래프트 패브릭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/영상-GCP+마인크래프트.md"
+                "file": "posts/영상-aws+마인크래프트 패브릭.md"
               }
             }
           }
@@ -234,8 +234,8 @@
   },
   "active": "f7f43ee2aed62b5e",
   "lastOpenFiles": [
-    "posts/영상-마크게임서버관리.md",
     "posts/영상-GCP+마인크래프트.md",
+    "posts/영상-마크게임서버관리.md",
     "posts/영상-aws+마인크래프트 패브릭.md",
     "posts/책-aws+컨테이너설계구축.md",
     "posts/왜 ec2이미지 생성시 ARM?.md",
