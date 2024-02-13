@@ -56,7 +56,21 @@ sudo systemctl resstart sshd
 - VPC 
 	- TCP 25565
 	- UDP 25565
-, 
+
+ 그리고 클라이언트 컴퓨터(내 로컬컴퓨터에서 ) `ssh ubuntu@external_ip`로 여러번 접속시도했으나 실패 이때 뜨는 로그 확인(인스턴스 직렬콘솔 확인해보면)
+```ad-error
+title: ssh키 재생성, 근데 퍼블릭키없이 비밀번호 로그인인데 왜?
+내 로컬 컴퓨터 know_hosts에는 `34.47.88.189 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICbhI+Oj2v1rCQ2Cn7KZDv8RxJ6zsCiA6wkxg1iyzJg4` 라고 적혀있고 내 vm 인스턴스 직렬포트 로그에는 `Feb 13 09:04:44 minecraft-240214 google_guest_agent[478]: ERROR non_windows_accounts.go:217 invalid ssh key entry - expired key: crispylegs1921:ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBGm76lvbodkUSjC9IvhI/LjRt0Q9z0qe2lWCTl3JFaJedFRkAIeU5D6R2Fd12aMBQxyNA0kQWS8drSKLj3tTk54= google-ssh {"userName":"crispylegs1921@gmail.com","expireOn":"2024-02-13T08:23:15+0000"} Feb 13 09:04:44 minecraft-240214 google_guest_agent[478]: ERROR non_windows_accounts.go:217 invalid ssh key entry - expired key: crispylegs1921:ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAFglmiAeTIfZCSZYbujyJZZf2N5ZjUC2vmjYfXT1vcAHejBQUD9jakSroUL8Bj4cNVug2DheSgyJd4S7TDWpBL+Rdy2d8zNNNr2Cq7cWiehz4Ut27/x2wi2W14mBT6DEKK8YfJNcpOZrWpaKMLNw+V/2gkPVJFagcdzb6VXnRiUq3nWvxDAlalYlmxvjHO50LMr0KSrH19wgzSaeAaMaMoUzkxehVfVpJNA1NxE0Yz86SeBZHX34J9gcBWwWlf5gK8M9NYbDxeps4ssZJQt0kz5EyZVIgj7iCrJaIxK8yMQ0PBfNgxouo8m1RLmhuaK14XvVrIYhzyyMwH1+jAJ5WsM= google-ssh {"userName":"crispylegs1921@gmail.com","expireOn":"2024-02-13T08:23:30+0000"} F
+
+```
+
+클라이언트에서 아래 실행하고
+```
+`ssh-keygen -t rsa -b 2048 -C crispylegs1921@gmail.com
+```
+이때 생성된 공개키를(id_rsa.pub) 인스턴스 ssh키에 넣어주고
+ssh -i id_rsa crispylegs192@external_ip로 로그인하면 성공
+
 
 ## 👯‍♂️ Conclustion
 
