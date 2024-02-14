@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/md-to-react-compo.md",
+                "file": "posts/영상-aws+마인크래프트 패브릭.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,8 +160,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/개인프로젝트-마크서버관리.md",
+                "file": "posts/영상-aws+마인크래프트 패브릭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/개인프로젝트-마크서버관리.md",
+                "file": "posts/영상-aws+마인크래프트 패브릭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/개인프로젝트-마크서버관리.md"
+                "file": "posts/영상-aws+마인크래프트 패브릭.md"
               }
             }
           }
@@ -245,12 +244,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "828b7c1b7914dc4a",
+  "active": "1cfd893c153b6f70",
   "lastOpenFiles": [
-    "영상-GCP+마크+PurPur.md",
+    "inbox/md-to-react-compo.md",
+    "posts/첫번째 포스트.md",
+    "inbox/무제 파일 1.md",
+    "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
     "posts/영상-GCP+마인크래프트.md",
-    "posts/개인프로젝트-마크서버관리.md",
     "posts/영상-aws+마인크래프트 패브릭.md",
+    "posts/개인프로젝트-마크서버관리.md",
+    "영상-GCP+마크+PurPur.md",
     "posts/영상-마크게임서버관리.md",
     "posts/책-aws+컨테이너설계구축.md",
     "posts/왜 ec2이미지 생성시 ARM?.md",
@@ -258,12 +261,8 @@
     "jei-1.20.4-fabric-17.3.0.48.jar",
     "templates/포스트.md",
     "무제 파일.md",
-    "posts/첫번째 포스트.md",
     "posts/AWS 컨테이너 설계와 구축 철저 입문.md",
     "md-to-react-arch.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
-    "inbox/md-to-react-compo.md",
-    "inbox/무제 파일 1.md",
     "Pasted Image 20240204235014_345.png",
     "inbox/블로그.md",
     "inbox/무제 파일.md",
