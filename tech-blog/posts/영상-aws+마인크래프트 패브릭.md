@@ -143,7 +143,7 @@ curl -OJ https://meta.fabricmc.net/v2/versions/loader/1.20.4/0.15.6/1.0.0/serve
 java -jar fabric-server-mc.1.20.4-loader.0.15.6-launcher.1.0.0.jar nogui
 ```
 - step3 EULA
-
+enduser license agreement 동의해야함
 ```
 cat <<-EOF > ~/minecraft/eula.txt
 eula=true
@@ -152,11 +152,13 @@ EOF
 
 - step4 방화벽 설정
 ```
-
+// 방화벽개방 TCP, UDP 
 sudo iptables -I INPUT -p udp --dport 25565 -j ACCEPT
 sudo iptables -I INPUT -p tcp --dport 25565 -j ACCEPT
 sudo apt-get install netfilter-persistent
 sudo netfilter-persistent save
+// 혹은 재부팅하고나서도 방화벽테이블 두개가 사라지지않도록 저장 sudo iptables -save
+// OSdㅔ서 이미 열어줌
 ```
 
 - step 5 패브릭 api jar파일 다운로드 후에 인스턴스로 전송 
@@ -225,6 +227,11 @@ java -Xms2G -Xmx2G -jar fabric-server-mc.1.20.4-loader.0.15.6-launcher.1.0.0.ja
 
 마인크래프트 서버 확인
 
+```ad-tip
+title: ubuntu22.04 포트개방
+- sudo iptables _I INPUT -p udp --dport 25565 -j ACCEPT
+- 
+```
 ## 👯‍♂️ Conclustion
 
 Summarize the main points and conclude your post.

@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/영상-aws+마인크래프트 패브릭.md",
+                "file": "posts/영상-GCP+마인크래프트.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,9 +100,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "576f728234fbae9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/개인프로젝트-마크서버관리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -148,7 +160,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/영상-aws+마인크래프트 패브릭.md",
+                "file": "posts/개인프로젝트-마크서버관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/영상-aws+마인크래프트 패브릭.md",
+                "file": "posts/개인프로젝트-마크서버관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/영상-aws+마인크래프트 패브릭.md"
+                "file": "posts/개인프로젝트-마크서버관리.md"
               }
             }
           }
@@ -232,15 +245,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7f43ee2aed62b5e",
+  "active": "828b7c1b7914dc4a",
   "lastOpenFiles": [
+    "영상-GCP+마크+PurPur.md",
     "posts/영상-GCP+마인크래프트.md",
-    "posts/영상-마크게임서버관리.md",
+    "posts/개인프로젝트-마크서버관리.md",
     "posts/영상-aws+마인크래프트 패브릭.md",
+    "posts/영상-마크게임서버관리.md",
     "posts/책-aws+컨테이너설계구축.md",
     "posts/왜 ec2이미지 생성시 ARM?.md",
     "posts/영상-마크플러그인.md",
-    "posts/개인프로젝트-마크서버관리.md",
     "jei-1.20.4-fabric-17.3.0.48.jar",
     "templates/포스트.md",
     "무제 파일.md",
