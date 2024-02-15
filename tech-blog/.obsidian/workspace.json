@@ -124,9 +124,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12c08533c45a3e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "역기획서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -193,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/개인프로젝트.md",
+                "file": "역기획서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/개인프로젝트.md",
+                "file": "역기획서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/개인프로젝트.md"
+                "file": "역기획서.md"
               }
             }
           }
@@ -257,13 +269,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "576f728234fbae9c",
+  "active": "12c08533c45a3e67",
   "lastOpenFiles": [
+    "역기획서.md",
+    "posts/개인프로젝트.md",
     "posts/영상-aws+마인크래프트 패브릭.md",
     "dd.md",
     "posts/영상-마크게임서버관리.md",
     "posts/영상-GCP+마인크래프트.md",
-    "posts/개인프로젝트.md",
     "inbox/md-to-react-compo.md",
     "posts/첫번째 포스트.md",
     "inbox/무제 파일 1.md",
