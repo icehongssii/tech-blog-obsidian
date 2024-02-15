@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dd.md",
+                "file": "posts/영상-aws+마인크래프트 패브릭.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,14 +119,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/개인프로젝트-마크서버관리.md",
+                "file": "posts/개인프로젝트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "블로그",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +172,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dd.md",
+                "file": "posts/개인프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dd.md",
+                "file": "posts/개인프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dd.md"
+                "file": "posts/개인프로젝트.md"
               }
             }
           }
@@ -256,13 +257,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ef877cbbbf418a9",
+  "active": "576f728234fbae9c",
   "lastOpenFiles": [
-    "posts/영상-마크게임서버관리.md",
-    "dd.md",
-    "posts/영상-GCP+마인크래프트.md",
-    "posts/개인프로젝트-마크서버관리.md",
     "posts/영상-aws+마인크래프트 패브릭.md",
+    "dd.md",
+    "posts/영상-마크게임서버관리.md",
+    "posts/영상-GCP+마인크래프트.md",
+    "posts/개인프로젝트.md",
     "inbox/md-to-react-compo.md",
     "posts/첫번째 포스트.md",
     "inbox/무제 파일 1.md",
