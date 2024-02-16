@@ -148,9 +148,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fce0105d975bedb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/idontwaitingforwater기획서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/개발PM.md",
+                "file": "posts/idontwaitingforwater기획서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/개발PM.md",
+                "file": "posts/idontwaitingforwater기획서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/개발PM.md"
+                "file": "posts/idontwaitingforwater기획서.md"
               }
             }
           }
@@ -280,14 +292,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e9461bd74980657",
+  "active": "6fce0105d975bedb",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "posts/개발PM.md",
     "posts/idontwaitingforwater기획서.md",
     "posts/괴물 감상포인트.md",
     "posts/PM준비기-.md",
     "posts/애자일 개발이 처음인 내가 출근했더니 스크럼 마스터가 된 건에 대하여.md",
     "posts/게임제작개론.md",
-    "posts/개발PM.md",
     "posts/첫번째 포스트.md",
     "dd.md",
     "posts/그 게임, 내가 만들었어요.md",
@@ -309,7 +322,6 @@
     "jei-1.20.4-fabric-17.3.0.48.jar",
     "templates/포스트.md",
     "posts/AWS 컨테이너 설계와 구축 철저 입문.md",
-    "inbox/블로그.md",
     "Pasted Image 20240203165621_614.png",
     "Excalidraw",
     "inbox",

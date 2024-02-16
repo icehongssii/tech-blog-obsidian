@@ -8,11 +8,17 @@ tags:
 
 ## 👯‍♂️ intro & tl;dr
 
-Brief introduction about the topic or what the post will cover.
+좋은 기획서 조건 
+1. 아이디어가 담겨있고
+2. 구현방안 담겨있고
+3. 개발자가 이해하기 쉬워야함
 
 - 게임 기획의도
-	- 
+	-
 
+
+
+- 시스템 기획 = 규칙 + 테이블 + UI + 연찰
 - 몬스터 스폰기획
 	- 랜덤하게 스폰했으면 좋겠다ㅋ
 
