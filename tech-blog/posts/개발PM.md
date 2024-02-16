@@ -1,7 +1,7 @@
 ---
 title: 개발PM
 created: 2024-02-15 20:36
-last-updated: 2024-02-16 13:21
+last-updated: "[[개발PM]]"
 tags:
   - career
   - PM
