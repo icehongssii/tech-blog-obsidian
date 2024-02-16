@@ -131,56 +131,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/PM준비기-.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e20a44fbabc1a06f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/애자일 개발이 처음인 내가 출근했더니 스크럼 마스터가 된 건에 대하여.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a5621c8bb193e52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/게임제작개론.md",
+                "file": "posts/idontwaitingforwater기획서.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
-      },
-      {
-        "id": "9fae70a9c2042086",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2dd0f2c509e9451e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/idontwaitingforwater기획서.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -310,13 +268,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2dd0f2c509e9451e",
+  "active": "c2a7bc9aede32fec",
   "lastOpenFiles": [
-    "posts/개발PM.md",
-    "posts/게임제작개론.md",
-    "posts/idontwaitingforwater기획서.md",
     "posts/PM준비기-.md",
     "posts/애자일 개발이 처음인 내가 출근했더니 스크럼 마스터가 된 건에 대하여.md",
+    "posts/idontwaitingforwater기획서.md",
+    "posts/게임제작개론.md",
+    "posts/개발PM.md",
     "posts/첫번째 포스트.md",
     "dd.md",
     "posts/그 게임, 내가 만들었어요.md",

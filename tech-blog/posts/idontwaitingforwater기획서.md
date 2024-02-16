@@ -10,6 +10,8 @@ tags:
 
 Brief introduction about the topic or what the post will cover.
 
+- 게임 기획의도
+	- 
 
 - 몬스터 스폰기획
 	- 랜덤하게 스폰했으면 좋겠다ㅋ

@@ -135,8 +135,7 @@ Brief introduction about the topic or what the post will cover.
 -  [슬라이드,2016 김동준, 기획지망생은 뭘 준비하나](https://www.slideshare.net/ssuser052dd11/igc-2016-66910672)
 -  [슬라이드,2015-황상훈, 지속가능한 개발팀구축](https://www.slideshare.net/ssuser052dd11/ss-53532736)
 - [웹,디스이즈게임-2019, 개발PM업무란](https://www.thisisgame.com/webzine/gameevent/nboard/227/?n=93530)
-- 
-
+- [슬라이드-모바일게임기획](https://www.slideshare.net/sunnyrider81/ss-132752302)
 
 ## 👯‍♂️ Conclustion
 
