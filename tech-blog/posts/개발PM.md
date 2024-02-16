@@ -38,7 +38,7 @@ Brief introduction about the topic or what the post will cover.
 
 - 마일스톤 : 기본지식 (240216)
 	- 그 게임 내가 만들었어요 완독
-	- 기술문석 완벽가이드 완독
+	- 스크럼 마스터 
 	- 슬라이드 완독
 - 마일스톤 : 포폴1 드래프트(240217) 
 	- 포폴1, 게임 기획서 목차 
@@ -118,7 +118,7 @@ Brief introduction about the topic or what the post will cover.
 	- 게임서버
 	- 
 - 개발
-	- 기술문서완벽가이드
+	- 기술문서완벽가이드 -> 더 나은책 찾아보기
 	- 그림으로 이해하고 만들면서 익히는 유니티 교과서
 
 ### 👯‍♂️ 그 외 온라인 리소스
