@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/개발PM.md",
+                "file": "posts/idontwaitingforwater기획서.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/idontwaitingforwater기획서.md",
+                "file": "posts/개발PM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f81cffea16b7c493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/개발PM.md",
+                "file": "무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/개발PM.md",
+                "file": "무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/개발PM.md"
+                "file": "무제 파일 1.md"
               }
             }
           }
@@ -174,8 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efa4dfbcd48fd97b",
+  "active": "f81cffea16b7c493",
   "lastOpenFiles": [
+    "무제 파일 1.md",
+    "posts/개발PM.md",
     "posts/idontwaitingforwater기획서.md",
     "영상-GCP+마크+PurPur.md",
     "posts/영상-aws+마인크래프트 패브릭.md",
@@ -185,7 +199,6 @@
     "inbox/무제 파일 1.md",
     "Excalidraw/Drawing 2024-02-04 23.41.54.excalidraw.md",
     "posts/영상-GCP+마인크래프트.md",
-    "posts/개발PM.md",
     "무제 파일.md",
     "posts/괴물 감상포인트.md",
     "posts/PM준비기-.md",
@@ -203,7 +216,6 @@
     "md-to-react-arch.excalidraw.md",
     "inbox/md-to-react-compo.md",
     "jei-1.20.4-fabric-17.3.0.48.jar",
-    "posts/AWS 컨테이너 설계와 구축 철저 입문.md",
     "Pasted Image 20240203165621_614.png",
     "Excalidraw",
     "inbox",
