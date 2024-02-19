@@ -49,7 +49,7 @@ https://makergram.com/blog/play-chromes-dino-game-physically/ 골때리네 ㅋ�
 		- 디자인영역은피함
 		- 목록/명칭/설명/비고/이펙트/사운드
 		- 데이터테이블
-### 👯‍♂️  시작문서
+### 👯‍♂️ 시작문서
 
 - 기본사항 
 	- 목차
@@ -57,7 +57,7 @@ https://makergram.com/blog/play-chromes-dino-game-physically/ 골때리네 ㅋ�
 	- 목록분류
 - 기술구현 = 사용툴 & 엔진등 이용한 설명, 기존 기술 및 구쳬적 사례 통해 개발자가 이해하기편함
 
-### 👯‍♂️  제안용
+### 👯‍♂️ 제안용
 
 - 기획의도
 	- 
@@ -80,7 +80,7 @@ https://makergram.com/blog/play-chromes-dino-game-physically/ 골때리네 ㅋ�
 	- 몬스터: 보라색괴물
 	-
 
-### 👯‍♂️  시스템
+### 👯‍♂️ 시스템
 
 ![](https://i.imgur.com/l8PPKvn.png)
 
@@ -89,22 +89,22 @@ https://makergram.com/blog/play-chromes-dino-game-physically/ 골때리네 ㅋ�
 	- 
 
 
-### 👯‍♂️  마일스톤 정의
+### 👯‍♂️ 마일스톤 정의
 
 
-### 👯‍♂️  컨텐츠
+### 👯‍♂️ 컨텐츠
 
 
 
-### 👯‍♂️  콘텐츠 기획서 장표
+### 👯‍♂️ 콘텐츠 기획서 장표
 
 11. 4. 컨셉디자인
 12. 콘텐츠 - 필요한 스프라이트 정의 
 13. 콘텐츠 - 필요한 사운드 정의
 14.
-### 👯‍♂️  시스템 기획서 장표
+### 👯‍♂️ 시스템 기획서 장표
 
--> 개발하기전에 주의사항? 
+-> 개발하기전에 주의사항?  
 -> EC2로 그냥 띄워나야하나?
 
 ```ad-important
@@ -115,19 +115,30 @@ title: 꼭 넣자 개발자들을위해
 - 각 기능에 대한 디테일은 (이미 완성된사양/이번구간에 만들것/미래버전)으로 제시한다
 ```
 
+AKfycbxSyi_S04aymNE8nz_rDsRPy0wK6mtVRaeG8gP_PMgcI3YYP1O_FsE4GP7gjhZc4E3q
+
+https://script.google.com/macros/s/AKfycbxSyi_S04aymNE8nz_rDsRPy0wK6mtVRaeG8gP_PMgcI3YYP1O_FsE4GP7gjhZc4E3q/exec
 1. 표지
 2. 목차
-3. 제안용
-4. . 마일스톤별 정의
-	1. 그냥 뛰어다니고 빨리지기 (첫번째)
-5. 개발스케줄
-6. 기술구현 - 인프라(AWS 아키텍처) + 표(aws)
-7. 기술구현 - 자동배포(CI/CD) + 표 (깃허브액션)
-8. 기술구현  -제약사항 미리 생각해두기, ==예외처리?==
-	1. 만약에 람다 뜨는 시간이 너무 오래걸리면?
+3. 컨셉 제안 및 기획의도
+4. 기술스펙
+	1. 사용엔진: 고닷
+	2. 인프라 : aws, linux, ec2, s3
+	3. 프로젝트관리: jira, google spreadsheet
+6. 마일스톤별 정의 및 스프린트 구성성
+	1. 1차 마일스톤
+	2. 2차 마일스톤
+7. 개발을 편하게!
+	1. 엑셀 지라 구글 시트 연동 ATATT3xFfGF0GyO1pTv-YK6vh9xnCPtSUWhVMuhT5nBfeE88w5KzLHNv-VSHWqBXDRGh60_66hBqc30t3vEOsNmnvcvqF1ikX2vvS5pAz3XSkTzgJdc4bxusskk_mI614GIbkoT4M-072sO9mCTbRTW37wclYx_to7rxqLaHRAKc-PFeDL8OCIg=F5E747FF
+	2. 지라 - 깃허브 티켓
+8. 개발스케줄 및 스프린트별 목표
+10. 기술구현 - 인프라(AWS 아키텍처) + 표(aws)
+11. 기술구현 - 자동배포(CI/CD) + 표 (깃허브액션)
+12. 기술구현  -제약사항 미리 생각해두기, ==예외처리?==
+	1. 400, 500 정의 
 	2. 점수 맥스는 어디까지?
 	3. 서버가 터지면?
-9. 기술구현 - 기본 규칙==(기능디테일)==
+13. 기술구현 - 기본 규칙==(기능디테일)==
 	1. 뛰는 방법점프하는방법
 	2. 점수는?
 	3. 스피드 조절?
