@@ -149,7 +149,6 @@ https://script.google.com/macros/s/AKfycbxSyi_S04aymNE8nz_rDsRPy0wK6mtVRaeG8gP_P
 	3. 서버가 터지면?
 13. 기술구현 - 기본 규칙==(기능디테일)==
 	1. 뛰는 방법점프하는방법 
-		1. 
 	2. 점수는?
 	3. 스피드 조절?
 	4. 몬스터 스폰은 언제?
@@ -157,7 +156,15 @@ https://script.google.com/macros/s/AKfycbxSyi_S04aymNE8nz_rDsRPy0wK6mtVRaeG8gP_P
 	6. 물체를 잘 피했으면?
 
 
-### 👯‍♂️ 기술구현 - 
+### 👯‍♂️ 기술구현 
+
+13. 기술구현 - 기본 규칙==(기능디테일)==
+	1. 뛰는 방법점프하는방법 
+	2. 점수는?
+	3. 스피드 조절?
+	4. 몬스터 스폰은 언제?
+	5. 물체 닿으면?
+	6. 물체를 잘 피했으면?
 
 ## 👯‍♂️ Conclustion
 
