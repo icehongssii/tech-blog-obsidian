@@ -109,6 +109,10 @@ Brief introduction about the topic or what the post will cover.
 
 ### 👯‍♂️ 읽어야 하는 책
 
+ - 0년차 게임개발
+ - 게임 기획자의 꿈
+ - 취업가능한 게임
+ - 유저 모바일
 - PM 업무 관련
 	- head first PMP
 	- 출근했더니 스크럼 마스터
