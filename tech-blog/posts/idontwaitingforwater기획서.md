@@ -176,7 +176,8 @@ https://script.google.com/macros/s/AKfycbxSyi_S04aymNE8nz_rDsRPy0wK6mtVRaeG8gP_P
 게임의 룰
 	- 시간이 갈수록 속도가 빨라진다
 	- 목스터 쌓이는 속도가 랜덤해짐
-
+기획의도 
+- 
 
 단기 프로젝트 협업 그라운드룰
 
