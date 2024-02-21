@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2a7bc9aede32fec",
+            "id": "f81cffea16b7c493",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,44 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "6fce0105d975bedb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/개발PM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f81cffea16b7c493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0c22ba12f6333d69",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9995fee9946b6c1f",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -101,6 +63,18 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "6fce0105d975bedb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/개발PM.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -188,15 +162,53 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c2a7bc9aede32fec",
+  "floating": {
+    "id": "f874c5fd5eff5c5d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "65f502031ad17cba",
+        "type": "window",
+        "children": [
+          {
+            "id": "e7146fc412ac13c6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c2a7bc9aede32fec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "posts/idontwaitingforwater기획서.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 840,
+        "y": 54,
+        "width": 600,
+        "height": 835,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f81cffea16b7c493",
   "lastOpenFiles": [
-    "posts/기술PM.md",
+    "posts/개발PM.md",
+    "posts/무제 파일.md",
     "posts/idontwaitingforwater기획서.md",
+    "posts/기술PM.md",
     "posts/idwfw-컨셉기획.md",
     "export/무제 파일/css/layout.css.md",
     "export/무제 파일/plugin/chalkboard/img/boardmarker-purple.png",
     "export/무제 파일/plugin/chalkboard/img/boardmarker-blue.png",
-    "posts/무제 파일.md",
     "export/무제 파일/plugin/chalkboard/img/whiteboard.png",
     "export/무제 파일/plugin/chalkboard/img/sponge.png",
     "export/무제 파일/plugin/chalkboard/img/chalk-yellow.png",
@@ -221,7 +233,6 @@
     "export/무제 파일/plugin/menu/README.md",
     "export/무제 파일/plugin/menu/CONTRIBUTING.md",
     "Excalidraw/Drawing 2024-02-20 00.13.29.excalidraw.md",
-    "posts/개발PM.md",
     "posts/괴물 감상포인트.md",
     "posts/그 게임, 내가 만들었어요.md",
     "무제 파일 1.md",
