@@ -191,8 +191,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 67,
-        "y": 65,
+        "x": 105,
+        "y": 245,
         "width": 600,
         "height": 835,
         "maximize": false,
@@ -200,7 +200,7 @@
       }
     ]
   },
-  "active": "f81cffea16b7c493",
+  "active": "c2a7bc9aede32fec",
   "lastOpenFiles": [
     "posts/개발PM.md",
     "posts/idontwaitingforwater기획서.md",
