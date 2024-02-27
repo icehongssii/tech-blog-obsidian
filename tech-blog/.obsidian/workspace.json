@@ -6,6 +6,7 @@
       {
         "id": "f53999baf962a12a",
         "type": "tabs",
+        "dimension": 69.21182266009852,
         "children": [
           {
             "id": "f81cffea16b7c493",
@@ -13,17 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11강.  명령어 사이클과 인터럽트.md",
+                "file": "posts/idontwaitingforwater기획서.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "18d4dc09dc348149",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0ffcbd91b12918e0",
         "type": "tabs",
+        "dimension": 30.78817733990148,
         "children": [
           {
             "id": "050c198540e26d1e",
@@ -31,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12강. 빠른 CPU를 위한 설계 기법.md",
+                "file": "posts/idontwaitingforwater기획서.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12강. 빠른 CPU를 위한 설계 기법.md",
+                "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12강. 빠른 CPU를 위한 설계 기법.md",
+                "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12강. 빠른 CPU를 위한 설계 기법.md"
+                "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md"
               }
             }
           },
@@ -254,15 +267,17 @@
       }
     ]
   },
-  "active": "050c198540e26d1e",
+  "active": "18d4dc09dc348149",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
+    "posts/idontwaitingforwater기획서.md",
+    "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md",
     "11강.  명령어 사이클과 인터럽트.md",
+    "12강. 빠른 CPU를 위한 설계 기법.md",
     "Home.md",
     "2024-02-28.md",
     "Excalidraw/Drawing 2024-02-28 00.40.38.excalidraw.md",
-    "12강. 빠른 CPU를 위한 설계 기법.md",
     "15강. RAM의 특성과 종류.md",
-    "posts/idontwaitingforwater기획서.md",
     "27강.  프로세스 상태와 계층 구조.md",
     "26강. 프로세스 개요.md",
     "28강.  스레드.md",
@@ -290,8 +305,6 @@
     "Pasted image 20240227145530.png",
     "posts/개발PM.md",
     "posts/무제 파일.md",
-    "posts/기술PM.md",
-    "posts/idwfw-컨셉기획.md",
     "export/무제 파일/plugin/chalkboard/style.css",
     "export/무제 파일/plugin/chalkboard/plugin.js",
     "export/무제 파일/plugin/chalkboard/plugin (copy).js",
