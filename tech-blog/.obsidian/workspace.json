@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17강.  캐시메모리.md",
+                "file": "19강. RAID정의와 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17강.  캐시메모리.md",
+                "file": "19강. RAID정의와 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17강.  캐시메모리.md"
+                "file": "19강. RAID정의와 종류.md"
               }
             }
           }
@@ -266,7 +266,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "19강.md",
+                    "file": "19강. RAID정의와 종류.md",
                     "mode": "source",
                     "source": false
                   }
@@ -278,7 +278,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "20강.md",
+                    "file": "20강. 장치컨트롤러와 장치 드라이버.md",
                     "mode": "source",
                     "source": false
                   }
@@ -290,7 +290,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "21강.md",
+                    "file": "21강. 다양한 입출력 방법.md",
                     "mode": "source",
                     "source": false
                   }
@@ -302,7 +302,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "22강.md",
+                    "file": "22강. 레지스터를 직접 조작하며 입출력 해보기.md",
                     "mode": "source",
                     "source": false
                   }
@@ -314,7 +314,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "23강.md",
+                    "file": "23강. 운영체제 큰그림.md",
                     "mode": "source",
                     "source": false
                   }
@@ -331,35 +331,58 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "791afdfd23dddac4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "18강.  다양한 보조기억장치(동영상, 이미지랑 같이 보기).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 12
+            "currentTab": 7
           }
         ],
         "direction": "vertical",
-        "x": 74,
-        "y": 85,
-        "width": 1219,
-        "height": 835,
+        "x": 728,
+        "y": 25,
+        "width": 712,
+        "height": 875,
         "maximize": false,
         "zoom": 2
       }
     ]
   },
-  "active": "64fa202d88d23a14",
+  "active": "309eacd441a10b96",
   "lastOpenFiles": [
-    "posts/idontwaitingforwater기획서.md",
+    "Pasted image 20240227150454.png",
+    "Pasted image 20240227145539.png",
+    "Pasted image 20240227145530.png",
+    "Pasted image 20240227145512.png",
+    "Pasted image 20240227145453.png",
+    "Pasted image 20240227145427.png",
+    "20강. 장치컨트롤러와 장치 드라이버.md",
+    "21강. 다양한 입출력 방법.md",
+    "22강. 레지스터를 직접 조작하며 입출력 해보기.md",
+    "23강. 운영체제 큰그림.md",
     "17강.  캐시메모리.md",
+    "19강. RAID정의와 종류.md",
+    "18강.  다양한 보조기억장치(동영상, 이미지랑 같이 보기).md",
+    "Pasted image 20240227144911.png",
+    "Pasted image 20240227144856.png",
+    "Pasted image 20240227144845.png",
+    "Pasted image 20240227144044.png",
+    "Pasted image 20240227144024.png",
+    "posts/idontwaitingforwater기획서.md",
     "16강. 메모리 주소 공간-물리주소와 논리주소.md",
     "15강. RAM의 특성과 종류.md",
-    "19강.md",
-    "18강.  다양한 보조기억장치.md",
     "14강. 명령어 집합구조, CISC와 RISC.md",
     "13강. 명령어 병렬처리 기법.md",
-    "23강.md",
-    "22강.md",
-    "21강.md",
-    "20강.md",
     "12강. 빠른 CPU를 위한 설계 기법.md",
     "11강.md",
     "posts/개발PM.md",
@@ -367,16 +390,6 @@
     "posts/기술PM.md",
     "posts/idwfw-컨셉기획.md",
     "export/무제 파일/css/layout.css.md",
-    "export/무제 파일/plugin/chalkboard/img/boardmarker-purple.png",
-    "export/무제 파일/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/무제 파일/plugin/chalkboard/img/whiteboard.png",
-    "export/무제 파일/plugin/chalkboard/img/sponge.png",
-    "export/무제 파일/plugin/chalkboard/img/chalk-yellow.png",
-    "export/무제 파일/plugin/chalkboard/img/chalk-white.png",
-    "export/무제 파일/plugin/chalkboard/img/chalk-red.png",
-    "export/무제 파일/plugin/chalkboard/img/chalk-purple.png",
-    "export/무제 파일/plugin/chalkboard/img/chalk-orange.png",
-    "export/무제 파일/plugin/chalkboard/img/chalk-green.png",
     "export/무제 파일/plugin/chalkboard/style.css",
     "export/무제 파일/plugin/chalkboard/plugin.js",
     "export/무제 파일/plugin/chalkboard/plugin (copy).js",
@@ -392,7 +405,6 @@
     "export/무제 파일/plugin/customcontrols/style.css",
     "export/무제 파일/plugin/menu/README.md",
     "export/무제 파일/plugin/menu/CONTRIBUTING.md",
-    "Excalidraw/Drawing 2024-02-20 00.13.29.excalidraw.md",
-    "posts/괴물 감상포인트.md"
+    "Excalidraw/Drawing 2024-02-20 00.13.29.excalidraw.md"
   ]
 }
