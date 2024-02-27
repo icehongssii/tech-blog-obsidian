@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11강.  명령어 사이클과 인터럽트.md",
+                "file": "12강. 빠른 CPU를 위한 설계 기법.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11강.  명령어 사이클과 인터럽트.md",
+                "file": "12강. 빠른 CPU를 위한 설계 기법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11강.  명령어 사이클과 인터럽트.md",
+                "file": "12강. 빠른 CPU를 위한 설계 기법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11강.  명령어 사이클과 인터럽트.md"
+                "file": "12강. 빠른 CPU를 위한 설계 기법.md"
               }
             }
           },
@@ -187,7 +187,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-projects:Open projects": false,
+      "dbfolder:Create a new database table": false
     }
   },
   "floating": {
@@ -252,12 +254,12 @@
       }
     ]
   },
-  "active": "bc163a23b336ff85",
+  "active": "050c198540e26d1e",
   "lastOpenFiles": [
+    "11강.  명령어 사이클과 인터럽트.md",
     "Home.md",
     "2024-02-28.md",
     "Excalidraw/Drawing 2024-02-28 00.40.38.excalidraw.md",
-    "11강.  명령어 사이클과 인터럽트.md",
     "12강. 빠른 CPU를 위한 설계 기법.md",
     "15강. RAM의 특성과 종류.md",
     "posts/idontwaitingforwater기획서.md",
