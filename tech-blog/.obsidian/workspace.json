@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "15c02a4907a69aca",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-28 04.03.09.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "18d4dc09dc348149",
             "type": "leaf",
             "state": {
@@ -38,7 +48,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0ffcbd91b12918e0",
@@ -135,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/idontwaitingforwater기획서.md",
+                "file": "Excalidraw/Drawing 2024-02-28 04.03.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/idontwaitingforwater기획서.md",
+                "file": "Excalidraw/Drawing 2024-02-28 04.03.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/idontwaitingforwater기획서.md"
+                "file": "Excalidraw/Drawing 2024-02-28 04.03.09.excalidraw.md"
               }
             }
           },
@@ -274,11 +285,13 @@
       }
     ]
   },
-  "active": "f81cffea16b7c493",
+  "active": "15c02a4907a69aca",
   "lastOpenFiles": [
+    "Pasted Image 20240228040325_314.png",
+    "posts/idontwaitingforwater기획서.md",
+    "Excalidraw/Drawing 2024-02-28 04.03.09.excalidraw.md",
     "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md",
     "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
-    "posts/idontwaitingforwater기획서.md",
     "11강.  명령어 사이클과 인터럽트.md",
     "12강. 빠른 CPU를 위한 설계 기법.md",
     "Home.md",
@@ -310,7 +323,6 @@
     "Pasted image 20240227150454.png",
     "Pasted image 20240227145539.png",
     "posts/개발PM.md",
-    "posts/무제 파일.md",
     "export/무제 파일/plugin/chalkboard/style.css",
     "export/무제 파일/plugin/chalkboard/plugin.js",
     "export/무제 파일/plugin/chalkboard/plugin (copy).js",
