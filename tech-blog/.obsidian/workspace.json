@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21강. 다양한 입출력 방법.md",
+                "file": "26강. 프로세스 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21강. 다양한 입출력 방법.md",
+                "file": "26강. 프로세스 개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21강. 다양한 입출력 방법.md"
+                "file": "26강. 프로세스 개요.md"
               }
             }
           }
@@ -177,175 +177,42 @@
             "type": "tabs",
             "children": [
               {
-                "id": "c2a7bc9aede32fec",
+                "id": "831948130816e819",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "posts/idontwaitingforwater기획서.md",
+                    "file": "26강. 프로세스 개요.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "63644df5030dbd05",
+                "id": "73115aac6b1c0255",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "11강.md",
+                    "file": "27강.  프로세스 상태와 계층 구조.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "aad0f55e11f810b0",
+                "id": "447ea5729d08f0af",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "12강. 빠른 CPU를 위한 설계 기법.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "dd6bc43fe7579b64",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "13강. 명령어 병렬처리 기법.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9e70cc50271395cc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "14강. 명령어 집합구조, CISC와 RISC.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "671d045c6ffaaa72",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "15강. RAM의 특성과 종류.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "656a4406a29b5dc7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "16강. 메모리 주소 공간-물리주소와 논리주소.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "309eacd441a10b96",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "19강. RAID정의와 종류.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d319e58cb22fa884",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "21강. 다양한 입출력 방법.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "21faa579e8ce0841",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "22강. 레지스터를 직접 조작하며 입출력 해보기.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "31a4c8ad268cb110",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "23강. 운영체제 큰그림.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "64fa202d88d23a14",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "17강.  캐시메모리.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "791afdfd23dddac4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "18강.  다양한 보조기억장치(동영상, 이미지랑 같이 보기).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ac99d0e720ce92e9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "20강. 장치컨트롤러와 장치 드라이버.md",
+                    "file": "28강.  스레드.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 8
+            ]
           }
         ],
         "direction": "vertical",
@@ -358,8 +225,21 @@
       }
     ]
   },
-  "active": "d319e58cb22fa884",
+  "active": "831948130816e819",
   "lastOpenFiles": [
+    "27강.  프로세스 상태와 계층 구조.md",
+    "28강.  스레드.md",
+    "20강. 장치컨트롤러와 장치 드라이버.md",
+    "26강. 프로세스 개요.md",
+    "25강. 시스템호출 직접 관찰하기.md",
+    "24강. 운영체제의 큰그림.md",
+    "18강.  다양한 보조기억장치(동영상, 이미지랑 같이 보기).md",
+    "23강. 운영체제를 알아야하는이유.md",
+    "Pasted image 20240227163357.png",
+    "22강. 레지스터를 직접 조작하며 입출력 해보기(영상).md",
+    "21강. 다양한 입출력 방법.md",
+    "Pasted image 20240227162304.png",
+    "Pasted image 20240227161912.png",
     "Pasted image 20240227160821.png",
     "Pasted image 20240227160738.png",
     "Pasted image 20240227160620.png",
@@ -372,19 +252,10 @@
     "12강. 빠른 CPU를 위한 설계 기법.md",
     "11강.md",
     "posts/idontwaitingforwater기획서.md",
-    "20강. 장치컨트롤러와 장치 드라이버.md",
-    "18강.  다양한 보조기억장치(동영상, 이미지랑 같이 보기).md",
     "17강.  캐시메모리.md",
-    "23강. 운영체제 큰그림.md",
-    "22강. 레지스터를 직접 조작하며 입출력 해보기.md",
-    "21강. 다양한 입출력 방법.md",
     "Pasted image 20240227150454.png",
     "Pasted image 20240227145539.png",
     "Pasted image 20240227145530.png",
-    "Pasted image 20240227145512.png",
-    "Pasted image 20240227145453.png",
-    "Pasted image 20240227145427.png",
-    "Pasted image 20240227144911.png",
     "posts/개발PM.md",
     "posts/무제 파일.md",
     "posts/기술PM.md",
@@ -401,10 +272,6 @@
     "export/무제 파일/plugin/chart/plugin.js",
     "export/무제 파일/plugin/chart/README.md",
     "export/무제 파일/plugin/chart",
-    "export/무제 파일/plugin/customcontrols/README.md",
-    "export/무제 파일/plugin/customcontrols/style.css",
-    "export/무제 파일/plugin/menu/README.md",
-    "export/무제 파일/plugin/menu/CONTRIBUTING.md",
-    "Excalidraw/Drawing 2024-02-20 00.13.29.excalidraw.md"
+    "export/무제 파일/plugin/customcontrols/style.css"
   ]
 }
