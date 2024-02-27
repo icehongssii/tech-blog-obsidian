@@ -6,7 +6,7 @@
       {
         "id": "f53999baf962a12a",
         "type": "tabs",
-        "dimension": 69.21182266009852,
+        "dimension": 61.822660098522164,
         "children": [
           {
             "id": "f81cffea16b7c493",
@@ -29,14 +29,21 @@
                 "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "afa64d42e8b3c7d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0ffcbd91b12918e0",
         "type": "tabs",
-        "dimension": 30.78817733990148,
+        "dimension": 38.17733990147783,
         "children": [
           {
             "id": "050c198540e26d1e",
@@ -128,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md",
+                "file": "posts/idontwaitingforwater기획서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md",
+                "file": "posts/idontwaitingforwater기획서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md"
+                "file": "posts/idontwaitingforwater기획서.md"
               }
             }
           },
@@ -267,11 +274,11 @@
       }
     ]
   },
-  "active": "18d4dc09dc348149",
+  "active": "f81cffea16b7c493",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md",
     "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
     "posts/idontwaitingforwater기획서.md",
-    "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md",
     "11강.  명령어 사이클과 인터럽트.md",
     "12강. 빠른 CPU를 위한 설계 기법.md",
     "Home.md",
@@ -302,7 +309,6 @@
     "17강.  캐시메모리.md",
     "Pasted image 20240227150454.png",
     "Pasted image 20240227145539.png",
-    "Pasted image 20240227145530.png",
     "posts/개발PM.md",
     "posts/무제 파일.md",
     "export/무제 파일/plugin/chalkboard/style.css",
