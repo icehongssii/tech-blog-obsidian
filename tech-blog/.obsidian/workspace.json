@@ -265,10 +265,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 728,
-        "y": 25,
-        "width": 712,
-        "height": 875,
+        "x": 105,
+        "y": 245,
+        "width": 600,
+        "height": 835,
         "maximize": false,
         "zoom": 2
       }
