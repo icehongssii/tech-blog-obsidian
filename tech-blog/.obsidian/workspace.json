@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "7738dc56365c36f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a0ad4d8001a812d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12강. 빠른 CPU를 위한 설계 기법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "f53999baf962a12a",
         "type": "tabs",
         "children": [
@@ -23,26 +41,16 @@
             "id": "afa64d42e8b3c7d6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-28 05.26.52.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "7a0ad4d8001a812d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "11강.  명령어 사이클과 인터럽트.md",
+                "file": "13강. 명령어 병렬처리 기법.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ef0b8423b0befe53",
@@ -109,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11강.  명령어 사이클과 인터럽트.md",
+                "file": "12강. 빠른 CPU를 위한 설계 기법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11강.  명령어 사이클과 인터럽트.md",
+                "file": "12강. 빠른 CPU를 위한 설계 기법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11강.  명령어 사이클과 인터럽트.md"
+                "file": "12강. 빠른 CPU를 위한 설계 기법.md"
               }
             }
           },
@@ -185,8 +192,53 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "bc163a23b336ff85",
+  "floating": {
+    "id": "f874c5fd5eff5c5d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "26f208a4bba8770f",
+        "type": "window",
+        "children": [
+          {
+            "id": "d405272a3f47c3d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9f55632a2001d8b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "11강.  명령어 사이클과 인터럽트.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 25,
+        "width": 720,
+        "height": 875,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7a0ad4d8001a812d",
   "lastOpenFiles": [
+    "15강. RAM의 특성과 종류.md",
+    "13강. 명령어 병렬처리 기법.md",
+    "14강. 명령어 집합구조, CISC와 RISC.md",
+    "16강. 메모리 주소 공간-물리주소와 논리주소.md",
+    "11강.  명령어 사이클과 인터럽트.md",
+    "Excalidraw/Drawing 2024-02-28 05.26.52.excalidraw.md",
+    "17강.  캐시메모리.md",
+    "12강. 빠른 CPU를 위한 설계 기법.md",
     "이력서 202403.md",
     "Home.md",
     "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md",
@@ -194,7 +246,6 @@
     "posts/idontwaitingforwater기획서.md",
     "28강.  스레드.md",
     "27강.  프로세스 상태와 계층 구조.md",
-    "Excalidraw/Drawing 2024-02-28 05.26.52.excalidraw.md",
     "Pasted Image 20240228071129_062.svg",
     "무제 파일 2.md",
     "무제 파일 1.md",
@@ -215,14 +266,7 @@
     "dd.md",
     "posts/괴물 감상포인트.md",
     "posts/PM준비기-.md",
-    "11강.  명령어 사이클과 인터럽트.md",
-    "12강. 빠른 CPU를 위한 설계 기법.md",
     "Excalidraw/Drawing 2024-02-28 00.40.38.excalidraw.md",
-    "15강. RAM의 특성과 종류.md",
-    "26강. 프로세스 개요.md",
-    "20강. 장치컨트롤러와 장치 드라이버.md",
-    "25강. 시스템호출 직접 관찰하기.md",
-    "24강. 운영체제의 큰그림.md",
     "export/무제 파일/plugin/chalkboard/style.css",
     "export/무제 파일/plugin/chalkboard/plugin.js",
     "export/무제 파일/plugin/chalkboard/plugin (copy).js",
