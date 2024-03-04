@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg"
               }
             }
           },
@@ -182,8 +181,9 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "3624ceb35304f6eb",
+  "active": "afa64d42e8b3c7d6",
   "lastOpenFiles": [
+    "Home.md",
     "Excalidraw/Drawing 2024-03-04 14.50.39.excalidraw.md",
     "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
     "posts/idontwaitingforwater기획서.md",
@@ -198,7 +198,6 @@
     "Excalidraw/Drawing 2024-02-28 05.26.52.excalidraw.md",
     "17강.  캐시메모리.md",
     "이력서 202403.md",
-    "Home.md",
     "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md",
     "Excalidraw/Drawing 2024-02-28 04.03.09.excalidraw.md",
     "28강.  스레드.md",
