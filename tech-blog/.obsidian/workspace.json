@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afa64d42e8b3c7d6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg"
-              }
-            }
-          },
-          {
             "id": "3624ceb35304f6eb",
             "type": "leaf",
             "state": {
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg"
+                "file": "Home.md"
               }
             }
           },
@@ -181,11 +171,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "afa64d42e8b3c7d6",
+  "active": "3624ceb35304f6eb",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
     "Home.md",
     "Excalidraw/Drawing 2024-03-04 14.50.39.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
     "posts/idontwaitingforwater기획서.md",
     "12강. 빠른 CPU를 위한 설계 기법.md",
     "Clear is kind, Unclear is unkind.md",
