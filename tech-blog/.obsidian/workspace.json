@@ -6,33 +6,40 @@
       {
         "id": "f53999baf962a12a",
         "type": "tabs",
+        "dimension": 80.15427769985975,
         "children": [
-          {
-            "id": "3624ceb35304f6eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/회사리스트/서울로보틱스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "b77bba1a3fe1812a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/회사리스트/서울로보틱스.md",
+                "file": "posts/원서 넣을 곳 리스트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "c1f6a4b99e0c7454",
+        "type": "tabs",
+        "dimension": 19.845722300140253,
+        "children": [
+          {
+            "id": "b8463a61fe344f79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/회사리스트/아데나-DevOps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/회사리스트/서울로보틱스.md",
+                "file": "posts/원서 넣을 곳 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/회사리스트/서울로보틱스.md",
+                "file": "posts/원서 넣을 곳 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/회사리스트/서울로보틱스.md"
+                "file": "posts/원서 넣을 곳 리스트.md"
               }
             }
           },
@@ -176,34 +183,34 @@
   },
   "active": "b77bba1a3fe1812a",
   "lastOpenFiles": [
-    "posts/회사리스트/서울로보틱스.md",
+    "posts/회사리스트/아데나-DevOps.md",
+    "posts/원서 넣을 곳 리스트.md",
+    "posts/회사리스트/스마일게이트-DevOps.md",
+    "posts/회사리스트/에이블리-DevOps.md",
+    "posts/회사리스트/위메이드-DevOps.md",
+    "posts/회사리스트/서울로보틱스-DevOps.md",
+    "posts/회사리스트/크래프톤-기술PM.md",
+    "posts/이력서 넣을곳.md",
+    "posts/영상-마크플러그인.md",
+    "posts/영상-마크게임서버관리.md",
+    "posts/영상-aws+마인크래프트 패브릭.md",
+    "posts/애자일 개발이 처음인 내가 출근했더니 스크럼 마스터가 된 건에 대하여.md",
+    "posts/그 게임, 내가 만들었어요.md",
+    "posts/괴물 감상포인트.md",
+    "posts/게임제작개론.md",
+    "posts/개발PM.md",
+    "posts/PM준비기-.md",
+    "posts/취업 위한 포트폴리오2(책).md",
+    "posts/기술PM.md",
+    "posts/서울로보틱스.md",
+    "posts/무제 파일 1.md",
+    "posts/무제 파일 2.md",
+    "posts/무제 파일.md",
+    "2024-03-11.md",
     "posts/idontwaitingforwater기획서.md",
     "posts/idwfw-게임개발기.md",
-    "posts/무제 파일 1.md",
     "posts/회사리스트",
-    "posts/서울로보틱스.md",
-    "posts/원서 넣을 곳 리스트.md",
-    "posts/왜 ec2이미지 생성시 ARM?.md",
-    "posts/취업 위한 포트폴리오2(책).md",
-    "posts/PM준비기-.md",
-    "posts/기술PM.md",
-    "posts/괴물 감상포인트.md",
-    "Home.md",
     "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
-    "Excalidraw/Drawing 2024-03-04 14.50.39.excalidraw.md",
-    "12강. 빠른 CPU를 위한 설계 기법.md",
-    "Clear is kind, Unclear is unkind.md",
-    "Make your voice at work!.md",
-    "13강. 명령어 병렬처리 기법.md",
-    "11강.  명령어 사이클과 인터럽트.md",
-    "15강. RAM의 특성과 종류.md",
-    "14강. 명령어 집합구조, CISC와 RISC.md",
-    "16강. 메모리 주소 공간-물리주소와 논리주소.md",
-    "Excalidraw/Drawing 2024-02-28 05.26.52.excalidraw.md",
-    "17강.  캐시메모리.md",
-    "이력서 202403.md",
-    "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-28 04.03.09.excalidraw.md",
     "Pasted Image 20240228071129_062.svg",
     "Pasted image 20240227142853.png",
     "Pasted Image 20240220001414_642.png",

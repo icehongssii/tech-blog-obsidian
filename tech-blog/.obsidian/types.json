@@ -20,6 +20,15 @@
     "excalidraw-border-color": "text",
     "excalidraw-css": "text",
     "excalidraw-autoexport": "checkbox",
-    "excalidraw-iframe-theme": "text"
+    "excalidraw-iframe-theme": "text",
+    "responsibilities": "text",
+    "qualifications": "text",
+    "preference": "text",
+    "benefits": "text",
+    "skills": "multitext",
+    "created": "date",
+    "deadline": "text",
+    "지원여부": "checkbox",
+    "지원날짜": "date"
   }
 }
