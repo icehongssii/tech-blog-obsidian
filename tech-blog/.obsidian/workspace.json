@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523.5
+    "width": 523.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,19 +162,55 @@
       "dbfolder:Create a new database table": false
     }
   },
+  "floating": {
+    "id": "ecf10a41576f5b82",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5d811ef11e0d8687",
+        "type": "window",
+        "children": [
+          {
+            "id": "c07acd3346ced48d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cab2fe5e223da4e1",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 720,
+        "y": 25,
+        "width": 720,
+        "height": 875,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "b77bba1a3fe1812a",
   "lastOpenFiles": [
-    "posts/2403-1차 지원(취업)/크래프톤-경력기술서.md",
+    "posts/2403-1차 지원(취업)/크래프톤-자소서.md",
+    "posts/2403-1차 지원(취업)/크래프톤-자소서.md",
     "posts/2403-1차 지원(취업)/서초도서관API.md",
-    "posts/2403-1차 지원(취업)/2024-03-지원서 넣을곳.md",
+    "posts/2403-1차 지원(취업)/크래프톤-경력기술서.md",
     "posts/2403-1차 지원(취업)/2024-03-1차지원서 프로젝트.md",
     "posts/2403-1차 지원(취업)/2024-03-1차지원서 일정.md",
+    "templates/포스트.md",
+    "posts/그 게임, 내가 만들었어요.md",
+    "posts/2403-1차 지원(취업)/2024-03-지원서 넣을곳.md",
     "posts/2403-idwfw게임프로젝트/idontwaitingforwater기획서.md",
     "posts/무제 파일.md",
     "posts/2403-idwfw게임프로젝트",
     "posts/1ㅊ.md",
     "posts/2403-1차 지원(취업)",
-    "posts/2403-1차 지원(취업)/크래프톤-자소서.md",
     "posts/자소서",
     "posts/개발PM.md",
     "posts/2403-idwfw게임프로젝트/idwfw-게임개발기.md",
@@ -188,10 +225,7 @@
     "posts/영상-마크게임서버관리.md",
     "posts/영상-aws+마인크래프트 패브릭.md",
     "posts/애자일 개발이 처음인 내가 출근했더니 스크럼 마스터가 된 건에 대하여.md",
-    "posts/그 게임, 내가 만들었어요.md",
     "posts/괴물 감상포인트.md",
-    "posts/게임제작개론.md",
-    "posts/PM준비기-.md",
     "posts/회사리스트",
     "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
     "Pasted Image 20240228071129_062.svg",
