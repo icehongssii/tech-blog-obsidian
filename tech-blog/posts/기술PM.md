@@ -1,14 +1,8 @@
 ---
-
 title: 기술PM
-
 created: 2024-02-16 13:08
-
 last-updated: 2024-02-16 13:28
-
-tags:
-  - tag1
-  - tag2
+tags: []
 ---
 
 ## 👯‍♂️ intro & tl;dr

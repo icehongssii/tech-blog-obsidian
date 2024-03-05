@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "posts/회사리스트/서울로보틱스.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,13 +23,16 @@
             "id": "b77bba1a3fe1812a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "posts/회사리스트/서울로보틱스.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "posts/회사리스트/서울로보틱스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "posts/회사리스트/서울로보틱스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "posts/회사리스트/서울로보틱스.md"
               }
             }
           },
@@ -171,12 +174,23 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "3624ceb35304f6eb",
+  "active": "b77bba1a3fe1812a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
-    "Home.md",
-    "Excalidraw/Drawing 2024-03-04 14.50.39.excalidraw.md",
+    "posts/회사리스트/서울로보틱스.md",
     "posts/idontwaitingforwater기획서.md",
+    "posts/idwfw-게임개발기.md",
+    "posts/무제 파일 1.md",
+    "posts/회사리스트",
+    "posts/서울로보틱스.md",
+    "posts/원서 넣을 곳 리스트.md",
+    "posts/왜 ec2이미지 생성시 ARM?.md",
+    "posts/취업 위한 포트폴리오2(책).md",
+    "posts/PM준비기-.md",
+    "posts/기술PM.md",
+    "posts/괴물 감상포인트.md",
+    "Home.md",
+    "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
+    "Excalidraw/Drawing 2024-03-04 14.50.39.excalidraw.md",
     "12강. 빠른 CPU를 위한 설계 기법.md",
     "Clear is kind, Unclear is unkind.md",
     "Make your voice at work!.md",
@@ -190,13 +204,7 @@
     "이력서 202403.md",
     "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.md",
     "Excalidraw/Drawing 2024-02-28 04.03.09.excalidraw.md",
-    "28강.  스레드.md",
-    "27강.  프로세스 상태와 계층 구조.md",
     "Pasted Image 20240228071129_062.svg",
-    "무제 파일 2.md",
-    "무제 파일 1.md",
-    "무제 파일.md",
-    "posts/idwfw-컨셉기획.md",
     "Pasted image 20240227142853.png",
     "Pasted Image 20240220001414_642.png",
     "Pasted Image 20240204235014_345.png",
@@ -205,9 +213,6 @@
     "Pasted Image 20240228052722_501.svg",
     "Pasted Image 20240228052715_009.svg",
     "Pasted Image 20240228052707_500.svg",
-    "Excalidraw/Drawing 2024-02-28 05.25.14.excalidraw.md",
-    "md-to-react-arch.excalidraw.md",
-    "2024-02-28.md",
     "export/무제 파일/plugin/chalkboard/style.css",
     "export/무제 파일/plugin/chalkboard/plugin.js",
     "export/무제 파일/plugin/chalkboard/plugin (copy).js",
@@ -216,7 +221,6 @@
     "export/무제 파일/plugin/chalkboard",
     "export/무제 파일/plugin/chart/chart.min.js",
     "export/무제 파일/plugin/chart/plugin.js",
-    "export/무제 파일/plugin/chart",
-    "export/무제 파일/plugin/customcontrols/style.css"
+    "export/무제 파일/plugin/chart"
   ]
 }
