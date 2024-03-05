@@ -6,7 +6,6 @@
       {
         "id": "f53999baf962a12a",
         "type": "tabs",
-        "dimension": 80.15427769985975,
         "children": [
           {
             "id": "b77bba1a3fe1812a",
@@ -14,26 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/원서 넣을 곳 리스트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c1f6a4b99e0c7454",
-        "type": "tabs",
-        "dimension": 19.845722300140253,
-        "children": [
-          {
-            "id": "b8463a61fe344f79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/회사리스트/아데나-DevOps.md",
+                "file": "posts/2403-1차 지원(취업)/크래프톤-자소서.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/원서 넣을 곳 리스트.md",
+                "file": "posts/2403-1차 지원(취업)/크래프톤-자소서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/원서 넣을 곳 리스트.md",
+                "file": "posts/2403-1차 지원(취업)/크래프톤-자소서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/원서 넣을 곳 리스트.md"
+                "file": "posts/2403-1차 지원(취업)/크래프톤-자소서.md"
               }
             }
           },
@@ -162,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 523.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,12 +163,25 @@
   },
   "active": "b77bba1a3fe1812a",
   "lastOpenFiles": [
-    "posts/회사리스트/아데나-DevOps.md",
-    "posts/원서 넣을 곳 리스트.md",
-    "posts/회사리스트/스마일게이트-DevOps.md",
+    "posts/2403-1차 지원(취업)/크래프톤-경력기술서.md",
+    "posts/2403-1차 지원(취업)/서초도서관API.md",
+    "posts/2403-1차 지원(취업)/2024-03-지원서 넣을곳.md",
+    "posts/2403-1차 지원(취업)/2024-03-1차지원서 프로젝트.md",
+    "posts/2403-1차 지원(취업)/2024-03-1차지원서 일정.md",
+    "posts/2403-idwfw게임프로젝트/idontwaitingforwater기획서.md",
+    "posts/무제 파일.md",
+    "posts/2403-idwfw게임프로젝트",
+    "posts/1ㅊ.md",
+    "posts/2403-1차 지원(취업)",
+    "posts/2403-1차 지원(취업)/크래프톤-자소서.md",
+    "posts/자소서",
+    "posts/개발PM.md",
+    "posts/2403-idwfw게임프로젝트/idwfw-게임개발기.md",
     "posts/회사리스트/에이블리-DevOps.md",
-    "posts/회사리스트/위메이드-DevOps.md",
+    "posts/회사리스트/아데나-DevOps.md",
     "posts/회사리스트/서울로보틱스-DevOps.md",
+    "posts/회사리스트/스마일게이트-DevOps.md",
+    "posts/회사리스트/위메이드-DevOps.md",
     "posts/회사리스트/크래프톤-기술PM.md",
     "posts/이력서 넣을곳.md",
     "posts/영상-마크플러그인.md",
@@ -198,17 +191,7 @@
     "posts/그 게임, 내가 만들었어요.md",
     "posts/괴물 감상포인트.md",
     "posts/게임제작개론.md",
-    "posts/개발PM.md",
     "posts/PM준비기-.md",
-    "posts/취업 위한 포트폴리오2(책).md",
-    "posts/기술PM.md",
-    "posts/서울로보틱스.md",
-    "posts/무제 파일 1.md",
-    "posts/무제 파일 2.md",
-    "posts/무제 파일.md",
-    "2024-03-11.md",
-    "posts/idontwaitingforwater기획서.md",
-    "posts/idwfw-게임개발기.md",
     "posts/회사리스트",
     "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
     "Pasted Image 20240228071129_062.svg",
@@ -225,9 +208,6 @@
     "export/무제 파일/plugin/chalkboard/plugin (copy).js",
     "export/무제 파일/plugin/chalkboard/img",
     "export/무제 파일/plugin/chalkboard/_style.css",
-    "export/무제 파일/plugin/chalkboard",
-    "export/무제 파일/plugin/chart/chart.min.js",
-    "export/무제 파일/plugin/chart/plugin.js",
-    "export/무제 파일/plugin/chart"
+    "export/무제 파일/plugin/chalkboard"
   ]
 }
