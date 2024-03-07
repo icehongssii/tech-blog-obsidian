@@ -4,7 +4,6 @@ created: 2024-03-02 20:07
 last-updated: 2024-03-08 00:51
 tags:
   - softskill
-tldr:
 ---
 
 ## 👯‍♂️ Intro & tl;dr
