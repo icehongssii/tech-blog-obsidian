@@ -15,7 +15,12 @@ has_dv: true
 `
 --- 
 
-## 👯‍♂️ 개요
+## 👯‍♂️ 개요```
+
+```
+
+
+
 
 - 1차 지원(0308지원)
 	- 자격조건에 eks, k8s 명시 안되어있는 경우
@@ -48,6 +53,7 @@ has_dv: true
 TABLE qualifications, skills
 FROM "posts/회사리스트"
 WHERE (contains(position, "기술PM") OR contains(company-name, "아데나")) and isvalidnow = true
+
 ```
 
 ### 👯‍♂️ 2차 지원회사
