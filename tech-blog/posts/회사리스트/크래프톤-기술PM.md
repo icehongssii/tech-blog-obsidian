@@ -30,5 +30,6 @@ documents: 자소서, 경력기술서, 포트폴리오, 이력서
 deadline: 상시
 apply-at: wanted
 지원여부: 
-지원날짜:
+지원날짜: 
+공고유효여부: true
 ---

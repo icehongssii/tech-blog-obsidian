@@ -29,6 +29,7 @@
     "created": "date",
     "deadline": "text",
     "지원여부": "checkbox",
-    "지원날짜": "date"
+    "지원날짜": "date",
+    "공고유효여부": "checkbox"
   }
 }

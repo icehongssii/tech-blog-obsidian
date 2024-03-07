@@ -10,7 +10,7 @@ responsibilities: |-
 qualifications: |-
   - AWS나 GCP 클라우드 운영 경험자
   - Terraform으로 인프라 구축자
-  - ECS, EKS 사용이나 구성경험자
+  - ecs 사용이나 구성경험자
   - 오픈소스 이용한 서비스 구성 경험있는자
   - OS 기본지식 있는자
   - 시스템 장애 대응 조치 경험있는자
@@ -18,7 +18,7 @@ qualifications: |-
 preference: |-
   - 관련 전공자
   - SRC or DevOps 문화 관심있는자
-  - 대규모 ECS, EKS 경험있는자
+  - 대규모 ECSEKS 경험있는자
   - 하나 언어 가지고 자동화 가능자(python, terraform, bash)
   - ISMS 인증 심사 관련 경험 또는 보안 지식 있는자
 process: 서류 전형 ▶ 1차 면접(직무 적합성) ▶ 2/3차 면접(조직 적합성) ▶ 처우/입사일 협의
@@ -40,5 +40,6 @@ documents: 자소서, 경력기술서, 포트폴리오, 이력서
 deadline: 상시
 apply-at: wanted
 지원여부: 
-지원날짜:
+지원날짜: 
+공고유효여부: true
 ---

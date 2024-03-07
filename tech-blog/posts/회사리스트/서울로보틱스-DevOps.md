@@ -29,6 +29,7 @@ created: 2024-03-11
 documents: 
 deadline: 상시
 apply-at: linkedin
-지원여부: 
-지원날짜:
+지원여부: false
+지원날짜: 
+공고유효여부: true
 ---
