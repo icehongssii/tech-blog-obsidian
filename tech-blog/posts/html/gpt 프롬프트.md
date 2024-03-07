@@ -5,6 +5,7 @@ last-updated: 2024-03-07 15:40
 tags:
   - tag1
   - tag2
+has_dv: true
 ---
 ## 👯‍♂️ intro & tl;dr
 
@@ -30,18 +31,17 @@ tags:
 
 - aws
 - ci/cd
-- python
-- 테라폼이용
+- python```
+```
 
-| File                                      | qualifications                                                                                                                                                          | skills                                                                                                                                      |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[posts/회사리스트/아데나-DevOps.md\|아데나-DevOps]] | - AWS나 GCP 클라우드 운영 경험자
-- Terraform으로 인프라 구축자
-- ecs 사용이나 구성경험자
-- 오픈소스 이용한 서비스 구성 경험있는자
-- OS 기본지식 있는자
-- 시스템 장애 대응 조치 경험있는자
-- 배포 자동화 위한 CI/CD 파이프라인 구축 또는 이해가진자(gitlab 선호) | <ul><li>aws</li><li>linux</li><li>window</li><li>ci/cd</li><li>jenkins</li><li>teamcity</li><li>python</li><li>docker</li><li>ecs</li></ul> |
+```
+
+
+
+
+| File                                      | qualifications                                                                                                                                                       | skills                                                                                                                                      |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[posts/회사리스트/아데나-DevOps.md\|아데나-DevOps]] | <ul><li>클라우드기반지식</li><li>terraform인프라 구축</li><li>ecs</li><li>오픈소스로 서비스 구성</li><li>os지식(linux, storage, nw 심층)</li><li>배포자동화</li><li>ci/cd</li><li>시스템장애 대응</li></ul> | <ul><li>aws</li><li>linux</li><li>window</li><li>ci/cd</li><li>jenkins</li><li>teamcity</li><li>python</li><li>docker</li><li>ecs</li></ul> |
 
 
 ### 👯‍♂️ 2차 지원회사
@@ -50,16 +50,10 @@ tags:
 
 - docker, k8s 집중
 
-| File                                            | qualifications                                                                                             | skills                                                                                                       |
-| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [[posts/회사리스트/서울로보틱스-DevOps.md\|서울로보틱스-DevOps]] | - BS in CS 또는 IT업계 최소 2년
-- python같은 고급언어로 프로그래밍 가능자
--  컨테이너가상화기술경험(docker, k8s)
-- linux, 스토리지, 네트워킹등 심층 지식 | <ul><li>docker</li><li>k8s</li><li>python</li><li>CS</li><li>ci/cd</li><li>aws</li></ul>                     |  
-| [[posts/회사리스트/위메이드-DevOps.md\|위메이드-DevOps]]     | - 유관 경력 1년이상 5년이하
-- 클라우드 기반 서버 운영 경험 보유자
--  IaC, CI/CD 환경구축 경험 보유자
-- 책임감 있고 능동적 성경 소유자                     | <ul><li>aws</li><li>IaC</li><li>argoCD</li><li>terraform</li><li>gitops</li><li>python</li><li>eks</li></ul> |
+| File                                            | qualifications                                                                                          | skills                                                                                                       |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [[posts/회사리스트/서울로보틱스-DevOps.md\|서울로보틱스-DevOps]] | <ul><li>컴공 또는 IT2년이상</li><li>python</li><li>docker또는k8s경험</li><li>os지식(linux, storage, nw 심층)</li></ul> | <ul><li>docker</li><li>k8s</li><li>python</li><li>CS</li><li>ci/cd</li><li>aws</li></ul>                     |
+| [[posts/회사리스트/위메이드-DevOps.md\|위메이드-DevOps]]     | <ul><li>1년이상</li><li>클라우드기반지식</li><li>ci/cd경험</li><li>devops</li></ul>                                  | <ul><li>aws</li><li>IaC</li><li>argoCD</li><li>terraform</li><li>gitops</li><li>python</li><li>eks</li></ul> |
 
 
 ### 👯‍♂️ 3차 지원회사
@@ -67,79 +61,21 @@ tags:
 - 3월말데드라인
 - CS 집중 
 
-| File                                        | qualifications                                                                                                                             | skills                                                                                    |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| [[posts/회사리스트/에이블리-DevOps.md\|에이블리-DevOps]] | - 연차 3~8년
-- 클라우드 서비스 인프라 설계 및 운영 경험 3년이상
- - os, nw등 기본 cs 지식 있는자
-- k8s와 클라우드 네이티브 생태계 잘 활용하는자
-- 하나이상 프로그래밍 능통자
-- 주도적 업무 수행가능자
-- 원활한 커뮤니케이터 | <ul><li>aws</li><li>CS</li><li>k8s</li><li>python</li><li>IaC</li><li>terraform</li></ul> |
+| File                                        | qualifications                                                                                             | skills                                                                                    |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [[posts/회사리스트/에이블리-DevOps.md\|에이블리-DevOps]] | <ul><li>3년이상</li><li>os지식(linux, storage, nw 심층)</li><li>k8s생태계 능통</li><li>python</li><li>커뮤니케이터</li></ul> | <ul><li>aws</li><li>CS</li><li>k8s</li><li>python</li><li>IaC</li><li>terraform</li></ul> |
 
 
 ## 👯‍♂️ Conclustion
 
-| File                                            | responsibilities                                                                     | qualifications                                                                                                                                                                                   | preference | skills                                                                                     |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------------------------------ |
-| [[posts/회사리스트/크래프톤-기술PM.md\|크래프톤-기술PM]]         | - 크래프톤이 퍼블리싱 하는 게임 라이브 기술이슈 유관부서 협업해 해결 - 게임 라이브 런칭 트러블 슈팅 - 게임 런칭관련 기술 준비 및 마일스톤 관리 | - 온라인게임 또는 IT 관련 기술업무 경력 2년이상 - 스크립트언어(python, powershell, bash) 또는 일반언어 (go, c#)등 프로그래밍 작성 경험 - 퍼블릭 클라우드 서비스 및 필요 기술 요소 - 협업 위한 커뮤니케이션 능력 - 온라인 게임 개발 및 프로세스에 대한 이해 - 새로운 기술 익히고 적용하는데 어려움 없는 분 | - 배포관리 경험  | <ul><li>python</li><li>linux</li><li>ci/cd</li><li>docker</li><li>aws</li><li>CS</li></ul> |
-| [[posts/회사리스트/서울로보틱스-DevOps.md\|서울로보틱스-DevOps]] | - docker&k8s 기반 배포, 설계, 구축                                                           | - 어쩌구 <br>- 어쩌구                                                                                                                                                                                  |            |                                                                                            |
-|                                                 |                                                                                      |                                                                                                                                                                                                  |            |                                                                                            |
--  개발 팀과 협력해 테스트 및 릴리스 절차 구축
-- 이상싱후, 시스템 성능저하 경고 위한 모니터링 도구 구축         | - BS in CS 또는 IT업계 최소 2년
-- python같은 고급언어로 프로그래밍 가능자
--  컨테이너가상화기술경험(docker, k8s)
-- linux, 스토리지, 네트워킹등 심층 지식                                                                                       | - 클라우드 서비스 경험(aws)
--  ci/cd경험(github, action, jenkins, teamcity등)                                                                                                                                        | <ul><li>docker</li><li>k8s</li><li>python</li><li>CS</li><li>ci/cd</li><li>aws</li></ul>                                                    |  
-| [[posts/회사리스트/위메이드-DevOps.md\|위메이드-DevOps]]     | - 클라우드 기반 게임/플랫폼 서비스 구축 및 유지보수
-- 시스템 및 네트워크등 서비스 모니터링 운영
-- IaC, CI/CD등 인프라 고도화 업무                 | - 유관 경력 1년이상 5년이하
-- 클라우드 기반 서버 운영 경험 보유자
--  IaC, CI/CD 환경구축 경험 보유자
-- 책임감 있고 능동적 성경 소유자                                                                                                           | - ISTM 기반 서비스 운영관리 경험자
-- bitbucket pipeline, argoCD, Atlantis, Terraform 구춘/운영 경험자
-- GitOps 서비스 운영 경험자
-- 자동화 스크립트(python, shell)작성 가능자
-- 컨테이너 환경 마이그레이션 및 운영경험자(AKS, EKS)
-- 장애 대응자
-- 대규모 모니터링 시스템 구축 경험자 | <ul><li>aws</li><li>IaC</li><li>argoCD</li><li>terraform</li><li>gitops</li><li>python</li><li>eks</li></ul>                                |  
-| [[posts/회사리스트/에이블리-DevOps.md\|에이블리-DevOps]]     | - AWS 전사 인프라 구축
-- 모니터링 & 배포 파이프라인 시스템 구축
-- DE, MLE 협업해 데이터 파이프라인 및 머신러닝 플랫폼 구성
-- 트러블 슈팅, - 환경 최적화 | - 연차 3~8년
-- 클라우드 서비스 인프라 설계 및 운영 경험 3년이상
- - os, nw등 기본 cs 지식 있는자
-- k8s와 클라우드 네이티브 생태계 잘 활용하는자
-- 하나이상 프로그래밍 능통자
-- 주도적 업무 수행가능자
-- 원활한 커뮤니케이터                                                       | - nw시스템 깊은 이해와 트러블 슈팅 경험자
-- 다양한 데이터베이스 이해와 트러블 슈팅 경험있는자
-- k8s 클러스터 구성,운영 경험자
-- iac(Terraform, Ansible) 인프라 관리 경험자
--  대용량 트래픽 대응 경험자                                                                      | <ul><li>aws</li><li>CS</li><li>k8s</li><li>python</li><li>IaC</li><li>terraform</li></ul>                                                   |  
-| [[posts/회사리스트/아데나-DevOps.md\|아데나-DevOps]]       | - AWS 구축 및 운영
-- 배포, 로깅, 모니터링, 시스템 구축 및 자동화
-- 사내 인프라 관리
-- 분석, 트러블슈팅, 서비스 운영                        | - AWS나 GCP 클라우드 운영 경험자
-- Terraform으로 인프라 구축자
-- ecs 사용이나 구성경험자
-- 오픈소스 이용한 서비스 구성 경험있는자
-- OS 기본지식 있는자
-- 시스템 장애 대응 조치 경험있는자
-- 배포 자동화 위한 CI/CD 파이프라인 구축 또는 이해가진자(gitlab 선호)                          | - 관련 전공자
-- SRC or DevOps 문화 관심있는자
-- 대규모 ECSEKS 경험있는자
-- 하나 언어 가지고 자동화 가능자(python, terraform, bash)
-- ISMS 인증 심사 관련 경험 또는 보안 지식 있는자                                                                        | <ul><li>aws</li><li>linux</li><li>window</li><li>ci/cd</li><li>jenkins</li><li>teamcity</li><li>python</li><li>docker</li><li>ecs</li></ul> |  
-| [[posts/회사리스트/스마일게이트-DevOps.md\|스마일게이트-DevOps]] | - 클라우드 기반 게임/플랫폼 인프라 설계, 구축 및 운영
-- 시스템 네트워크, 서비스 인프라 모니터링
-- Devops 운영관리                           | - 유관업무 경험 3년이상
- - AWS, Azure등 클라우드 기반지식
-- linux, window기반 서비스 구축 및 운영 경험
-- CI/CD 이해및운영및개선경험(jenkins, teamcity)                                                                                   | - 온라인게임서비스 devops 경험
-- ci/cd 파이프라인 설계 및 스크립트 작성경험
--  python, bash등으로 자동화 스크립트 경험
-- 컨테이너 환경 마이그레이션 및 운영경험                                                                                                 | <ul><li>aws</li><li>ci/cd</li><li>python</li><li>linux</li><li>CS</li><li>docker</li><li>k8s</li></ul>                                      |
+| File                                            | responsibilities                                                                             | qualifications                                                                                                                                                                                                               | preference                                                                                                                                                        | skills                                                                                                                                      |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[posts/회사리스트/크래프톤-기술PM.md\|크래프톤-기술PM]]         | <ul><li>라이브게임 런칭</li><li>마일스톤 관리</li><li>라이브기술</li></ul>                                     | <ul><li>1.  온라인게임 또는 IT 관련 기술업무 경력 2년이상 2.  스크립트언어(python, powershell, bash) 또는 일반언어 (go, c#)등 프로그래밍 작성 경험 3. 퍼블릭 클라우드 서비스 및 필요 기술 요소 4.  협업 위한 커뮤니케이션 능력 - 온라인 게임 개발 및 프로세스에 대한 이해  5.  새로운 기술 익히고 적용하는데 어려움 없는 분</li></ul> | <ul><li>배포관리</li></ul>                                                                                                                                            | <ul><li>python</li><li>linux</li><li>ci/cd</li><li>docker</li><li>aws</li><li>CS</li></ul>                                                  |
+| [[posts/회사리스트/서울로보틱스-DevOps.md\|서울로보틱스-DevOps]] | <ul><li>docker또는k8s배포 설계</li><li>테스트 릴리스 파이프라인 구축</li><li>모니터링</li></ul>                     | <ul><li>컴공 또는 IT2년이상</li><li>python</li><li>docker또는k8s경험</li><li>os지식(linux, storage, nw 심층)</li></ul>                                                                                                                      | <ul><li>클라우드 서비스 경험</li><li>ci/cd 경험</li></ul>                                                                                                                    | <ul><li>docker</li><li>k8s</li><li>python</li><li>CS</li><li>ci/cd</li><li>aws</li></ul>                                                    |
+| [[posts/회사리스트/위메이드-DevOps.md\|위메이드-DevOps]]     | <ul><li>클라우드 기반 게임 인프라 설계</li><li>모니터링</li><li>ci/cd</li><li>iac</li><li>terraform</li></ul> | <ul><li>1년이상</li><li>클라우드기반지식</li><li>ci/cd경험</li><li>devops</li></ul>                                                                                                                                                       | <ul><li>ISTM</li><li>bitbucket</li><li>argocd</li><li>atlantis</li><li>terraform</li><li>gitops</li><li>python 자동화</li><li>eks</li><li>aks</li><li>모니터링</li></ul> | <ul><li>aws</li><li>IaC</li><li>argoCD</li><li>terraform</li><li>gitops</li><li>python</li><li>eks</li></ul>                                |
+| [[posts/회사리스트/에이블리-DevOps.md\|에이블리-DevOps]]     | <ul><li>aws</li><li>모니터링</li><li>배포</li><li>데이터파이프라인</li></ul>                               | <ul><li>3년이상</li><li>os지식(linux, storage, nw 심층)</li><li>k8s생태계 능통</li><li>python</li><li>커뮤니케이터</li></ul>                                                                                                                   | <ul><li>nw시스템이해</li><li>db이해와 트러블슈팅</li><li>k8s</li><li>iac</li><li>terraform</li><li>ansible</li><li>고트래픽</li></ul>                                              | <ul><li>aws</li><li>CS</li><li>k8s</li><li>python</li><li>IaC</li><li>terraform</li></ul>                                                   |
+| [[posts/회사리스트/아데나-DevOps.md\|아데나-DevOps]]       | <ul><li>aws</li><li>배포</li><li>로깅</li><li>모니터링</li><li>인프라관리</li></ul>                       | <ul><li>클라우드기반지식</li><li>terraform인프라 구축</li><li>ecs</li><li>오픈소스로 서비스 구성</li><li>os지식(linux, storage, nw 심층)</li><li>배포자동화</li><li>ci/cd</li><li>시스템장애 대응</li></ul>                                                         | <ul><li>전공자</li><li>게임 devops</li><li>python 자동화</li><li>ecs</li><li>eks</li><li>ISMS</li></ul>                                                                   | <ul><li>aws</li><li>linux</li><li>window</li><li>ci/cd</li><li>jenkins</li><li>teamcity</li><li>python</li><li>docker</li><li>ecs</li></ul> |
+| [[posts/회사리스트/스마일게이트-DevOps.md\|스마일게이트-DevOps]] | <ul><li>클라우드 기반 게임 인프라 설계</li><li>devops</li><li>모니터링</li></ul>                              | <ul><li>3년이상</li><li>클라우드기반지식</li><li>os지식(linux, storage, nw 심층)</li><li>ci/cd경험</li></ul>                                                                                                                                  | <ul><li>게임 devops</li><li>ci/cd 경험</li><li>python 자동화</li><li>컨테이너 마이그레이션</li></ul>                                                                               | <ul><li>aws</li><li>ci/cd</li><li>python</li><li>linux</li><li>CS</li><li>docker</li><li>k8s</li></ul>                                      |
 
 
 --- 
@@ -148,4 +84,8 @@ tags:
 
 ```
 
+``````
+
 ```
+
+

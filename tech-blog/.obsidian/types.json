@@ -21,15 +21,17 @@
     "excalidraw-css": "text",
     "excalidraw-autoexport": "checkbox",
     "excalidraw-iframe-theme": "text",
-    "responsibilities": "text",
-    "qualifications": "text",
-    "preference": "text",
+    "responsibilities": "multitext",
+    "qualifications": "multitext",
+    "preference": "multitext",
     "benefits": "text",
     "skills": "multitext",
     "created": "date",
     "deadline": "text",
     "지원여부": "checkbox",
     "지원날짜": "date",
-    "공고유효여부": "checkbox"
+    "공고유효여부": "checkbox",
+    "is_valid": "checkbox",
+    "has_dv": "checkbox"
   }
 }

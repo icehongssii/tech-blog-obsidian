@@ -5,6 +5,7 @@ last-updated: 2024-03-07 15:40
 tags:
   - tag1
   - tag2
+has_dv: true
 ---
 ## 👯‍♂️ intro & tl;dr
 
@@ -30,8 +31,18 @@ tags:
 
 - aws
 - ci/cd
-- python
-- 테라폼이용
+- python```
+```
+
+```
+
+
+```
+
+```
+
+
+
 
 ```dataview
 TABLE qualifications, skills
