@@ -37,5 +37,5 @@ deadline: 상시
 apply-at: wanted
 지원여부: 
 지원날짜: 
-공고유효여부: true
+isvalidnow: true
 ---

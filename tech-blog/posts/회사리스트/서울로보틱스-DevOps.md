@@ -31,5 +31,5 @@ deadline: 상시
 apply-at: linkedin
 지원여부: false
 지원날짜: 
-공고유효여부: true
+isvalidnow: true
 ---

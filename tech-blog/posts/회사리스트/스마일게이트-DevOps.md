@@ -34,5 +34,5 @@ deadline: 2024/03/31
 apply-at: 자사페이지
 지원여부: 
 지원날짜: 
-공고유효여부:
+isvalidnow:
 ---
