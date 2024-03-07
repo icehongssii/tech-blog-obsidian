@@ -2,7 +2,6 @@
   "dataview",
   "tag-wrangler",
   "obsidian-style-settings",
-  "templater-obsidian",
   "obsidian-linter",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
@@ -19,5 +18,6 @@
   "obsidian-advanced-uri",
   "obsidian-annotator",
   "obsidian-projects",
-  "dbfolder"
+  "dbfolder",
+  "templater-obsidian"
 ]
