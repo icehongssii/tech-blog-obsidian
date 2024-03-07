@@ -1,4 +1,13 @@
+---
+title: Clear is kind, Unclear is unkind
+created: 2024-03-02 20:07
+last-updated: 2024-03-08 00:51
+tags:
+  - softskill
+tldr:
+---
 
+## 👯‍♂️ Intro & tl;dr
 
 ```ad-tldr
 - Clear is kind, Unclear is unkind
@@ -6,8 +15,10 @@
 - 명료함은 친절함이다. 명료하지 않은 것은 불친절이다.
 ```
 
+--- 
 
-[어쩌구](https://brenebrown.com/articles/2018/10/15/clear-is-kind-unclear-is-unkind/)  
+## 👯‍♂️ 메인포인트1
+
 Not getting clear with a colleague about your expectations because it feels too hard, yet holding them accountable or blaming them for not delivering is unkind.
 
 Talking _about_ people rather than _to_ them is unkind.
@@ -19,3 +30,13 @@ When we have to show up for a hard conversation we call it “a rumble.” For u
 **A rumble is a discussion, conversation, or meeting defined by a commitment to lean into vulnerability, to stay curious and generous, to stick with the messy middle of problem identification and solving, to take a break and circle back when necessary, to be fearless in owning our parts, and, as psychologist Harriet Lerner teaches, to listen with the same passion with which we want to be heard.**
 
 More than anything else, when someone says, “Let’s rumble,” it cues me to show up with an open heart and mind so we can serve the work and each other, not our egos. Armoring up and protecting our egos rarely leads to productive, kind, and respectful conversations.
+
+## 👯‍♂️ Conclustion
+
+Summarize the main points and conclude your post.
+
+--- 
+
+## 👯‍♂️ Ref & LINKS TO THIS PAGE
+
+- [brene brown-clear is kind](https://brenebrown.com/articles/2018/10/15/clear-is-kind-unclear-is-unkind/)  

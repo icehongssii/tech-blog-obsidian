@@ -1,5 +1,5 @@
 ---
-title: 무제 파일 1
+title: 왜 ec2이미지 생성시 ARM?
 created: 2024-02-08 17:07
 last-updated: 2024-02-08 17:07
 tags:

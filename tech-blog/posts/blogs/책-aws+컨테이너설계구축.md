@@ -4,9 +4,9 @@ created: 2024-02-08 16:44
 last-updated: 2024-02-08 16:44
 tags:
   - book
-  - blog
   - aws
   - cloud
+  - 책-aws구축입문
 ---
 
 ## 👯‍♂️ intro & tl;dr
