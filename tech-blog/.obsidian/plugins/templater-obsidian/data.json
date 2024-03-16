@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "templates",
+  "templates_folder": "템플릿/",
   "templates_pairs": [
     [
       "",
@@ -22,7 +22,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
-    "templates/포스트.md"
+    "templates/포스트.md",
+    "템플릿/포스트템플릿.md"
   ],
   "startup_templates": [
     "templates/포스트.md"

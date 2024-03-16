@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🥵",
       "😀"
     ],
     "recentlyUsedIconsSize": 5,
@@ -23,5 +24,6 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "posts/blogs/11강.  명령어 사이클과 인터럽트.md": "😀"
+  "posts/blogs/11강.  명령어 사이클과 인터럽트.md": "😀",
+  "블로그 만들기": "🥵"
 }
