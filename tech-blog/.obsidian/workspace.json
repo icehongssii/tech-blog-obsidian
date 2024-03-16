@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f53999baf962a12a",
+        "id": "8334ae70531b4c5d",
         "type": "tabs",
         "children": [
           {
-            "id": "b77bba1a3fe1812a",
+            "id": "0b8367a68b820f9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "블로그 만들기/git commit 돌리기.md",
+                "file": "3. 취업준비/2403-1차 지원(취업)/크래프톤-자소서draft.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd77913930ce7041",
+            "id": "7f0a9cd2c4f57689",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vivinoum short for cp.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:책-혼공컴운",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 380.50418853759766
   },
   "right": {
     "id": "ef0b8423b0befe53",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그 만들기/git commit 돌리기.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그 만들기/git commit 돌리기.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그 만들기/git commit 돌리기.md"
+                "file": "Home.md"
               }
             }
           },
@@ -175,53 +175,53 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "b77bba1a3fe1812a",
+  "active": "7f0a9cd2c4f57689",
   "lastOpenFiles": [
-    "블로그 만들기/SSL 적용.md",
-    "블로그 만들기/git commit 돌리기.md",
-    "블로그 만들기/ECS 서비스에 개인 도메인 적용.md",
-    "블로그 만들기/ecs service 만들지 않고 task에 service 붙일 수 있나?.md",
-    "블로그 만들기/스테이징 단계 추가.md",
-    "vivinoum short for cp.md",
-    "블로그 만들기/깃허브 워크 플로우에서.md",
-    "블로그 만들기/무제 파일.md",
-    "템플릿",
-    "블로그 만들기/ECS health metric 해석.md",
-    "블로그 만들기/API 호출 수를 줄이기 위한 Redis 적용.md",
-    "템플릿/포스트템플릿.md",
-    "무제 파일.md",
-    "scripts/templates/포스트.md",
-    "블로그 만들기/할일 목록.md",
-    "블로그 만들기/command; list dir including hidden dir.md",
+    "2. posts/html/recent-updated.md",
+    "2. posts/html/recent-created.md",
     "Home.md",
-    "posts/2403-1차 지원(취업)/크래프톤-자소서.md",
-    "posts/2403-1차 지원(취업)/크래프톤-자소서.md",
-    "posts/2403-1차 지원(취업)/서초도서관API.md",
-    "posts/2403-1차 지원(취업)/크래프톤-경력기술서.md",
-    "posts/2403-1차 지원(취업)/2024-03-1차지원서 프로젝트.md",
-    "posts/2403-1차 지원(취업)/2024-03-1차지원서 일정.md",
-    "templates/포스트.md",
-    "posts/그 게임, 내가 만들었어요.md",
-    "posts/2403-1차 지원(취업)/2024-03-지원서 넣을곳.md",
-    "posts/2403-idwfw게임프로젝트/idontwaitingforwater기획서.md",
-    "posts/2403-idwfw게임프로젝트",
-    "posts/2403-1차 지원(취업)",
-    "posts/자소서",
-    "posts/회사리스트",
-    "Excalidraw/Drawing 2024-02-28 02.02.06.excalidraw.svg",
-    "Pasted Image 20240228071129_062.svg",
-    "Pasted image 20240227142853.png",
-    "Pasted Image 20240220001414_642.png",
-    "Pasted Image 20240204235014_345.png",
-    "Pasted Image 20240228052809_506.png",
-    "Pasted Image 20240228052734_449.svg",
-    "Pasted Image 20240228052722_501.svg",
-    "Pasted Image 20240228052715_009.svg",
-    "Pasted Image 20240228052707_500.svg",
-    "export/무제 파일/plugin/chalkboard/style.css",
-    "export/무제 파일/plugin/chalkboard/plugin.js",
-    "export/무제 파일/plugin/chalkboard/plugin (copy).js",
-    "export/무제 파일/plugin/chalkboard/img",
-    "export/무제 파일/plugin/chalkboard/_style.css"
+    "2. posts/blogs/잔혹한 천사의 테제로 일본어 배우기 - 개요 1.md",
+    "2. posts/blogs/잔혹한 천사의 테제 가사 및 독음 1.md",
+    "0. inbox/무제 파일.md",
+    "0. inbox/무제 파일 1.md",
+    "0. inbox/dataview 고급쿼리.md",
+    "2. posts/html/search.md",
+    "scripts/templates/blogPost.md",
+    "scripts/templates/company.md",
+    "scripts/templates/inbox.md",
+    "3. 취업준비/2403-1차 지원(취업)/크래프톤-자소서draft.md",
+    "3. 취업준비/2403-1차 지원(취업)/2024-03-지원서 넣을곳.md",
+    "3. 취업준비/2403-1차 지원(취업)/2024-03-1차지원서 프로젝트 2안.md",
+    "3. 취업준비/2403-1차 지원(취업)/괴물 감상포인트.md",
+    "3. 취업준비/2403-1차 지원(취업)/게임제작개론.md",
+    "3. 취업준비/2403-1차 지원(취업)/그 게임, 내가 만들었어요.md",
+    "3. 취업준비/2403-1차 지원(취업)/크래프톤 자소서.md",
+    "3. 취업준비/2403-1차 지원(취업)/크래프톤-경력기술서.md",
+    "assets",
+    "scripts/templates/무제 파일.md",
+    "scripts/templates",
+    "scripts",
+    "scripts/templates/dvToMdTags.md",
+    "scripts/templates/dataviewToMDtags.md",
+    "scripts/templates/dataviewToMD.md",
+    "scripts/templates/dvTomd.md",
+    "scripts/templates/포스트.md",
+    "1. staged",
+    "d",
+    "3. 취업준비",
+    "Pasted Image 20240308145842_716.svg",
+    "Pasted Image 20240311031936_238.png",
+    "export/무제 파일/plugin/zoom/zoom.js",
+    "export/무제 파일/plugin/zoom/zoom.esm.js",
+    "export/무제 파일/plugin/zoom/plugin.js",
+    "export/무제 파일/plugin/zoom",
+    "export/무제 파일/plugin/chalkboard/img/whiteboard.png",
+    "export/무제 파일/plugin/chalkboard/img/sponge.png",
+    "export/무제 파일/plugin/chalkboard/img/chalk-yellow.png",
+    "export/무제 파일/plugin/chalkboard/img/chalk-white.png",
+    "export/무제 파일/plugin/chalkboard/img/chalk-red.png",
+    "export/무제 파일/plugin/chalkboard/img/chalk-purple.png",
+    "export/무제 파일/plugin/chalkboard/img/chalk-orange.png",
+    "export/무제 파일/plugin/chalkboard/img/chalk-green.png"
   ]
 }

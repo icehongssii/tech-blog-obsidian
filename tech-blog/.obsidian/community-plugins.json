@@ -1,5 +1,4 @@
 [
-  "dataview",
   "tag-wrangler",
   "obsidian-style-settings",
   "obsidian-linter",
@@ -19,5 +18,6 @@
   "obsidian-annotator",
   "obsidian-projects",
   "dbfolder",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview"
 ]

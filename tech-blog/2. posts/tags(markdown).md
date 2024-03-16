@@ -1,16 +1,4 @@
 
-
-```
-
-```
-
-```
-
-```
-
-
-름
-
 ```dataview
 TABLE without id
 t+"("+length(rows.file.link)+")" as tags, rows.file.name

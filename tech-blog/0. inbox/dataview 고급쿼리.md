@@ -1,5 +1,10 @@
-
-
+---
+title: dataview 고급쿼리
+created: 2024-03-10 22:28
+last-updated: 2024-03-10 22:40
+tags:
+  - obsidian
+---
 
 
 ```
