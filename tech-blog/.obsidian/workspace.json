@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "2. posts/html/블로그개발기.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.50418853759766
+    "width": 206.50418853759766
   },
   "right": {
     "id": "ef0b8423b0befe53",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2. posts/html/블로그개발기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2. posts/html/블로그개발기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "2. posts/html/블로그개발기.md"
               }
             }
           },
@@ -177,10 +177,23 @@
   },
   "active": "7f0a9cd2c4f57689",
   "lastOpenFiles": [
+    "2. posts/html/profilehub.md",
+    "2. posts/html/idontwaitingforwater.md",
+    "2. posts/html/블로그개발기.md",
+    "2. posts/blogs/profilehub개발기.md",
+    "2. posts/blogs/블로그 개발기.md",
+    "2. posts/blogs/idontwaitingforwater 게임 개발기.md",
+    "2. posts/html/블로그개발.md",
+    "2. posts/blogs/잔혹한 천사의 테제로 일본어 배우기 - 개요 1.md",
+    "2. posts/tags(markdown).md",
+    "3. 취업준비/2403-1차 지원(취업)/크래프톤 자소서.md",
+    "3. 취업준비/2403-1차 지원(취업)/크래프톤-자소서draft.md",
+    "2. posts/blogs/19강. RAID정의와 종류.md",
+    "2. posts/blogs/11강.  명령어 사이클과 인터럽트.md",
+    "2. posts/blogs/13강. 명령어 병렬처리 기법.md",
+    "Home.md",
     "2. posts/html/recent-updated.md",
     "2. posts/html/recent-created.md",
-    "Home.md",
-    "2. posts/blogs/잔혹한 천사의 테제로 일본어 배우기 - 개요 1.md",
     "2. posts/blogs/잔혹한 천사의 테제 가사 및 독음 1.md",
     "0. inbox/무제 파일.md",
     "0. inbox/무제 파일 1.md",
@@ -189,23 +202,9 @@
     "scripts/templates/blogPost.md",
     "scripts/templates/company.md",
     "scripts/templates/inbox.md",
-    "3. 취업준비/2403-1차 지원(취업)/크래프톤-자소서draft.md",
-    "3. 취업준비/2403-1차 지원(취업)/2024-03-지원서 넣을곳.md",
-    "3. 취업준비/2403-1차 지원(취업)/2024-03-1차지원서 프로젝트 2안.md",
-    "3. 취업준비/2403-1차 지원(취업)/괴물 감상포인트.md",
-    "3. 취업준비/2403-1차 지원(취업)/게임제작개론.md",
-    "3. 취업준비/2403-1차 지원(취업)/그 게임, 내가 만들었어요.md",
-    "3. 취업준비/2403-1차 지원(취업)/크래프톤 자소서.md",
-    "3. 취업준비/2403-1차 지원(취업)/크래프톤-경력기술서.md",
     "assets",
-    "scripts/templates/무제 파일.md",
     "scripts/templates",
     "scripts",
-    "scripts/templates/dvToMdTags.md",
-    "scripts/templates/dataviewToMDtags.md",
-    "scripts/templates/dataviewToMD.md",
-    "scripts/templates/dvTomd.md",
-    "scripts/templates/포스트.md",
     "1. staged",
     "d",
     "3. 취업준비",
