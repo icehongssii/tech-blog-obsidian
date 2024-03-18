@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. posts/html/블로그개발기.md",
+                "file": "2. posts/blogs/파이썬 코드 품질관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. posts/html/블로그개발기.md",
+                "file": "2. posts/blogs/파이썬 코드 품질관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. posts/html/블로그개발기.md",
+                "file": "2. posts/blogs/파이썬 코드 품질관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. posts/html/블로그개발기.md"
+                "file": "2. posts/blogs/파이썬 코드 품질관리.md"
               }
             }
           },
@@ -177,9 +177,14 @@
   },
   "active": "7f0a9cd2c4f57689",
   "lastOpenFiles": [
+    "2. posts/blogs/ECS 태스크 관리.md",
+    "2. posts/blogs/파이썬 코드 품질관리.md",
+    "2. posts/blogs/Queuing Chain Pattern.md",
+    "2. posts/blogs/Docker 이미지 최적화.md",
+    "2. posts/blogs/mysql 쿼리최적화.md",
+    "2. posts/html/블로그개발기.md",
     "2. posts/html/profilehub.md",
     "2. posts/html/idontwaitingforwater.md",
-    "2. posts/html/블로그개발기.md",
     "2. posts/blogs/profilehub개발기.md",
     "2. posts/blogs/블로그 개발기.md",
     "2. posts/blogs/idontwaitingforwater 게임 개발기.md",
@@ -198,10 +203,6 @@
     "0. inbox/무제 파일.md",
     "0. inbox/무제 파일 1.md",
     "0. inbox/dataview 고급쿼리.md",
-    "2. posts/html/search.md",
-    "scripts/templates/blogPost.md",
-    "scripts/templates/company.md",
-    "scripts/templates/inbox.md",
     "assets",
     "scripts/templates",
     "scripts",
