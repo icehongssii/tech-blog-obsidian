@@ -115,7 +115,7 @@ reset mixed 이후에...
 
 
 
-- 패럴럭스 스크롤링 추천 https://youtube.com/shorts/S8vri9gxQHM?si=8ThaXBeYuUYb71nK
+- 패럴럭스 스크롤링 추천 
 
 - 배경음악은 코파일럿으로 바꾸자
 - rebase와 push는 언제하는가?
@@ -226,159 +226,6 @@ https://www.youtube.com/watch?v=tHrT4KoDZ_Y
 
 
 
-## 어떻게 점프를 구현 할 것인가!? -> State Machine
-
-![](https://i.imgur.com/94zOvZ2.gif)
-
-- 왜 점프가 안될까 : https://gameprogrammingpatterns.com/state.html 머릿속에 안들어오는 패턴
-- https://www.reddit.com/r/godot/comments/le9x2n/jump_and_fall_animations_only_play_first_frame/
-- jumpsprite 4프레임을 그냥 jump와  fall 로 나누었다
-```python
-extends CharacterBody2D
-
-enum {
-	RUNNING,
-	JUMPING,
-	FALLING
-}
-
-var state = RUNNING	
-const SPEED = 30
-const JUMP_VELOCITY = -400.0
-@onready var anim = get_node("AnimationPlayer")
-# Get the gravity from the project settings to be synced with RigidBody nodes.
-var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
-	
-
-func _physics_process(delta):
-	velocity.x = SPEED
-	state = RUNNING
-	
-	if not is_on_floor(): # 공중이라
-		velocity.y += gravity * delta
-		if velocity.y < 0:
-			state = JUMPING
-		else:
-			state = FALLING 
-#
-	## Handle jump.
-	if Input.is_action_just_pressed("enter") and is_on_floor():		
-		velocity.y = JUMP_VELOCITY	
-		velocity.y = move_toward(velocity.y, SPEED, SPEED)
-		
-	match state:
-		RUNNING:
-			anim.play("Idle")			
-		JUMPING:
-			anim.play("Jump")
-		FALLING:
-			anim.play("Fall")
-			
-			
-			
-			
-
-	
-	
-	
-	
-	move_and_slide()
-
-```
-
-
-
-
-사실 엄청 간단할 것 같음  
-![](https://i.imgur.com/vVKmmVC.gif)
-
-위의키를 누르면 = 점프한다! 이때 점프 spritesheet는 총4프레임으로 구성되어있었고 아래와같았다  
-왜 점프 애니메이션은 실행이 안되는거냐구;
-```python
-extends CharacterBody2D
-
-
-const SPEED = 30
-const JUMP_VELOCITY = -400.0
-@onready var anim = get_node("AnimationPlayer")
-# Get the gravity from the project settings to be synced with RigidBody nodes.
-var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
-	
-
-func _physics_process(delta):
-	velocity.x = SPEED
-	anim.play("Idle")
-
-	if not is_on_floor(): # 공중이라
-		velocity.y += gravity * delta
-#
-	## Handle jump.
-	if Input.is_action_just_pressed("enter") and is_on_floor():		
-		velocity.y = JUMP_VELOCITY	
-		velocity.y = move_toward(velocity.y, SPEED, SPEED)
-		anim.play("Jump") #### 이때는 아예 Jump애니메이션이 실행이 안된다 왜지?
-
-			
-			
-	
-	
-	move_and_slide()
-
-```
-![](https://i.imgur.com/9HqdlCE.png)
-
-
-
-velocity < 0으로만 하면 Jump의 첫번쨰 프레임만 실행된다  
-![](https://i.imgur.com/amX8gww.gif)
-```python
-#찾아보니까 
-# velocity.y < 0 일때 점프를 하게 하라고 하드라구? 이게 뭔말인가 찾아보니 자유 낙하상태일때 
-
-extends CharacterBody2D
-
-
-const SPEED = 30
-const JUMP_VELOCITY = -400.0
-@onready var anim = get_node("AnimationPlayer")
-# Get the gravity from the project settings to be synced with RigidBody nodes.
-var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
-	
-
-func _physics_process(delta):
-	velocity.x = SPEED
-	anim.play("Idle")
-
-	if not is_on_floor(): # 공중이라
-		velocity.y += gravity * delta
-#
-	## Handle jump.
-	if Input.is_action_just_pressed("enter") and is_on_floor():		
-		velocity.y = JUMP_VELOCITY	
-		velocity.y = move_toward(velocity.y, SPEED, SPEED)
-	if velocity.y <0:
-		anim.play("Jump") #### 이때는 아예 Jump애니메이션이 실행이 안된다 왜지?
-
-			
-			
-	
-	
-	move_and_slide()
-
-```
-
-
-
-```ad-important
-title: velocity.y <0의 의미가 뭘까?
-velocity.y < 0 이라는 것은 y축 방향으로의 속도가 음수라는 뜻입니다. 즉, y축 방향으로 아래로 움직이고 있다는 것을 나타냅니다. 예를 들어, 중력의 영향을 받는 물체가 자유낙하하고 있다면, 그 물체의 velocity.y 값은 음수가 될 것입니다. 반대로, y축 방향으로 위로 움직이고 있다면, velocity.y 값은 양수가 될 것입니다12.
-
-velocity.y < 0 은 물리학에서 자주 사용되는 개념입니다. 예를 들어, 유니티에서는 rigidbody.velocity.y 를 사용해서 물체의 y축 방향 속도를 알 수 있습니다. 이 값을 이용해서 물체의 상태나 행동을 제어할 수 있습니다. 예를 들어, 물체가 바닥에 닿았는지 여부를 판단하거나, 점프를 할 수 있는지 여부를 결정하거나, 공중에 떠있는 동안의 애니메이션을 재생하거나 할 수 있습니다3.
-
-velocity.y < 0 에 대해 더 자세히 알고 싶으시면, 이 블로그 글이나 이 위키 문서를 참고해보세요. 😊
-
-1: rigidbody.velocity <-Why so difficult? - Unity Forum 2: Velocity - Wikipedia 3: What are the kinematic formulas? (article) | Khan Academy
-```
 
 ## 스코어는? _process는 렌더링 너무 많다
 
@@ -439,23 +286,7 @@ func _on_timer_timeout():
 
 ----
 
-## Godot에서 쓰이는 용어들에 대해서 조금씩 익숙해져가고 있다, Rigidbody? Kinematic Body?
 
-- rigidbody란 한국어로 강체, 물리학에서 형태가 고정되어 변하지 않는 물체를 가리킨다. 강체는 외력이 가해져도 모양이나 크기가 변형되지 않는다.(위키출처) 유니티에서 쓰인느 리지드 바디는...  게임 오브젝트의 물리적 동작을 가능하게 하는 주요 컴포넌트입니다. 리지드바디가 연결된 오브젝트는 중력에 즉시 반응합니다.. 흥미로운건 고닷에서도 리지드 바디는 스크립트로 다이렉트로 컨트롤하면 안되고 이 물체에 물리엔진을 통해 우밎ㄱ이도록해야한다(중력, impulses등)
-- 한편 키네마틱바디는 유니티에서 리지드바디 2D는 시뮬레이션에서 매우 명시적인 사용자 제어 하에서만 움직이도록 설계됩니다.동역학 리지드바디 2D는 중력과 힘의 영향을 받지만, 키네마틱 리지드바디 2D는 그렇지 않습니다.따라서 키네마틱 리지드바디 2D는 동적 리지드바디 2D보다 시스템 리소스를 덜 소모해서 더 빠르게 시뮬레이션할 수 있습니다. < 라고 표현되어있다, 
-- 한편 캐릭터바디는 캐릭터를 위해 만들어진거임 그리고 충돌이나 반응과정이 스크립트로 반드시 구현되어야햄
-- `내가 만들고 싶어하는 노드가 캐릭터 밀어낼 수 있는가?` / 무엇보다 가장 큰 차이점은 이 노드를 무엇이 움직이게 하는가 물리엔진이라면 리지드바디, 그리고 스크립트라면 캐릭터바디디
-	- 예스: -> rigidbody
-	- 놉! -> characterbody
-- 상호작용하는게 없기 떄문에 내 몬스터는 캐릭터 바디를 사용하면된다
-- 코인을 모으는 중이란 그 코인은 아무것도 상호작용 하지 않으니까 area사용할것..
-
-
-
-![](https://i.imgur.com/Fd5yAqe.png)
-
-
-https://docs.godotengine.org/en/4.1/tutorials/physics/physics_introduction.html
 
 https://stackoverflow.com/questions/75617655/when-should-i-use-a-kinematicbody-or-a-rigidbody-for-2d-platformer-characters  
 ---> 엄청나다! 
@@ -496,33 +327,8 @@ platform을 뛰어다니는게임
 
 
 
-## 이제 몬스터가 랜덤하게 나오게 하자
 
 
-## 땅이 계속 이어지도록 만들자
-
-... 도무지  staticbody를 endless하게 나오게하는법을 모르겠어서 어쩔 수 없이  
-뒤엎고 타일맵으로 변경  
-타일맵 자체에 collision 기능이 없었다 그래서 타일셋에서 직접 넣어줘야했음
-
-1. 타일맵이용 + physicslayer를 추가해서 (이게 collision효과를줌)  
-	1. 
-2. staticbody2d이용
-	1. 이렇게 이용할경우 카메라2d의 속도에 맞춰 땅도 같이 움직이게한다 https://youtu.be/nKBhz6oJYsc?t=1201
-
-
-![](https://i.imgur.com/HSCcB8v.png)  
-![](https://i.imgur.com/aVfSvLU.png)
-
-계속 떠 있는 느낌을 주는데 collisionshape가 엄청두껍다;;  
-보니까 apply가 되어있지않았던것임  
-![](https://i.imgur.com/TpmbvO8.png)
-
-
-![](https://i.imgur.com/sKWJTpL.png)
-
-저렇게 shape 만들어주고 다시한번 눌러줘야한다  
-![](https://i.imgur.com/d5AqtdT.png)
 
 이제서야 간극이 줄음을 확인 할 수 있음  
 이제 이 타일맵은 무한으로 하는법?  
@@ -535,9 +341,6 @@ platform을 뛰어다니는게임
 
 physicslayer https://youtu.be/S8lMTwSRoRg?t=3090
 
-
-
-## 부딪히면 게임이 끝나게 하자
 
 
 

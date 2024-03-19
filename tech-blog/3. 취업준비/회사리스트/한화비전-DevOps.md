@@ -35,5 +35,5 @@ deadline:
 apply-at: 점핏
 지원여부: 
 지원날짜: 
-isvalidnow: true
+isvalidnow: false
 ---

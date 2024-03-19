@@ -12,5 +12,6 @@
   "userIgnoreFilters": [
     "2. posts/html/",
     "export/"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

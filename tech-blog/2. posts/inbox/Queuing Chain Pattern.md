@@ -1,14 +1,17 @@
 ---
-title: mysql 쿼리최적화
-created: 2024-03-18 18:25
-last-updated: 2024-03-18 18:25
+title: Queuing Chain Pattern
+created: 2024-03-18 18:26
+last-updated: 2024-03-18 18:26
 tags:
-  - mysql
+  - aws
+  - cloud
+  - designpattern
 ---
 
 ## 👯‍♂️ Intro & tl;dr
 
-Brief introduction about the topic or what the post will cover.
+ecs,  sqs 이용한 큐잉 체인 패턴
+
 
 --- 
 

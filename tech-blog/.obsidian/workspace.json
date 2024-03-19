@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b8367a68b820f9a",
+            "id": "1086b3a01ef39530",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. 취업준비/2403-1차 지원(취업)/크래프톤-자소서draft.md",
+                "file": "2. posts/blogs/obsidian 블로그 개발기.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7f0a9cd2c4f57689",
+            "id": "6feacc5dc923a71d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. posts/blogs/mysql 쿼리최적화.md",
+                "file": "4. 블로그 만들기/invalid http request.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:책-혼공컴운",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.50418853759766
+    "width": 280.50418853759766
   },
   "right": {
     "id": "ef0b8423b0befe53",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. posts/blogs/mysql 쿼리최적화.md",
+                "file": "2. posts/blogs/obsidian 블로그 개발기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. posts/blogs/mysql 쿼리최적화.md",
+                "file": "2. posts/blogs/obsidian 블로그 개발기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. posts/blogs/mysql 쿼리최적화.md"
+                "file": "2. posts/blogs/obsidian 블로그 개발기.md"
               }
             }
           },
@@ -155,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,34 +173,71 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "7f0a9cd2c4f57689",
+  "floating": {
+    "id": "babccc8af545b2b6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "11e4683315bfb54b",
+        "type": "window",
+        "children": [
+          {
+            "id": "1d11af6863c2127f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0b47e587635af80c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. posts/inbox/14강. 명령어 집합구조, CISC와 RISC.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 720,
+        "y": 25,
+        "width": 720,
+        "height": 875,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1086b3a01ef39530",
   "lastOpenFiles": [
-    "2. posts/blogs/Docker 이미지 최적화.md",
-    "2. posts/blogs/mysql 쿼리최적화.md",
-    "2. posts/blogs/파이썬 코드 품질관리.md",
-    "2. posts/blogs/ECS 태스크 관리.md",
-    "2. posts/blogs/Queuing Chain Pattern.md",
-    "2. posts/blogs/블로그 개발기.md",
-    "2. posts/blogs/profilehub개발기.md",
-    "2. posts/html/블로그개발기.md",
-    "2. posts/html/profilehub.md",
-    "2. posts/html/idontwaitingforwater.md",
+    "2. posts/blogs/(작성중)애자일 개발이 처음인 내가 출근했더니 스크럼 마스터가 된 건에 대하여.md",
     "2. posts/blogs/idontwaitingforwater 게임 개발기.md",
-    "2. posts/html/블로그개발.md",
-    "2. posts/blogs/잔혹한 천사의 테제로 일본어 배우기 - 개요 1.md",
-    "2. posts/tags(markdown).md",
-    "3. 취업준비/2403-1차 지원(취업)/크래프톤 자소서.md",
-    "3. 취업준비/2403-1차 지원(취업)/크래프톤-자소서draft.md",
-    "2. posts/blogs/19강. RAID정의와 종류.md",
-    "2. posts/blogs/11강.  명령어 사이클과 인터럽트.md",
-    "2. posts/blogs/13강. 명령어 병렬처리 기법.md",
-    "Home.md",
-    "2. posts/html/recent-updated.md",
-    "2. posts/html/recent-created.md",
+    "2. posts/blogs/obsidian 블로그 개발기.md",
+    "2. posts/inbox/14강. 명령어 집합구조, CISC와 RISC.md",
+    "2. posts/blogs/k8s 훑어보기.md",
+    "2. posts/blogs/(작성중)ECS service없에 task에 사설 도메인 붙일 수 있을까?.. 작성중.md",
+    "4. 블로그 만들기/SSL 인증서 적용하니 CSS가 적용이 안된다.md",
+    "4. 블로그 만들기/SSL 적용.md",
+    "4. 블로그 만들기/invalid http request.md",
+    "2. posts/blogs/API 호출 수를 줄이기 위한 Redis 연결.md",
+    "2. posts/blogs/github action 알아보기.md",
+    "4. 블로그 만들기/uvicorn-gunicorn-fastapi does not support ARM64; docker buildx.md",
+    "2. posts/inbox/13강. 명령어 병렬처리 기법.md",
+    "2. posts/inbox/11강.  명령어 사이클과 인터럽트.md",
+    "2. posts/inbox/25강. 시스템호출 직접 관찰하기.md",
+    "2. posts/inbox/21강. 다양한 입출력 방법.md",
+    "2. posts/inbox/20강. 장치컨트롤러와 장치 드라이버.md",
+    "2. posts/inbox/19강. RAID정의와 종류.md",
+    "2. posts/inbox/18강.  다양한 보조기억장치(동영상, 이미지랑 같이 보기).md",
+    "2. posts/inbox/17강.  캐시메모리.md",
+    "2. posts/inbox/16강. 메모리 주소 공간-물리주소와 논리주소.md",
+    "2. posts/inbox/15강. RAM의 특성과 종류.md",
+    "2. posts/blogs/aws+마인크래프트 패브릭.md",
     "2. posts/blogs/잔혹한 천사의 테제 가사 및 독음 1.md",
-    "0. inbox/무제 파일.md",
-    "0. inbox/무제 파일 1.md",
-    "0. inbox/dataview 고급쿼리.md",
+    "2. posts/blogs/첫번째 포스트.md",
+    "2. posts/blogs/Flask 프로덕션 배포시 usgi+nginx 같이쓰인다.md",
     "assets",
     "scripts/templates",
     "scripts",

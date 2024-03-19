@@ -228,14 +228,6 @@ AWS credential 설정 -> `aws-actions/configutre-aws-crendential`
 	- private으로 하면 접근 제한 할 수 있어 인증된 유저만 사용가능하다. 단  private ECR 리포 밖으로 데이터 전송시에 비용이 부가된다. 다만 AWS 같은 리전이나 private ECR/ECS/EKS간 데이터 전송은 무료
 	- 내 어플리케이션에는 중요한 정보가 없고 가능한 저렴한 가격에 서버 운영하고 싶기에 public으로 결정
 
-- datadog vs honeycomb -> datadog
-	- honeycomb 사람들이 심상치 않아서 궁금하다 ![](https://i.imgur.com/tJSJVbn.png)
-	-  datadog 팔로워수 ![](https://i.imgur.com/5NLzpfI.png) 초보자에게 옵션은 없다 일단 메이저로 선택한다. 팔로워가 110명 밖에 안된다는건 내가 문제가 생겨 구글링해도 검색 자료가 잘 안나올게 분명하기 때문임
-	- 
-
-
-## 👯‍♂️ Conclustion
-
 
 
 --- 
