@@ -5,6 +5,7 @@ last-updated: 2023-05-22T14:17:15
 tags:
   - 2023-k8s-bootcamp
   - k8s
+description: k8s clusterip 실습
 ---
 
 ## 서비스가 왜 필요한가
@@ -233,5 +234,5 @@ kubectl exec -it http-go -- curl my-service
 
 
 
-## 📑 Ref
+## Ref
 - 인프런 - devops를 위한 쿠버네티스

@@ -6,6 +6,7 @@ tags:
   - gameDev
   - godot
   - toyproject
+description: 토이 프로젝트 개발기
 ---
 
 # Idontwaitingforwater : 크롬 다이노 게임 그림판 버전

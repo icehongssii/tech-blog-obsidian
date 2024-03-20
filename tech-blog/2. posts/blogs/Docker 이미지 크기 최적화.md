@@ -5,6 +5,7 @@ last-updated: 2024-03-18 18:26
 tags:
   - docker
   - ci/cd
+description: 성능에 도움되는 dockerfile 작성법
 ---
 
 
@@ -90,11 +91,6 @@ RUN apt-get update && apt-get install -y \
 ```
 
 
-## 👯‍♂️ multi Stage Build 사용
-
-
-
---- 
 
 ## 👯‍♂️ Ref & LINKS TO THIS PAGE
 

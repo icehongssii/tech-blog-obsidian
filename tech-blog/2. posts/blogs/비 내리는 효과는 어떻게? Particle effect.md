@@ -2,6 +2,7 @@
 title: 비 내리는 효과는 어떻게? Particle effect
 created: 2024-03-19 10:23
 last-updated: 2024-03-19 10:23
+description: godot에서 particle effect구현해보자
 tags:
   - gameDev
   - godot
@@ -83,7 +84,6 @@ for i in range(0,10):
 하지만 이러나 저러나 아무리 구현해봐도 빗방울 떨어지는 모습이 비같지가 않고 쌀 알처럼 무겁게 느껴졌다 그래서 찾아보니 파티클 효과란게 있었다; 
 
 
---- 
 
 ## 👯‍♂️ 쉽고 빠른길; Particle Effect
 
@@ -120,7 +120,6 @@ title: 파티클 효과란?
 > 2019년에 애플에서는 더 이상 OpenGL을 지원하지 않고 애플에서 자체 제발한 컴퓨터 그래픽 라이브러리 Metal API를 사용하겠다고 발표함. 이 메탈은 애플 기기를 위해 최적화된 그래픽 레이어를 제공한다고한다. 더 이상 OpenGL을 사용하지 않고 Metal을 사용하겠다고 한 것은 애플 플랫폼에서 동작하는 게임이나 그래픽을 많이 사용하는 어플을 만들려면 Metal을 사용해야한다는 뜻임 그렇지 않으면 Opengl → Metal로 번역하는 방법을 찾아야한다는 뜻 + 그리고 OpenGL을 사용하는 앱 또한 애플 기기에서 사용 할 수 없단느 뜻을 의미함
 
 
---- 
 
 ## 👯‍♂️ Ref & LINKS TO THIS PAGE
 

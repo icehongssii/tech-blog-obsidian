@@ -6,6 +6,7 @@ tags:
   - aws
   - redis
   - fastapi
+description: Redis 컨테이너 보안그룹 인바운드 타켓이 서버 보안그룹으로
 ---
 
 ```ad-note
@@ -112,7 +113,6 @@ def fetch_github_content(url):
 ```
 
 
---- 
 
 ## 👯‍♂️ Ref & LINKS TO THIS PAGE
 

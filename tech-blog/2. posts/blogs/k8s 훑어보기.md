@@ -5,6 +5,7 @@ last-updated: 2023-05-10 15:32
 tags:
   - 2023-k8s-bootcamp
   - k8s
+description: k8s 기초
 ---
 
 ## k8s 워크로드

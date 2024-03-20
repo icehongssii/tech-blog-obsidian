@@ -6,6 +6,7 @@ tags:
   - github
   - ci/cd
   - aws
+description: repo 푸쉬, 커밋시 생기는 이벤트를 github action으로 관리하자
 ---
 
 ## 👯‍♂️ Intro & tl;dr
@@ -230,7 +231,6 @@ AWS credential 설정 -> `aws-actions/configutre-aws-crendential`
 
 
 
---- 
 
 ## 👯‍♂️ Ref & LINKS TO THIS PAGE
 

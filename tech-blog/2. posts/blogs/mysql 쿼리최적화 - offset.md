@@ -6,15 +6,8 @@ tags:
   - mysql
   - troubleshooting
   - db
+description: 그냥 offset만 사용시 성능저하 문제 생길수도있다. late row lookup
 ---
-
-```ad-tip
-title: 키워드
-- row lookup
-- 행 포인터 
-- 테이블 포인터 
-```
-
 
 
 ## 👯‍♂️ 10개행 조회하는데 왜 느린가?
@@ -133,13 +126,6 @@ limit 10
 
 
 
---- 
-
-## 👯‍♂️ Conclustion
-
-Summarize the main points and conclude your post.
-
---- 
 
 ## 👯‍♂️ Ref & LINKS TO THIS PAGE
 

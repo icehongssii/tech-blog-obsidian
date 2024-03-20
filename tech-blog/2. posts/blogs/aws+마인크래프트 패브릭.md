@@ -7,11 +7,8 @@ tags:
   - cloud
   - gameDev
   - minecraft
+description: aws로 마크서버 운영하자
 ---
-
-## 👯‍♂️ intro & tl;dr
-
---- 
 
 ## 👯‍♂️ aws+마인크래프트 바닐라서버
 
@@ -212,11 +209,8 @@ title: ubuntu22.04 포트개방
 - sudo iptables _I INPUT -p udp --dport 25565 -j ACCEPT
 - 
 ```
-## 👯‍♂️ Conclustion
 
-Summarize the main points and conclude your post.
 
---- 
 
 ## 👯‍♂️ Ref
 

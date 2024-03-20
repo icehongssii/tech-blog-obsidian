@@ -5,6 +5,7 @@ last-updated: 2023-06-02T14:55:12
 tags:
   - 2023-k8s-bootcamp
   - k8s
+description: 사이드카,어댑터, 앰버서더 컨테이너와 크론잡
 ---
 
 

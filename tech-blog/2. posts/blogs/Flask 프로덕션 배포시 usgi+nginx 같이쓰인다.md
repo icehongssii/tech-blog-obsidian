@@ -5,6 +5,7 @@ last-updated: 2024-03-11 16:23
 tags:
   - python
   - web
+description: 단순한 서버/개발용이라면 fastapi 사용. 복잡+프로덕션은 다른 프레임워크 고려
 ---
 
 
@@ -62,8 +63,6 @@ flask에 기본적으로 개발용 서버 포함되지만 테스트와 개발 �
 
 
 
-
---- 
 
 ## 👯‍♂️ Ref & LINKS TO THIS PAGE
 

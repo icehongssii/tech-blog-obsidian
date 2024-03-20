@@ -6,13 +6,8 @@ tags:
   - gameDev
   - godot
   - toyproject
+description: state machine  디자인 패턴으로 플레이어 상태를 표현하자
 ---
-
-```ad-note
-title: 키워드
-- state machine
-
-```
 
 
 ## 👯‍♂️ 문제; 왜 점프 스프라이트가 적용 안되지?
@@ -65,11 +60,11 @@ func _physics_process(delta):
 
 ```
 
-그런데 아무리 엔터를 눌러도 아래 스프라이트 처럼 공중에 뛰는게 구현이 안된다
+그런데 아무리 엔터를 눌러도 아래 스프라이트 처럼 공중에 뛰는게 구현이 안된다  
 ![점프 스프라이트](https://i.imgur.com/9HqdlCE.png)
 
 부분은 캐릭터의 수직 속도가 0보다 작을 때, 즉 캐릭터가 상승 중일 때 점프 애니메이션을 실행합니다
-### velocity.y < 0 조건을 추가 한다면? 
+### velocity.y < 0 조건을 추가 한다면?
 
 
 ```ad-important
@@ -82,7 +77,7 @@ title: 근데  velocity.y <0의 의미가 뭘까?
 
 ```
 
-velocity.y < 0 그러니까 캐릭터가 점프를 하면 그떄 점프스프라이트를 실행하자!
+velocity.y < 0 그러니까 캐릭터가 점프를 하면 그떄 점프스프라이트를 실행하자!  
 라고 해봤지만
 ```python
 	## Handle jump.
@@ -90,7 +85,7 @@ velocity.y < 0 그러니까 캐릭터가 점프를 하면 그떄 점프스프라
 			anim.play("Jump") ####
 ```
 
-점프 스프라이트 중 첫 번째 프레임만 실행된다
+점프 스프라이트 중 첫 번째 프레임만 실행된다  
 ![](https://i.imgur.com/amX8gww.gif)
 
 
@@ -128,14 +123,14 @@ Godot에서 `physics_process()`는 기본적으로 초당 60회 호출하는데 
     
 2. **애니메이션 우선순위**: Godot에서는 애니메이션이 중첩될 수 있으며, 이전에 실행된 애니메이션이 끝나기 전에 새 애니메이션이 실행되면, 이전 애니메이션이 중단될 수 있다. 만약 `anim.play("Jump")` 이전에 다른 애니메이션이 실행 중이고, 그 애니메이션이 아직 완료되지 않았다면, `Jump` 애니메이션은 시작되지 않을 수 있다.. 
 
-그렇다고 physics_process()를 호출하지 않으면 상태가 업데이트 되지 않는다!
+그렇다고 physics_process()를 호출하지 않으면 상태가 업데이트 되지 않는다!  
 그럼 어떻게 해결 할 수 있을까?
 
 
 
 
 
-## 👯‍♂️ 해결 방법; state machine
+## 👯‍♂️ 해결 방법; State Machine
 
 지피티한테 물어보니 state machine 디자인패턴을 추천했다..
 
@@ -262,7 +257,6 @@ enum {
 
 ![](https://i.imgur.com/94zOvZ2.gif)
 
---- 
 
 ## 👯‍♂️ Ref & LINKS TO THIS PAGE
 

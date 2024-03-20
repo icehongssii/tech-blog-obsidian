@@ -6,6 +6,7 @@ tags:
   - gameDev
   - godot
   - toyproject
+description: rigidbody와 kinematic body차이
 ---
 
 ## 👯‍♂️ Rigidbody? Kinematic Body?
@@ -33,7 +34,6 @@ Godot에서 쓰이는 용어들에 대해서 조금씩 익숙해져가고 있다
 - 이 노드를 무엇이 움직이게 하는가 물리엔진이라면 Rigidbody이고  이 노드를 움직이는게 스크립트라면 CharacterBody
 
 
---- 
 
 ## 👯‍♂️ Ref & LINKS TO THIS PAGE
 

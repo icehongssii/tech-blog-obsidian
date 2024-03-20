@@ -5,6 +5,7 @@ last-updated: 2024-03-16 22:17
 tags:
   - troubleshooting
   - aws
+description: ecs task 직접 사설 도메인 붙이는건 안티패턴이다
 ---
 
 

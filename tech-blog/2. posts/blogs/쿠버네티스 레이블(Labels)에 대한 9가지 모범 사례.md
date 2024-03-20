@@ -5,6 +5,7 @@ last-updated: 2023-05-10 15:32
 tags:
   - 2023-k8s-bootcamp
   - k8s
+description: 레이블로 객체를 편하게 운영하자
 ---
 
 해당 내용은 아래 글에 대한 번역을 바탕으로 합니다.
@@ -216,7 +217,7 @@ InstanceGroup에 CloudLabels를 적용하면, 그것들은 instanceGroup의 일�
 쿠버네티스 레이블은 쿠버네티스 객체 및 리소스를 식별하고 구성하는 좋은 방법입니다. 쿠버네티스 팀 리더와 IT매니저는 쿠버네티스 레이블 계획을 구성하고 구현하는 데 가장 적합합니다. 팀 전체에서 레이블 규칙을 따르게 함으로써 쿠버네티스 환경을 보다 잘 길들이고 무분별한 확산이 없도록 막을 수 있습니다. 레이블을 사용하면 쿠버네티스 개체에 대해 대량으로 작업하는 것이 보다 쉬워지므로, 레이블 지정 규칙을 준수하면 장기적으로 팀의 효율성, 생산성 또한 증가할 수 있습니다.
 
 
-## 📑 Ref
+## Ref
 
 - 인프런 - devops를 위한 쿠버네티스
 - 원문 https://www.replex.io/blog/9-best-practices-and-examples-for-working-with-kubernetes-labels

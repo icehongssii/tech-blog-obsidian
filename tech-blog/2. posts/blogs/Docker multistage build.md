@@ -5,11 +5,12 @@ last-updated: 2024-03-19 00:16
 tags:
   - docker
   - ci/cd
+description: docker image 사이즈와 빌드속도 최적화
 ---
 
 ## 👯‍♂️ Intro & tl;dr
 
-<mark style="background: #CACFD9A6;">도커이미지 사이즈 줄이는 방법중 하나 멀티스테이지. 
+<mark style="background: #CACFD9A6;">도커이미지 사이즈 줄이는 방법중 하나 멀티스테이지.  
 멀티 스테이지는 하나의 도커파일에서 이미지를 빌드하는 단계를 여러개로 나누어 필요한 것만 마지막에 도커 이미지로 만들어 질 수록 함!</mark>
 
 아래는 python3.9이미지를 베이스로 이미 주피터와 판다스 빌드시킨 builder 이미지를 사용한다
@@ -31,7 +32,7 @@ RUN pip install --no-cache /wheels/*
 
 --- 
 
-## 👯‍♂️  멀티 스테이지 빌드 목적 
+## 👯‍♂️ 멀티 스테이지 빌드 목적
 
 - 도커 이미지 크기를 줄이는게 주 목적
 - 여러 단계의 빌드 단계를 만들고, 다른 단계의 결과물에서 특정 폴더만 복사해올 수 있다.
@@ -72,10 +73,8 @@ docker build -t alexellis2/href-counter:latest .
 docker build --target builder -t alexellis2/href-counter:latest .
 ```
 
-- --target builder : 이 옵션은 Dockerfile내에서 여러 빌드 스테이지 있을 때 특정 스테이지까지만 빌드하라는 의미임!
+- --target builder : 이 옵션은 Dockerfile내에서 여러 빌드 스테이지 있을 때 특정 스테이지까지만 빌드하라는 의미임!  
 builder 스테이지까지만 빌드 수행하고 생성된 이미지를 href-counter에 저장하라는 의미이다
-
---- 
 
 ## 👯‍♂️ Ref & LINKS TO THIS PAGE
 

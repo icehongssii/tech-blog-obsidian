@@ -2,25 +2,16 @@
 title: <% tp.file.title %>
 created: <% tp.file.creation_date() %>
 last-updated: <% tp.file.last_modified_date() %>
-tags:
-  - CS
-  - 책-혼공컴운
-  - book
+tags: []
 ---
 
 ## 👯‍♂️ Intro & tl;dr
 
 Brief introduction about the topic or what the post will cover.
 
---- 
 
 ## 👯‍♂️ 메인포인트1
 
-## 👯‍♂️ Conclustion
-
-Summarize the main points and conclude your post.
-
---- 
 
 ## 👯‍♂️ Ref & LINKS TO THIS PAGE
 
