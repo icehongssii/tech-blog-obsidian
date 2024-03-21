@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. posts/blogs/idontwaitingforwater 게임 개발기.md",
+                "file": "2. posts/html/tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "env",
+                "query": "tag:#ci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. posts/blogs/idontwaitingforwater 게임 개발기.md",
+                "file": "2. posts/html/tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. posts/blogs/idontwaitingforwater 게임 개발기.md",
+                "file": "2. posts/html/tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. posts/blogs/idontwaitingforwater 게임 개발기.md"
+                "file": "2. posts/html/tags.md"
               }
             }
           },
@@ -176,32 +176,34 @@
   },
   "active": "6feacc5dc923a71d",
   "lastOpenFiles": [
-    "2. posts/blogs/obsidian 블로그 개발기.md",
+    "2. posts/html/about.md",
+    "2. posts/html/project-obsidianBlog.md",
+    "2. posts/html/tags.md",
+    "2. posts/html/project-idontwaitingforwater.md",
+    "2. posts/html/recent-created.md",
+    "2. posts/html/recent-updated.md",
+    "2. posts/html/profilehub.md",
+    "2. posts/html/idontwaitingforwater.md",
+    "2. posts/html/블로그개발기.md",
+    "2. posts/tags.md",
+    "scripts/templates/dataviewToMDtags.md",
+    "2. posts/html/search.md",
+    "2. posts/html/category.md",
+    "scripts/templates/dataviewToMD.md",
+    "scripts/templates/inbox.md",
+    "scripts/templates/blogPost.md",
+    "0. inbox/posts/html/tags(markdown).md",
+    "0. inbox/posts/html",
+    "0. inbox/posts",
+    "4. 블로그 만들기/code deploy무중단ecs배포.md",
+    "4. 블로그 만들기/트러블슈팅 작성방법.md",
+    "4. 블로그 만들기/ECR login.md",
+    "4. 블로그 만들기/SSL 적용.md",
+    "4. 블로그 만들기/ECS 서비스에 개인 도메인 적용.md",
+    "4. 블로그 만들기/ECS에 고정 주소 설정.md",
     "2. posts/blogs/비 내리는 효과는 어떻게? Particle effect.md",
     "2. posts/blogs/Docker 이미지 크기 최적화.md",
     "2. posts/blogs/Rigidbody? Kinematic Body?.md",
-    "2. posts/blogs/Flask 프로덕션 배포시 usgi+nginx 같이쓰인다.md",
-    "2. posts/blogs/k8s-서비스-외부로 서비스 노출하는 세가지방법.md",
-    "2. posts/blogs/점프를 어떻게 구현할까? state machine.md",
-    "2. posts/blogs/k8s-서비스와clusterIP.md",
-    "2. posts/blogs/github action 알아보기.md",
-    "2. posts/blogs/API 호출 수를 줄이기 위한 Redis 연결.md",
-    "2. posts/blogs/무한 횡스크롤 표현.md",
-    "2. posts/blogs/sprite sheet로 만들어 놓자.md",
-    "2. posts/blogs/Docker multistage build.md",
-    "2. posts/blogs/잔혹한 천사의 테제로 일본어 배우기 - 개요 1.md",
-    "2. posts/blogs/잔혹한 천사의 테제 가사 및 독음 1.md",
-    "2. posts/blogs/aws+마인크래프트 패브릭.md",
-    "2. posts/blogs/(작성중)애자일 개발이 처음인 내가 출근했더니 스크럼 마스터가 된 건에 대하여.md",
-    "2. posts/blogs/mysql 쿼리최적화 - offset.md",
-    "2. posts/blogs/k8s-파드디자인패턴과잡실행.md",
-    "2. posts/blogs/idontwaitingforwater 게임 개발기.md",
-    "2. posts/blogs/(작성중)ECS service없에 task에 사설 도메인 붙일 수 있을까?.. 작성중.md",
-    "2. posts/blogs/k8s 훑어보기.md",
-    "2. posts/blogs/쿠버네티스 레이블(Labels)에 대한 9가지 모범 사례.md",
-    "scripts/templates/blogPost.md",
-    "4. 블로그 만들기/SSL 인증서 적용하니 CSS가 적용이 안된다.md",
-    "4. 블로그 만들기/invalid http request.md",
     "assets",
     "scripts/templates",
     "scripts",
@@ -212,8 +214,6 @@
     "Pasted Image 20240311031936_238.png",
     "export/무제 파일/plugin/zoom/zoom.js",
     "export/무제 파일/plugin/zoom/zoom.esm.js",
-    "export/무제 파일/plugin/zoom/plugin.js",
-    "export/무제 파일/plugin/zoom",
     "export/무제 파일/plugin/chalkboard/img/whiteboard.png",
     "export/무제 파일/plugin/chalkboard/img/sponge.png",
     "export/무제 파일/plugin/chalkboard/img/chalk-yellow.png",

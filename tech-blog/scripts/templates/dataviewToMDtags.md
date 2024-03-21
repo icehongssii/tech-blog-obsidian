@@ -2,7 +2,7 @@
 <%*  
 const dv = app.plugins.plugins["dataview"].api;  
 const filename = tp.file.title 
-const newname = "/posts/html/"+filename
+const newname = "/2. posts/html/"+filename
 
 const originalFileContent = await tp.file.content;
 let newFileContent = originalFileContent;
