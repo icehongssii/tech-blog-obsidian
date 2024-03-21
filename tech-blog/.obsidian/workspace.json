@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. posts/blogs/Docker 이미지 크기 최적화.md",
+                "file": "2. posts/html/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. posts/blogs/Docker 이미지 크기 최적화.md",
+                "file": "2. posts/html/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. posts/blogs/Docker 이미지 크기 최적화.md",
+                "file": "2. posts/html/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. posts/blogs/Docker 이미지 크기 최적화.md"
+                "file": "2. posts/html/about.md"
               }
             }
           },
@@ -186,8 +186,9 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "7e9461bd74980657",
+  "active": "7b8983198a0710ac",
   "lastOpenFiles": [
+    "2. posts/blogs/Docker 이미지 크기 최적화.md",
     "2. posts/blogs/프로젝트-idontwaitingforwater.md",
     "2. posts/blogs/프로젝트-obsidianBlog.md",
     "2. posts/html/about.md",
