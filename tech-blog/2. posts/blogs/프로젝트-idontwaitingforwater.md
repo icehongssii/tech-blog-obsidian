@@ -1,5 +1,5 @@
 ---
-title: idontwaitingforwater
+title: 프로젝트-idontwaitingforwater
 created: 2024-03-18 17:46
 last-updated: 2024-03-18 17:46
 tags:

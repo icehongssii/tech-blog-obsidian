@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. posts/blogs/project/obsidianBlog.md",
+                "file": "2. posts/blogs/프로젝트-obsidianBlog.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. posts/blogs/project/idontwaitingforwater.md",
+                "file": "2. posts/blogs/Docker 이미지 크기 최적화.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. posts/blogs/project/idontwaitingforwater.md",
+                "file": "2. posts/blogs/Docker 이미지 크기 최적화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. posts/blogs/project/idontwaitingforwater.md",
+                "file": "2. posts/blogs/Docker 이미지 크기 최적화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. posts/blogs/project/idontwaitingforwater.md"
+                "file": "2. posts/blogs/Docker 이미지 크기 최적화.md"
               }
             }
           },
@@ -188,8 +188,8 @@
   },
   "active": "7e9461bd74980657",
   "lastOpenFiles": [
-    "2. posts/blogs/project/obsidianBlog.md",
-    "2. posts/blogs/project/idontwaitingforwater.md",
+    "2. posts/blogs/프로젝트-idontwaitingforwater.md",
+    "2. posts/blogs/프로젝트-obsidianBlog.md",
     "2. posts/html/about.md",
     "2. posts/blogs/project",
     "2. posts/무제 폴더",

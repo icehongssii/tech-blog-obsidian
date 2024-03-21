@@ -1,5 +1,5 @@
 ---
-title: obsidianBlog
+title: 프로젝트-obsidianBlog
 created: 2024-03-18 17:48
 last-updated: 2024-03-18 17:48
 tags:
