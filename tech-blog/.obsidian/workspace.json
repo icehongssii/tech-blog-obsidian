@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. posts/html/about.md",
+                "file": "2. posts/blogs/ECS service없에 task에 사설 도메인 붙일 수 있을까?...md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. posts/html/about.md",
+                "file": "2. posts/blogs/프로젝트-obsidianBlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. posts/html/about.md",
+                "file": "2. posts/blogs/프로젝트-obsidianBlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. posts/html/about.md"
+                "file": "2. posts/blogs/프로젝트-obsidianBlog.md"
               }
             }
           },
@@ -186,9 +186,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "7b8983198a0710ac",
+  "active": "6feacc5dc923a71d",
   "lastOpenFiles": [
     "2. posts/blogs/ECS service없에 task에 사설 도메인 붙일 수 있을까?...md",
+    "2. posts/html/about.md",
     "2. posts/blogs/Docker 이미지 크기 최적화.md",
     "2. posts/blogs/Flask 프로덕션 배포시 usgi+nginx 같이쓰인다.md",
     "2. posts/blogs/k8s-서비스-외부로 서비스 노출하는 세가지방법.md",
@@ -210,7 +211,6 @@
     "2. posts/blogs/Docker multistage build.md",
     "2. posts/blogs/무한 횡스크롤 표현.md",
     "2. posts/html/tags.md",
-    "2. posts/html/about.md",
     "2. posts/tags.md",
     "2. posts/blogs/project",
     "2. posts/무제 폴더",
