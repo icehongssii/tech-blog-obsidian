@@ -7,7 +7,7 @@ tags:
   - aws
 description: ecs task 직접 사설 도메인 붙이는건 안티패턴이다
 ---
-
+2018.05-2019.03
 
 ## 👯‍♂️ 붙일 수 있지만 Best Practice는 아닌 듯 하다
 

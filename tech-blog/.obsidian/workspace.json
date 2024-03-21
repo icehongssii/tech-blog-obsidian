@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. posts/blogs/RigidBody와 KinematicBody 차이.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6feacc5dc923a71d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2. posts/html/about.md",
                 "mode": "source",
                 "source": false
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,11 +173,14 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "6feacc5dc923a71d",
+  "active": "1086b3a01ef39530",
   "lastOpenFiles": [
-    "2. posts/blogs/프로젝트-obsidianBlog.md",
-    "2. posts/blogs/ECS service없에 task에 사설 도메인 붙일 수 있을까?...md",
+    "0. inbox/().md",
     "2. posts/html/about.md",
+    "2. posts/html/tags.md",
+    "2. posts/blogs/RigidBody와 KinematicBody 차이.md",
+    "2. posts/blogs/ECS service없에 task에 사설 도메인 붙일 수 있을까?...md",
+    "2. posts/blogs/프로젝트-obsidianBlog.md",
     "2. posts/blogs/Docker 이미지 크기 최적화.md",
     "2. posts/blogs/Flask 프로덕션 배포시 usgi+nginx 같이쓰인다.md",
     "2. posts/blogs/k8s-서비스-외부로 서비스 노출하는 세가지방법.md",
@@ -210,12 +200,9 @@
     "2. posts/blogs/잔혹한 천사의 테제 가사 및 독음 1.md",
     "2. posts/blogs/Docker multistage build.md",
     "2. posts/blogs/무한 횡스크롤 표현.md",
-    "2. posts/html/tags.md",
     "2. posts/tags.md",
     "2. posts/blogs/project",
     "2. posts/무제 폴더",
-    "2. posts/blogs/RigidBody와 KinematicBody 차이.md",
-    "4. 블로그 만들기/블로그 제목에 특수문자를 넣지 말자.md",
     "0. inbox/posts/html",
     "0. inbox/posts",
     "assets",
