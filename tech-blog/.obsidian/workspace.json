@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. posts/blogs/프로젝트-obsidianBlog.md",
+                "file": "2. posts/html/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. posts/blogs/프로젝트-obsidianBlog.md",
+                "file": "2. posts/html/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. posts/blogs/프로젝트-obsidianBlog.md",
+                "file": "2. posts/html/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. posts/blogs/프로젝트-obsidianBlog.md"
+                "file": "2. posts/html/about.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "6feacc5dc923a71d",
   "lastOpenFiles": [
+    "2. posts/blogs/프로젝트-obsidianBlog.md",
     "2. posts/blogs/ECS service없에 task에 사설 도메인 붙일 수 있을까?...md",
     "2. posts/html/about.md",
     "2. posts/blogs/Docker 이미지 크기 최적화.md",
@@ -201,7 +202,6 @@
     "2. posts/blogs/SSL 인증서 적용하니 CSS가 적용이 안된다.md",
     "2. posts/blogs/mysql 쿼리최적화 - offset.md",
     "2. posts/blogs/프로젝트-디스코드 홀더 인증 봇.md",
-    "2. posts/blogs/프로젝트-obsidianBlog.md",
     "2. posts/blogs/프로젝트-idontwaitingforwater.md",
     "2. posts/blogs/애자일 개발이 처음인 내가 출근했더니 스크럼 마스터가 된 건에 대하여.md",
     "2. posts/blogs/잔혹한 천사의 테제로 일본어 배우기 - 개요 1.md",
