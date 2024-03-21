@@ -1,12 +1,12 @@
 ---
-title: Rigidbody? Kinematic Body?
+title: RigidBody와 KinematicBody 차이
 created: 2024-03-19 14:32
 last-updated: 2024-03-19 14:32
 tags:
   - gameDev
   - godot
   - toyproject
-description: rigidbody와 kinematic body차이
+description: 노드가 캐릭터를 밀어낼 수 있다면 RigidBody이다
 ---
 
 ## 👯‍♂️ Rigidbody? Kinematic Body?
@@ -32,6 +32,7 @@ Godot에서 쓰이는 용어들에 대해서 조금씩 익숙해져가고 있다
 	- 예스: -> rigidbody
 	- 놉! -> characterbody
 - 이 노드를 무엇이 움직이게 하는가 물리엔진이라면 Rigidbody이고  이 노드를 움직이는게 스크립트라면 CharacterBody
+
 
 
 
