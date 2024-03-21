@@ -10,6 +10,13 @@
 - <a href="그외경험">경험들(추천서/상/발표/오픈소스)</a>
 - <a href="TMI">TMI</a>
 
+<div class="center-image"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xGytDsqkQY8?si=Ee0YeFatrr9yNWBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div>
+
+음악과 함께 들어야 더 즐겁습니다.
+
+<br>
+
 ## 🥨 <a id="icehongssii">icehongssii의 자기소개</a>
 
 <br>
@@ -188,9 +195,6 @@
 --- 
 ## 🥨 <a id="TMI">TMI</a>
 
-
-<div class="center-image"> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xGytDsqkQY8?si=Ee0YeFatrr9yNWBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div>
 
 - 태권도  파란띠
 - 카트라이더 클럽장 (정모/굿즈 제작)
