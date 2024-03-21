@@ -3,18 +3,20 @@
 
 ## Icehongssii의 경력 기술서 목차
 
-- <a href="#Iceheongssii">Iceheongssii 자기소개</a>
+- <a href="#icehongssii">icehongssii의 자기소개</a>
 - <a href="#경력기간">경력기간 == 2.9년</a>
 	- <a href="#키토크에이아이">1. 키토크에이아이</a>
 	- <a href="#델타박스오우">2. 델타박스 오우 </a>
 - <a href="그외경험">경험들(추천서/상/발표/오픈소스)</a>
 - <a href="TMI">TMI</a>
 
-## 🥨 <a id="icehongssii">Iceheongssii 자기소개</a>
+## 🥨 <a id="icehongssii">icehongssii의 자기소개</a>
 
 <br>
 
 **안녕하세요, 자동화로 제품에 기여하는 2.9년 차 파이썬 개발자 icehongssii입니다.**  
+본명은 특이해서 부득이하게 닉네임으로 표시합니다..  🥶  
+
 <br>
 스타트업에서 서비스에 사용되는 데이터 추출, 정제, 적재(이하 ETL) 파이프라인 개발, 유지, 보수 업무를 주로 하였고  파이썬, Docker를 이용한 퍼블릭 <mark style="background: #BBFABBA6;">클라우드 서비스들(AWS ECS, ECR등</mark>)를 주로 사용하였습니다.   클라우드 환경에서 컨테이너 아키텍처를 이용한 애플리케 이션을 좋아합니다.  
 
