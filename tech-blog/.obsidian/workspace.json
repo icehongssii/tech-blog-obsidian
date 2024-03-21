@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. posts/html/about.md",
+                "file": "2. posts/html/tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. posts/html/about.md",
+                "file": "2. posts/html/tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. posts/html/about.md",
+                "file": "2. posts/html/tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. posts/html/about.md"
+                "file": "2. posts/html/tags.md"
               }
             }
           },
@@ -188,10 +188,11 @@
   },
   "active": "7b8983198a0710ac",
   "lastOpenFiles": [
-    "2. posts/blogs/Docker 이미지 크기 최적화.md",
-    "2. posts/blogs/프로젝트-idontwaitingforwater.md",
-    "2. posts/blogs/프로젝트-obsidianBlog.md",
     "2. posts/html/about.md",
+    "2. posts/tags.md",
+    "2. posts/blogs/프로젝트-idontwaitingforwater.md",
+    "2. posts/blogs/Docker 이미지 크기 최적화.md",
+    "2. posts/blogs/프로젝트-obsidianBlog.md",
     "2. posts/blogs/project",
     "2. posts/무제 폴더",
     "2. posts/blogs/RigidBody와 KinematicBody 차이.md",
@@ -207,7 +208,6 @@
     "2. posts/html/recent-updated.md",
     "2. posts/html/profilehub.md",
     "2. posts/html/블로그개발기.md",
-    "2. posts/tags.md",
     "scripts/templates/dataviewToMDtags.md",
     "2. posts/html/search.md",
     "2. posts/html/category.md",

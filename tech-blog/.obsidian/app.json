@@ -13,5 +13,6 @@
     "2. posts/html/",
     "export/"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false
 }
