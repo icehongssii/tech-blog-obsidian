@@ -15,11 +15,12 @@ description: 토이 프로젝트 개발기
 ![](https://i.imgur.com/V4jIxlD.gif)
 
 
-GIthub: https://github.com/icehongssii12345/idontwaitingforwater  
-Website : https://d1emjrld223cpx.cloudfront.net/index.html 
-- 진행기간  2024.02.01 - 2024.02.22
-- 목표
-	- 크롬 다이노같은 게임을 브라우저 기반으로 동작되게 만들어보자 
+## 👯‍♂️ 개요
+
+- [GIthub](https://github.com/icehongssii12345/idontwaitingforwater )
+- [Website](https://d1emjrld223cpx.cloudfront.net/index.html)
+- 진행기간 :   2024.02.01 - 2024.02.22
+- 목표 : 크롬 다이노같은 게임을 브라우저 기반으로 동작되게 만들어보자 
 	
 ## 👯‍♂️ 역할
 
@@ -60,8 +61,3 @@ Website : https://d1emjrld223cpx.cloudfront.net/index.html
 ![](https://i.imgur.com/4C5egcI.png)  
 ![](https://i.imgur.com/ndYkgIo.png)  
 ![](https://i.imgur.com/yqVp98L.png)
-
-
-```sh
-docker ps
-```

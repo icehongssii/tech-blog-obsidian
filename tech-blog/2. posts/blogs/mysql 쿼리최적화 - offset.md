@@ -86,14 +86,14 @@ LIMIT   150000, 10
 - 논리적으로 테이블 일주부지만 물리적으로 테이블과 별도로 존재함
 	- 인덱스 키 =  즉 인덱스가 생성된 열
 	- 테이블 포인터 =  레코드가 나타내는 행을 고유하게 식별하는 값입니다. (InnoDB에서 PK)
-- 인덱스 레코드는<mark style="background: #FFF3A3A6;"> B-Tree 구조로 저장되므로 참조 및 범위 검색이 매</mark>우 빠릅니다.
+- 인덱스 레코드는<mark style="background: #FFF3A3A6;"> B-Tree 구조로 저장되므로 참조 및 범위 검색이 매</mark>우 빠름
 - 인덱스는 테이블 부분 집합이므로 모든 데이터가 포함되어 있지 않다. 따라서 순서 유지하면서 실제 값 찾으려면 <mark style="background: #FFF3A3A6;">인덱스 테이블과 원본 테이블 Join 필요 </mark>
 
 
 ![](https://i.imgur.com/ujT5VQB.png)
 
 - 위처럼  DB 엔진은 각 인덱스 레코드에 상응하는 테이블 레코드를 찾아 인덱싱이 되지 않은 모든 데이터를 반환해야함
-- <mark style="background: #FFF3A3A6;">인덱스 레코드에 해당하는 테이블 레코드를 가져오는 프로세스를 row lookup라고 합니다</mark>. 인덱스와 테이블을 연결하는 곡선 화살표
+- <mark style="background: #FFF3A3A6;">인덱스 레코드에 해당하는 테이블 레코드를 가져오는 프로세스를 row lookup라고 함</mark>. 인덱스와 테이블을 연결하는 곡선 화살표이다..
 
 그런데 당연하게도 이러한 과정은 오래 걸린다  
 왜냐면 인덱스 레코드와 테이블 레코드는 메모리와 디스크에서 서로 멀리 떨어져있기 때문.  
@@ -104,25 +104,58 @@ LIMIT   150000, 10
 
 ### Late Row Looup
 
-근데 잠깐.. 이런 Row lookup과정이 필요한가? 애초에 아래처럼 하면안되나?
-```sql
-id > 150000
-limit 10
-```
-예를 들면 limit 8,2 쿼리라면 인덱스를 사용해 앞선 8개의 값은 무시하고 남은 2개만 반환하면 될 일입니다.  
-![](https://i.imgur.com/Jc9ZVYA.png)
+Late Row Lookup을 사용하면, 이 문제를 효과적으로 해결할 수 있다
 
-이 알고리즘이 훨씬 더 효율적인 알고리즘으로 많은 행 조회 횟수를 줄일 수 있다는 것을 알 수 있습니다.
+- Late Row Lookup 기법은 주로 큰 데이터셋에서 특정 범위의 데이터를 효율적으로 검색하기 위해 사용
+- 인덱스를 활용하여 필요한 행의 '키'만 먼저 조회하고 -> 실제 데이터는 나중에 조회하는 방식입니다. 
+- 즉, 먼저 작은 비용으로 필요한 행의 위치만 찾아내고, 실제 데이터는 필요할 때만 가져오는 것이다.
 
-이를 지연 행 조회라고 하는데, 엔진은 이를 피할 방법이 없는 경우에만 행을 조회해야 합니다. 인덱싱된 필드만 사용하여 행을 필터링할 가능성이 있는 경우, 실제 MySQL 테이블에서 행을 조회하기 전에 이 작업을 수행해야 합니다. 그냥 버리기 위해 테이블에서 레코드를 가져오는 것은 의미가 없습니다.
-
-그러나 MySQL은 항상 인덱스에서 값을 확인하기 전에 행을 검색하는 초기 행 조회를 수행하며, 심지어 최적화 프로그램에서도 인덱스를 사용하기로 결정합니다.
-
-## 👯‍♂️ 해결방법2; 키 기반 페이징(Keyset Pagination)
-
+예를들면
 
 ```sql
+SELECT *  FROM posts  
+ORDER BY created_at 
+DESC  
+LIMIT 10 OFFSET 1000;
 ```
+
+
+이 쿼리를 late row lookup을 사용한다면 
+
+
+1. 첫 번째 쿼리에서는 필요한 행의 ID만을 조회 (이때 키는 인덱스를 탈 것임)
+    
+    ```sql
+SELECT id  FROM posts  ORDER BY created_at DESC  LIMIT 10 OFFSET 1000;  
+	``` 
+    
+    
+2. 두 번째 쿼리에서는 첫 번째 쿼리에서 얻은 ID를 사용하여 실제 데이터를 조회
+    
+    ```sql
+    SELECT *  FROM posts  WHERE id IN (위 쿼리에서 얻은 ID 목록);
+	```
+    
+
+이 방식을 사용하면, 대량의 데이터를 스캔하는 비용을 크게 줄일 수 있으며, 특히 페이징 처리 시 성능을 크게 향상시킬 수 있다
+
+1번과정과 2번 과정을 조인하면 아래와같다
+
+```sql
+SELECT p.*
+FROM posts p
+INNER JOIN (
+    SELECT id
+    FROM posts
+    ORDER BY created_at DESC
+    LIMIT 10 OFFSET 1000
+) AS subquery ON p.id = subquery.id;
+```
+
+
+적용결과 .. 굿  
+![](https://i.imgur.com/MdJOoxk.png)
+
 
 
 

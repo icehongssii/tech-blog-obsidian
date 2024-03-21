@@ -12,12 +12,21 @@ description: 토이 프로젝트 개발기
 
 ![diagram.excalidraw.svg](https://i.imgur.com/1Gy30lv.png)
 
+## 👯‍♂️ 개요
 
-GIthub: https://github.com/icehongssii/personal-blog-render  
-Website : https:///www.xxxx.icehogssii.xyz
+기술 블로그에 포스팅할려면.. 개인적으로 공부한 내용을 이쁘게/가독성 좋게 꾸미는 과정이 필요합니다....
 
 
-- 진행기간  2024.03.05 - 진행중
+예를 들면 요즘에 노션에다가 개인 공부 한 내용 많이 저장하던데 이 내용 그대로  복붙해서 네이버 블로그에 못 올립니다.. 마크다운 호환이 안돼서.. 그래서 글씨 두껍게하는거 이런거 다 일일이 바꿔줘야합니다..
+
+<mark style="background: #ABF7F7A6;">이 작업이 귀찮아서 그냥 개인 공부 저장된 메모어플 통째로 블로그로 만들고 싶었습니다..</mark>
+
+사실 옵시디언(메모어플)-> 곧바로 웹페이지 만들어주는 서비스들이 존재합니다만.. 저는 인프라부터 제가 해보고 싶어서 굳이 굳이 처음부터 만들어봤습니다..
+
+
+- [GIthub](https://github.com/icehongssii/personal-blog-render)
+- [Website](https:///www.xxxx.icehogssii.xyz)
+- 진행기간  2024.03.05 - 계~에속 진행중 / 마일스톤 추후 업데이트 예정
 - 목표 
 	- 메모 어플에서 작성한 내용을 곧바로 블로그로 퍼블리싱 가능하게하자
 	- 기존에 비슷한 서비스를 하는 곳(obsidian flower show, obisidian publish)이 있긴하지만 직접 서버까지 운영해보고 싶어서 만들었다
