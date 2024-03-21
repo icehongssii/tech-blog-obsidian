@@ -31,8 +31,8 @@
 - 업무와 제품 운영의 자동화로 편의성과 효율성을 증가시킵니다.
 - 파이썬, Docker를 이용한 클라우드 서비스(AWS ECS, ECR)에서 데이터를 정제합니다.
 - 제 비전은 조직의 매니저로 명료한 커뮤니케이션을 활용해 팀을 관리하고 서비스 개선을 위한 기술 서포트 및 리뷰를 하는 것입니다.
-- 최근(2024.03.22기준)에는  [godot 게임 엔진 이요완 러닝 액션 게임](https://xxx.icehongssii.xyz/posts/프로젝트-idontwaitingforwater.md)과 지금 보고계시는 [이 블로그를  메모어플+ecr/ecs/codedeploy+fastapi+github로](https://xxx.icehongssii.xyz/posts/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-obsidianBlog.md) 개발했습니다..🎶🎶🎶🎶
-- 2024.03.22 기준 NFT를 이용한 디스코드 채널 회원 인증 봇을 제작 중입니다.
+- 최근(2024.03.22기준)에는  [godot 게임 엔진 이용한 러닝 액션 게임](https://xxx.icehongssii.xyz/posts/프로젝트-idontwaitingforwater.md)과 지금 보고계시는 [이 블로그를  메모어플+ecr/ecs/codedeploy+fastapi+github로](https://xxx.icehongssii.xyz/posts/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-obsidianBlog.md) 개발했습니다..🎶🎶🎶🎶
+- 2024.03.22  NFT를 이용한 디스코드 채널 회원 인증 봇을 제작을 시작했습니다.
 
 
 ```ad-important
