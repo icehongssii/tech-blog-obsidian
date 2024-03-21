@@ -14,8 +14,8 @@
 
 제가 만든 프로젝트가 궁금하다면 아래에 내용을 확인해주세요 
 
- - [블로그개발기](https://xxx.icehongssii.xyz/posts/project-obsidianBlog)
- - [게임-idontwaitingforwater](project-idontwaitingforwater)
+ - [블로그개발기](https://xxx.icehongssii.xyz/project/obsidianBlog)
+ - [게임-idontwaitingforwater](https://xxx.icehongssii.xyz/project/obsidianBlog)
 
 ## 그 외 TMI
 
