@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. posts/html/tags.md",
+                "file": "2. posts/html/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. posts/html/tags.md",
+                "file": "2. posts/html/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. posts/html/tags.md",
+                "file": "2. posts/html/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. posts/html/tags.md"
+                "file": "2. posts/html/about.md"
               }
             }
           },
@@ -188,36 +188,36 @@
   },
   "active": "7b8983198a0710ac",
   "lastOpenFiles": [
+    "2. posts/blogs/ECS service없에 task에 사설 도메인 붙일 수 있을까?...md",
+    "2. posts/blogs/Docker 이미지 크기 최적화.md",
+    "2. posts/blogs/Flask 프로덕션 배포시 usgi+nginx 같이쓰인다.md",
+    "2. posts/blogs/k8s-서비스-외부로 서비스 노출하는 세가지방법.md",
+    "2. posts/blogs/sprite sheet로 만들어 놓자.md",
+    "2. posts/blogs/aws+마인크래프트 패브릭.md",
+    "2. posts/blogs/k8s-파드디자인패턴과잡실행.md",
+    "2. posts/blogs/쿠버네티스 레이블(Labels)에 대한 9가지 모범 사례.md",
+    "2. posts/blogs/비 내리는 효과는 어떻게? Particle effect.md",
+    "2. posts/blogs/SSL 인증서 적용하니 CSS가 적용이 안된다.md",
+    "2. posts/blogs/mysql 쿼리최적화 - offset.md",
+    "2. posts/blogs/프로젝트-디스코드 홀더 인증 봇.md",
+    "2. posts/blogs/프로젝트-obsidianBlog.md",
+    "2. posts/blogs/프로젝트-idontwaitingforwater.md",
+    "2. posts/blogs/애자일 개발이 처음인 내가 출근했더니 스크럼 마스터가 된 건에 대하여.md",
+    "2. posts/blogs/잔혹한 천사의 테제로 일본어 배우기 - 개요 1.md",
+    "2. posts/blogs/k8s-서비스와clusterIP.md",
+    "2. posts/blogs/API 호출 수를 줄이기 위한 Redis 연결.md",
+    "2. posts/blogs/잔혹한 천사의 테제 가사 및 독음 1.md",
+    "2. posts/blogs/Docker multistage build.md",
+    "2. posts/blogs/무한 횡스크롤 표현.md",
+    "2. posts/html/tags.md",
     "2. posts/html/about.md",
     "2. posts/tags.md",
-    "2. posts/blogs/프로젝트-idontwaitingforwater.md",
-    "2. posts/blogs/Docker 이미지 크기 최적화.md",
-    "2. posts/blogs/프로젝트-obsidianBlog.md",
     "2. posts/blogs/project",
     "2. posts/무제 폴더",
     "2. posts/blogs/RigidBody와 KinematicBody 차이.md",
     "4. 블로그 만들기/블로그 제목에 특수문자를 넣지 말자.md",
-    "export/무제 파일/css/layout.css.md",
-    "5. 2403-idwfw게임프로젝트/idwfw-게임개발기.md",
-    "5. 2403-idwfw게임프로젝트/idontwaitingforwater기획서.md",
-    "2. posts/html/tags.md",
-    "2. posts/blogs/ECS service없에 task에 사설 도메인 붙일 수 있을까?...md",
-    "2. posts/blogs/k8s-파드디자인패턴과잡실행.md",
-    "2. posts/blogs/애자일 개발이 처음인 내가 출근했더니 스크럼 마스터가 된 건에 대하여.md",
-    "2. posts/html/recent-created.md",
-    "2. posts/html/recent-updated.md",
-    "2. posts/html/profilehub.md",
-    "2. posts/html/블로그개발기.md",
-    "scripts/templates/dataviewToMDtags.md",
-    "2. posts/html/search.md",
-    "2. posts/html/category.md",
-    "scripts/templates/dataviewToMD.md",
-    "scripts/templates/inbox.md",
-    "scripts/templates/blogPost.md",
-    "0. inbox/posts/html/tags(markdown).md",
     "0. inbox/posts/html",
     "0. inbox/posts",
-    "4. 블로그 만들기/code deploy무중단ecs배포.md",
     "assets",
     "scripts/templates",
     "scripts",
