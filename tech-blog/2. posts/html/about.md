@@ -11,9 +11,11 @@
 - <a href="TMI">TMI</a>
 
 <div class="center-image"> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xGytDsqkQY8?si=Ee0YeFatrr9yNWBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xGytDsqkQY8?si=Ee0YeFatrr9yNWBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+음악과 함께 저를 감상해주세요.
+</div>
 
-음악과 함께 들어야 더 즐겁습니다.
+
 
 <br>
 
